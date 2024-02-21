@@ -1,0 +1,1043 @@
+
+    
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+<head>
+<title>LG Electronics 中国 LG电子中国官方网站 手机 电视 冰箱 洗衣机 家用电器</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="Description" content="欢迎到LG电子中国官方网站。浏览家用电器，电视，音频，视频产品，移动电话和电脑配件。比较产品和获得细节。" />
+<meta name="Keywords" content="电视机, 家庭影院, 冰箱, 微波炉, 洗衣机, 干衣机, 吸尘器, 空调, GSM手机, CDMA手机, 3G手机, 电脑显示器, DVD刻录机, 笔记本电脑,  商用空调, 智能家居, 安防产品" />
+<link rel="canonical" href="http://www.lg.com/cn/index.jsp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+Please copy the tag below and paste it into the HEADER of the target page.
+IMPORTANT: The tag should be inserted as close to the beginning of the HEADER as possible and must be inserted within the HEAD tag on a page. 
+NOTE: Please do not copy the tag into a text application that may add additional carriage returns. Those carriage returns may cause errors on a page. 
+-->
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+ var gomez={ 
+		 gs: new Date().getTime(), 
+		 acctId:'F08CDF', 
+		 pgId:'', 
+		 grpId:'' 
+ }; 
+ //--> 
+ </SCRIPT> 
+ <SCRIPT LANGUAGE="JavaScript">
+<!-- 
+/*Gomez tag version: 5.0*/var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}return d;};gomez.h3(gomez,{b3:function(r){if(r<=0)return false;return Math.random()<=r&&r;},b0:function(n){var c=document.cookie;var v=c.match(new RegExp(';[ ]*'+n+'=([^;]*)'));if(!v)v=c.match(new RegExp(n+'=([^;]*)'));if(v)return unescape(v[1]);return '';},c2:function(n,v,e,p,d,s){try{var t=this,a=location.hostname;var c=n+'='+escape(v)+(e?';expires='+e.toGMTString():'')+(p?';path='+p:';path=/')+(d?';domain='+d:';domain='+a)+(s?';secure':'');document.cookie=c;}catch(e){}},z0:function(n){var t=this;if(n){var s =t.b0("__g_c");if(!s)return '';var v=s.match(new RegExp(n+':([^\|]*)'));if(v)return unescape(v[1]);return '';}else return '';},z1:function(n,m){var t=this;if(n){var s=t.b0("__g_c");if(s){if(s.indexOf(n+':')!=-1)s=s.replace(new RegExp('('+n+':[^\|]*)'),n+':'+m);else s=s==' '?n+':'+m:s+'|'+n+':'+m;t.c2("__g_c",s);}else t.c2("__g_c",n+':'+m);};}});if(gomez.wrate){gomez.i0=gomez.z0('w');if(gomez.i0){gomez.runFlg=parseInt(gomez.i0)>0?true:false;}else if(gomez.b3(parseFloat(gomez.wrate))){gomez.runFlg=true;gomez.z1('w',1);}else{gomez.runFlg=false;gomez.z1('w',0);}}else if(gomez.wrate==undefined){gomez.runFlg=true;gomez.z1('w',1);}else{gomez.runFlg=false;gomez.z1('w',0);};if(gomez.runFlg){gomez.h1=function(v,d){return v?v:d};gomez.gs=gomez.h1(gomez.gs,new Date().getTime());gomez.acctId=gomez.h1(gomez.acctId,'');gomez.pgId=gomez.h1(gomez.pgId,'');gomez.grpId=gomez.h1(gomez.grpId, '');gomez.E=function(c){this.s=c;};gomez.E.prototype={g1:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();}};gomez.L=function(m){this.a=m;};gomez.L.prototype={g2:function(m){var t=gomez,n=t.b5();var s=document.getElementsByTagName(m);var e=t.k;if(m=='script')e=t.j;if(m=='iframe')e=t.l;if(s){var l=s.length;for(var i=0;i<l;i++){var u=s[i].src||s[i].href;if(u &&!e[u]){var r =new gomez.E(e);t.grm[u]=r;e[u]=new t.c7(u, n);if(t.gIE&&m=='script')t.e2(s[i],'readystatechange',t.d2,false);else t.e2(s[i],'load',r.g1,false);}}}}};gomez.L.m=new Object;gomez.L.m['link']=new gomez.L();gomez.L.m['iframe']=new gomez.L();gomez.S=function(){var t=this,h=gomez.acctId+".r.axf8.net";t.x=location.protocol+'//'+h+'/mr/b.gif?';t.y=location.protocol+'//'+h+'/mr/a.gif?';};gomez.h2=function(){var t=this;t.gIE=false;t.f=new Object;t._h=0;t.j=new Object;t.k=new Object;t.l=new Object;t.m=location.href;t.p=-1;t.q=-1;t.t=new Array;t.u=new Array;t._w=false;t.gSfr=/KHTML|WebKit/i.test(navigator.userAgent);t.gc={'n':'c'};t.grm=new Object;t.b;t.a=0;t.d=false;t.x=false;t.s=new gomez.S;t._a=false;t.h6=false;t.n1=0;};gomez.h3(gomez,{h5:function(u){try{var s=document.createElement('script');s.src=u;s.type='text/javascript';if(document.body)document.body.appendChild(s);else if(document.documentElement.getElementsByTagName('head')[0])document.documentElement.getElementsByTagName('head')[0].appendChild(s);}catch(e){}},a9:function(){var t=gomez,i=t.z0('a'),g=t.b0('__g_u'),h=t.z0('h');t.gc.h=t.z0('b');if(h)t.n1=parseInt(h);if(!t.gc.h)t.gc.h=1;t.z1('b',parseInt(t.gc.h)+1);if(i){t.a=parseInt(i);if(t.a==1){t._w=true;}else if(t.a==3){t.x=true;t._w=true;};t.d=true;t.gc.c=t.z0('c');t.gc.d=t.z0('d');t.gc.i=t.z0('e');t.gc.j=t.z0('f');if(t._w&&!t._a){t.h7();t._a=true;};}else {if(!t.gc.a)return;var s='v=1';t.c2('__g_u','1',new Date(t.gt()+1000));if(t.b0('__g_u')&&g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){s='v=0';var r=g.split('_');t.b2(parseInt(r[0]),parseInt(r[1])+1);if(r[4]&&r[4]!='0'&&t.gt()<parseInt(r[5])&&r[2]&&r[2]!='0'){t.b1(parseFloat(r[2]),parseFloat(r[3]),parseFloat(r[4]),parseInt(r[5]));if(r[6])t.n0(parseInt(r[6]));return;};};t.h6=true;s=t.s.y+'a='+t.gc.a+'&'+s;if(t.gSfr)document.write("<scr"+"ipt src='"+s+"'"+"><\/scr"+"ipt>");else t.h5(s);};t.b=t.z0('g');},h7:function(){var t=gomez,u=t.tloc?t.tloc:location.protocol+'//'+t.acctId+'.t.axf8.net/js/gtag5.js';if(t.gSfr)document.write("<scr"+"ipt src='"+u+"'"+"><\/scr"+"ipt>");else t.h5(u);},n0:function(h){var t=gomez,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');t.n1=h;t.z1('h',h);if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_');g=''+r[0]+'_'+r[1]+'_'+r[2]+'_'+r[3]+'_'+r[4]+'_'+r[5]+'_'+h;t.c2('__g_u',g,f);};},b1:function(v,s,q,f){var t=this;if(t._a)return;if(t.b3(v)){t._w=true;t.a=1;var p=parseFloat(s/v);if(t.b3(p)){t.x=true;t.a=3;};};t.d=true;t.z1('a',t.a);t.z1('e',v);t.z1('f',s);t.gc.i=v;t.gc.j=s;t.h4(v,s,q,f);if(t._w){t.h7();t._a=true;};},b2:function(v,s){var t=this,f=new Date(t.gt()+946080000000),g=''+v+'_'+s;if(t._a)return;t.c2('__g_u',g,f);t.gc.c=v;t.gc.d=s;t.z1('c',v);t.z1('d',s);},h4:function(o,p,q,d){var t=this,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_'),s;if(d)s=d;else if(q&&q>=0)s=new Date(t.gt()+parseInt(q*86400000)).getTime();else{q=5;s=new Date(t.gt()+432000000).getTime();};g=''+r[0]+'_'+r[1]+'_'+o+'_'+p+'_'+q+'_'+s;t.c2('__g_u',g,f);};},gt:function(){return new Date().getTime()},b5:function(){return new Date().getTime()-gomez.gs},b6:function(){var t=gomez;t.p=t.b5();},f8:function(){var t=this;if(t.pollId1)clearInterval(t.pollId1);if(t.pollId2)clearInterval(t.pollId2);if(t.pollId3)clearInterval(t.pollId3);if(t.pollId4)clearInterval(t.pollId4);},b7:function(){var t =gomez;t.f8();t.q=t.b5();},c7:function(u, s){var t=this;t.m=u;t.s=s;},c8:function(){var t=gomez,n=t.b5(),l=document.images.length;if(l>t._h){for(var i=t._h; i<l;++i){var u=document.images[i].src;if(u){var r =new gomez.E(t.f);t.grm[u]=r;t.f[u]=new t.c7(u, n);t.e2(document.images[i],'load',t.c4,false);t.e2(document.images[i],'error',t.c5,false);t.e2(document.images[i],'abort',t.c6,false);}}}t._h=l;},c4:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();},c5:function(e){var t=gomez,i=t.g6(e);if(i){i.e=t.b5();i.b=1;}},c6:function(e){var t=gomez,i=t.g6(e);if(i)i.a=t.b5();},g6:function(e){var t=gomez,e=window.event?window.event:e,a=t.d8(e),i;if(t.grm[a.src||a.href]&&t.grm[a.src||a.href].s) i=t.grm[a.src||a.href].s[a.src||a.href];return i;},d2:function(){var t=gomez;var e=window.event?window.event:e,s=t.d8(e);if(s.readyState=='loaded'||s.readyState=='complete'){var o=t.j[s.src];if(o)o.e=t.b5();}},setPair:function(name,value){var t=this;t.t[t.t.length]={'n':'p','a':name,'b':value};},nameEvent:function(n){var t=this;t.f6(n,1);},startInterval:function(n){var t=this;t.f6(n,2,1);},endInterval:function(n){var t=this;t.f6(n,2,2);},f6:function(n,p,b){if(n&&n.length>20) n=n.substring(0,20);var t=this,f=t.u;if(p==3){f[f.length]={'n':'a','a':n,'b':b,'e':p,'f':undefined};}else{f[f.length]={'n':'a','a':n,'b':t.b5(),'e':p,'f':b};}},customValue:function(n,v){var t=this;if(typeof(v)!='number'){return;}t.f6(n,3,v);},d8:function(e){if(gomez.gIE)return e.srcElement||{};else return e.currentTarget||e.target||{};},e2:function(e,p,f,c){var n='on'+p;if(e.addEventListener)e.addEventListener(p,f,c);else if(e.attachEvent)e.attachEvent(n, f);else{var x=e[n];if(typeof e[n]!='function')e[n]=f;else e[n]=function(a){x(a);f(a);};}},i1:function(){var d =window.document, done=false,i2=function (){if(!done){done=true;gomez.b6();gomez.a9();}};(function (){try{d.documentElement.doScroll('left');}catch(e){setTimeout(arguments.callee, 50);return;}i2();})();d.onreadystatechange=function(){if(d.readyState=='complete'){d.onreadystatechange=null;i2();}};},g7:function(){try{var t=gomez;t.gc.a=t.acctId;/*@cc_on t.gIE=true;@*/if(t.gIE){t.i1();window.attachEvent('onload', t.b7);}else if(t.gSfr){var m=setInterval(function(){if(/loaded|complete/.test(document.readyState)){clearInterval(m);delete m;t.b6();t.b7();}}, 10);}else if(window.addEventListener){window.addEventListener('DOMContentLoaded', t.b6, false);window.addEventListener('load', t.b7, false);}else return;t.c8();t.pollId1=setInterval(t.c8, 10);gomez.L.m['link'].g2('link');t.pollId3=setInterval("gomez.L.m['link'].g2('link')", 10);gomez.L.m['iframe'].g2('iframe');t.pollId4=setInterval("gomez.L.m['iframe'].g2('iframe')", 10);if(!t.gIE)t.a9();}catch(e){return;}}});gomez.h2();gomez.g7();}
+//--> 
+ </SCRIPT> 
+
+
+
+
+<link rel="shortcut icon" href="http://www.lg.com/gateway/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-language" content="zh">
+<meta name="ROBOTS" content="NOYDIR, NOODP, INDEX, FOLLOW"> 
+
+<script type="text/javascript" src="/common/js/xsync.js"></script>
+<script type="text/javascript" src="/common/js/pbf.js"></script>
+
+<script type="text/javascript">
+	try { if(fromWebserver != "true") location = "/common/error/error-full.jsp"; } catch (e) { location = "/common/error/error-full.jsp"; }
+	var $localeCd = "cn";
+	var $countryCd = "cn";
+	var $javaLocale = "zh_cn";
+	var $isJsUnit = "false";
+	var $domain = "www.lg.com";
+	var $subdomain = "lg.com";
+	var isDOM=document.getElementById?true:false;
+	var isOpera=isOpera5=window.opera && isDOM;
+	var isOpera6=isOpera && window.print;
+	var isOpera7=isOpera && document.readyState;
+	var isMSIE=isIE=document.all && document.all.item && !isOpera;
+	var isStrict=document.compatMode=='CSS1Compat';
+	var isNN=isNC=navigator.appName=="Netscape";
+	var isNN4=isNC4=isNN && !isDOM;
+	var isMozilla=isNN6=isNN && isDOM;
+</script>
+
+<script language="JavaScript" type="text/javascript" src="/common/js/s_code.js"></script>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/common/optimo/css/lg.css" />
+<link rel="stylesheet" type="text/css" href="/common/optimo/css/category.css" />
+<script type="text/javascript">
+
+	var lgui = {isIE6:false,start:new Date().getTime()};
+
+</script>
+<!--[if lt IE 7]>
+	<script type="text/javascript">
+		lgui.isIE6 = true;
+	</script>
+	<style type="text/css">
+		img.pngfix {azimuth:expression(this.pngSet?this.pngSet=true:(this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage="none",this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",this.src="http://www.lg.com/common/img/blank.gif"):null),this.pngSet=true);}
+        .logo {
+        azimuth: expression(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",this.src = "/common/img/blank.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",this.runtimeStyle.backgroundImage = "none")),this.pngSet=true);
+        }
+	</style>
+<![endif]-->
+
+
+
+
+
+
+<SCRIPT LANGUAGE="javascript"> 
+
+window.open('/cn/popup/popup.jsp','newwindow','height=615,width=649,top=190,left=321,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no,status=no')
+
+</SCRIPT>
+
+
+
+
+
+</head>
+<body class="no-flash-text">
+<img src="/common/img/logo-lg-watermark.png" class="watermark pngfix" alt="LG" />
+<div class="leftnav-shutter"><img src="/common/img/bg-left-nav.png" style="width:100%;height:100%;" alt="" /><div class="leftnav-close"></div></div>
+
+
+
+    
+    
+		<div class="container category-content">
+			<div class="hero-content" shellswfurl="/common/flash/ui/hero-shell-v2.swf" shellcssurl="/common/css/flash-hero-v2.css" trackingaccount="lgecn" trackingpagename="cn:index:hero" trackingpageurl="/cn/index.jsp" trackingdc="122">
+				<h1>LG Electronics 中国 LG电子中国官方网站 手机 电视 冰箱 洗衣机 家用电器</h1>
+				<p>欢迎到LG电子中国官方网站。浏览家用电器，电视，音频，视频产品，移动电话和电脑配件。比较产品和获得细节。</p>
+		
+    
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/CN-mobile-P503.swf" trackingclicked="/hp_card_1" trackingdetailclicked="/hp_card_1_detail" trackingfacetclicked="/hp_card_1_add">
+            <h2>
+                <span class="headerBold">
+                    生活乐在“鲜”发现
+                </span>
+                <span class="subHead">
+                    LG全新Andriod2.2智能手机
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    LG Optimus One (P503)手机，全新Android2.2智能系统，运行速度迅捷无比！3.2英寸多点触控大屏幕，全屏快速互联网浏览，支持WLAN无限局域网络接入，全面支持Flash播放，支持USB2.0接口，无障碍连接电脑。更有全新LG软件商店，超100,000+ 个性应用免费下载。软件慧存至SD卡，节省手机内存。
+                </span>
+            </p>
+            <p>
+                <a href="/cn/mobile-phones/3g-hand-phones/LG-P503.jsp">
+                    <span class="button">
+                        P503
+                    </span>
+                </a>
+            </p>
+            
+                    <p>
+                        <span class="txtLink"><a href="/cn/mobile-phones/3g-hand-phones/index.jsp"><u>查看所有3G手机</u></a></span>
+                    </p>
+                
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/CN-mobile-KW730.swf" trackingclicked="/hp_card_2" trackingdetailclicked="/hp_card_2_detail" trackingfacetclicked="/hp_card_2_add">
+            <h2>
+                <span class="headerBold">
+                    LG KW730 一面精彩，一面享受
+                </span>
+                <span class="subHead">
+                    繁忙工作进退自如，自由时间其乐融融，双网双待，自由切换
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    双网双待，工作和生活各行其道，工作号码处理日常事务游刃有余，生活号码与亲朋好友分享无限乐趣，在工作与生活之间自由转换，双重网络创造双重通道，让您智享3G。BMP操作系统，天翼增值业务，GPS智能导航，1500mAh大容量电池，超长待机，天翼增值业务，丰富多媒体娱乐。
+                </span>
+            </p>
+            <p>
+                <a href="/cn/mobile-phones/3g-hand-phones/LG-KW730.jsp">
+                    <span class="button">
+                        KW730
+                    </span>
+                </a>
+            </p>
+            
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/CN-tv_audio_video-55LX9500-CA.swf" trackingclicked="/hp_card_3" trackingdetailclicked="/hp_card_3_detail" trackingfacetclicked="/hp_card_3_add">
+            <h2>
+                <span class="headerBold">
+                    55LX9500-CA
+                </span>
+                <span class="subHead">
+                    3D Full LED 视听震撼 真实可触
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    3D Full LED电视，疾速400Hz迅畅不可挡；至薄机身超窄边框，奢华视觉享受。
+                </span>
+            </p>
+            <p>
+                <a href="/cn/tv-audio-video/television/LG-55LX9500-CA.jsp">
+                    <span class="button">
+                        55LX9500-CA
+                    </span>
+                </a>
+            </p>
+            
+                    <p>
+                        <span class="txtLink"><a href="/cn/tv-audio-video/televisions/index.jsp"><u>查看所有电视</u></a></span>
+                    </p>
+                
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/Event_hero.swf" trackingclicked="/hp_card_4" trackingdetailclicked="/hp_card_4_detail" trackingfacetclicked="/hp_card_4_add">
+            <h2>
+                <span class="headerBold">
+                    2010 韩国游第四季活动发布
+                </span>
+                <span class="subHead">
+                    
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    2010 “与LG一起，发现不一样的韩国”第四季活动
+                </span>
+            </p>
+            <p>
+                <a href="/cn/about-lg/events/detail/20100916.jsp">
+                    <span class="button">
+                        韩国游第四季活动
+                    </span>
+                </a>
+            </p>
+            
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/cn-GR-K40DFM.swf" trackingclicked="/hp_card_5" trackingdetailclicked="/hp_card_5_detail" trackingfacetclicked="/hp_card_5_add">
+            <h2>
+                <span class="headerBold">
+                    10年保障 我的放心选择
+                </span>
+                <span class="subHead">
+                    
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    世界设计巨匠—Alessandro Mendini的立体色块组合艺术相结合的，独特设计外观的多门(5门)系列冰箱
+                </span>
+            </p>
+            <p>
+                <a href="/cn/home-appliances/refrigerators/LG-multi-door-GR-K40DFML.jsp">
+                    <span class="button">
+                        GR-K40DFM
+                    </span>
+                </a>
+            </p>
+            
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/CN-home-Aplliance-WD-A1228ADS.swf" trackingclicked="/hp_card_6" trackingdetailclicked="/hp_card_6_detail" trackingfacetclicked="/hp_card_6_add">
+            <h2>
+                <span class="headerBold">
+                    WD-A1228ADS
+                </span>
+                <span class="subHead">
+                    我的放心选择
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    DD变频直驱电机、妙手6重洗、蒸汽和烘干<br>基于革新DD变频直驱电机技术和电流精确控制，形成效仿人类洗衣的敲、搓、挤、揉、摇、解等动作，提升洁净度的同时，精致呵护衣物。
+                </span>
+            </p>
+            <p>
+                <a href="/cn/home-appliances/washing-machines/LG-WD-A1228ADS.jsp">
+                    <span class="button">
+                        WD-A1228ADS
+                    </span>
+                </a>
+            </p>
+            
+                    <p>
+                        <span class="txtLink"><a href="/cn/home-appliances/washing-machines/index.jsp"><u>查看全部 洗衣机</u></a></span>
+                    </p>
+                
+        </div>
+    
+        
+        <div class="category-hero-card" cardswfurl="/cn/flash/content/CN-E90.swf" trackingclicked="/hp_card_7" trackingdetailclicked="/hp_card_7_detail" trackingfacetclicked="/hp_card_7_add">
+            <h2>
+                <span class="headerBold">
+                    E2290V-SN
+                </span>
+                <span class="subHead">
+                    7.2mm 至尊传奇
+                </span>
+            </h2>
+            <p>
+                <span class="body">
+                    这就是科技成就的至尊传奇，LG E90，极薄机身仅7.2mm,一支铅笔的厚度。LED的全新时代已经来临。7.2mm终极超薄厚度；金属外壳机身设计；极速无拖尾响应时间；超高对比度清晰画质；精美可触摸按键设计；EZ连接设计；附赠图像增强器软件。CES获创新奖，终极超薄，HDMI接口，全高清，便捷连接，画质增强。
+                </span>
+            </p>
+            <p>
+                <a href="/cn/computer-and-accessories/computer-monitors/LG-led-display-E2290V-SN.jsp">
+                    <span class="button">
+                        E2290V-SN
+                    </span>
+                </a>
+            </p>
+            
+        </div>
+    
+    
+			</div>
+		</div>
+	
+
+
+
+
+
+<div class="footer">
+	<ul class="links">
+		<li>
+			<span>中国: 中文</span>
+			
+
+
+            <p id="remember-country-msg">Do you want to save this country/language as your default setting?<br />	If so, click OK. If not, click Cancel.</p>
+			<p id="remember-country-btn-ok">OK</p>
+			<p id="remember-country-btn-cancel">取消</p> 
+
+
+<script type="text/javascript">
+	var rememberUseYn = "true"; 
+	function fncSelect(aLocaleCode, aCountryCode, remember) {
+ 		var localeCode;
+		if ( rememberUseYn == "true"  ) {
+			if(remember == "Y" ) {
+				cfSetCookie("localeCd", aLocaleCode);
+			}
+		}
+		document.getElementById('localeCd').value = aLocaleCode;
+		if(aCountryCode) {
+			if ( rememberUseYn == "true"  ) {
+				var countryCode = cfGetCookie("countryCd");
+				if(remember == "Y" ) {
+					cfSetCookie("countryCd", aCountryCode);
+				}
+			}
+			document.getElementById('countryCd').value = aCountryCode;
+			if (aLocaleCode == "BR") {
+				window.location.href = "http://www.lge.com/br/index.jsp";	
+				return;			
+			}
+			cfSwichLocale("aForm", document.getElementById('localeCd'), document.getElementById('countryCd'));
+		} else {
+			if (aLocaleCode == "BR") {
+				window.location.href = "http://www.lge.com/br/index.jsp";	
+				return;			
+			}
+			cfSwichLocale("aForm", document.getElementById('localeCd'));
+		}
+	}
+</script>
+           
+              
+              <ul class="global">
+				<li>
+					<a href="http://www.lg.com/global/index.jsp" target="_blank">LG Global Site</a>
+				</li>
+				<li>
+					North America
+					<ul>
+						<li><a href="#" localeCd="CA_EN" ><div>Canada</div>English</a></li>
+						<li><a href="#" localeCd="CA_fR" ><div>&nbsp;</div>Français</a></li>
+						<li><a href="#" localeCd="MX" ><div>Mexico</div>Español</a></li>
+						<li><a href="#"  localeCd="US"><div>U.S.A</div>English</a></li>
+					</ul>
+				</li>
+				<li>
+					Latin America
+					<ul>
+						<li><a href="#" localeCd="AR"><div>Argentina</div>Español</a></li>
+						<li><a href="#" localeCd="CL" countryCd="BO"><div>Bolivia</div>Español</a></li>						
+						<li><a href="#" localeCd="BR"><div>Brazil</div>Português</a></li>						
+						<li><a href="#" localeCd="PA" countryCd="CB"><div>Caribbean</div>Español</a></li>
+						<li><a href="#" localeCd="CL" countryCd="CL"><div>Chile</div>Español</a></li>
+						<li><a href="#" localeCd="CO" ><div>Colombia</div>Español</a></li>
+						<li><a href="#"  localeCd="PA" countryCd="CR"><div>Costa Rica</div>Español</a></li>
+						<li><a href="#"  localeCd="PA" countryCd="CU"><div>Cuba</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="DO"><div>Dominicana</div>Español</a></li>
+						<li><a href="#"  localeCd="PA" countryCd="SV"><div>El Salvador</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="EC"><div>Ecuador</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="GT"><div>Guatemala</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="HN"><div>Honduras</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="NI"><div>Nicaragua</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="PA"><div>Panama</div>Español</a></li>
+						<li><a href="#" localeCd="PE" ><div>Peru</div>Español</a></li>						
+						<li><a href="#" localeCd="PA" countryCd="PR"><div>Puerto Rico</div>Español</a></li>
+						<li><a href="#" localeCd="PA" countryCd="VE"><div>Venezuela</div>Español</a></li>
+					</ul>
+				</li>
+				<li>
+					CIS
+					<ul>
+						<li><a href="#" localeCd="KZ" countryCd="KZ"><div>Kazakhstan</div>Русский</a></li>
+						<li><a href="#" localeCd="KZ" countryCd="KG"><div>Kyrgyzstan</div>Русский</a></li>
+						<li><a href="#" localeCd="RU"><div>Russia</div>Русский</a></li>
+						<li><a href="#" localeCd="KZ" countryCd="TJ"><div>Tajikistan</div>Русский</a></li>
+						<li><a href="#" localeCd="UA"><div>Ukraine</div>Русский</a></li>
+						<li><a href="#" localeCd="KZ" countryCd="UZ"><div>Uzbekistan</div>Русский</a></li>
+					</ul>
+				</li>
+				<li>  
+					Asia &amp; Pacific
+					<ul>
+						<li><a href="#" localeCd="AU"><div>Australia</div>English</a></li>
+						<li><a href="#" localeCd="CN"><div>China</div>中文</a></li>
+						<li><a href="#" localeCd="HK"><div>Hong Kong</div>English</a></li>
+						<li><a href="#" localeCd="HK_CN"><div>&nbsp;</div>中文</a></li>
+						<li><a href="http://www.lgindia.com" target="_blank"><div>India</div>English</a></li>
+						<li><a href="#" localeCd="ID"><div>Indonesia</div>English</a></li>
+						<li><a href="#" localeCd="JP"><div>Japan</div>日本語</a></li>
+						<li><a href="http://www.lge.co.kr" target="_blank"><div>Korea</div>한국어</a></li>
+						<li><a href="#" localeCd="MY"><div>Malaysia</div>English</a></li>
+						<li><a href="#" localeCd="NZ"><div>New Zealand</div>English</a></li>
+						<li><a href="#" localeCd="PH"><div>Philippine</div>English</a></li>
+						<li><a href="#" localeCd="SG"><div>Singapore</div>English</a></li>
+						<li><a href="#" localeCd="TW"><div>Taiwan</div>臺灣</a></li>
+						<li><a href="#"  localeCd="TH"><div>Thailand</div>ไทย</a></li>
+						<li><a href="#" localeCd="VN"><div>Vietnam</div>Việt Nam</a></li>
+					</ul>
+				</li>
+				<li>
+					Europe
+					<ul class="first">
+						<li><a href="#" localeCd="AT"><div>Austria</div>Deutsch</a></li>
+						<li><a href="#" localeCd="BE_FR"><div>Belgium</div>Français</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="BE_NE">Dutch</a></li>
+						<li><a href="#" localeCd="BG"><div>Bulgaria</div>България</a></li>
+						<li><a href="#" localeCd="HR"><div>Croatia</div>Hrvatska</a></li>
+						<li><a href="#" localeCd="CZ"><div>Czech Republic</div>Čeština</a></li>
+						<li><a href="#" localeCd="DK"><div>Denmark</div>Dansk</a></li>
+						<li><a href="#" localeCd="EE"><div>Estonia</div>Eesti</a></li>
+						<li><a href="#" localeCd="FI"><div>Finland</div>Suomeksi</a></li>
+						<li><a href="#" localeCd="FR"><div>France</div>Français</a></li>
+						<li><a href="#"  localeCd="DE"><div>Germany</div>Deutsch</a></li>
+						<li><a href="#" localeCd="GR"><div>Greece</div>Ελληνική</a></li>
+						<li><a href="#" localeCd="HU"><div>Hungary</div>Magyar</a></li>
+						<li><a href="#" localeCd="IE"><div>Ireland</div>English</a></li>
+						<li><a href="#" localeCd="IT"><div>Italy</div>Italiano</a></li>
+					</ul>
+					<ul class="second">	
+						<li><a href="#" localeCd="LV"><div>Latvia</div>Latviski</a></li>
+						<li><a href="#" localeCd="LT"><div>Lithuania</div>Lietuva</a></li>
+						<li><a href="#" localeCd="NL"><div>Netherlands</div>Dutch</a></li>
+						<li><a href="#" localeCd="NO"><div>Norway</div>Norsk</a></li>
+						<li><a href="#" localeCd="PL"><div>Poland</div>Polski</a></li>
+						<li><a href="#" localeCd="PT"><div>Portugal</div>Português</a></li>
+						<li><a href="#" localeCd="RO"><div>Romania</div>Română</a></li>
+						<li><a href="#" localeCd="RS"><div>Serbia</div>Srbija</a></li>
+						<li><a href="#" localeCd="SK"><div>Slovakia</div>Slovak</a></li>
+						<li><a href="#" localeCd="ES"><div>Spain</div>Español</a></li>
+						<li><a href="#" localeCd="SE"><div>Sweden</div>Svensk</a></li>
+						<li><a href="#" localeCd="CH_DE"><div>Switzerland</div>Deutsch</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="CH_FR">Français</a></li>
+						<li><a href="#" localeCd="TR"><div>Turkey</div>Türkçe</a></li>
+						<li><a href="#" localeCd="UK"><div>U.K.</div>English</a></li>
+					</ul>
+				</li>				
+				<li> 
+					Middle East &amp; Africa
+					<ul class="first">
+						<li><a href="#" localeCd="AE" countryCd="AF"><div>Afghanistan</div>English</a></li> 
+						<li><a href="#" localeCd="AFRICA_EN"><div>Africa</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="AFRICA_FR">Français</a></li>
+						<li><a href="#" localeCd="DZ"><div>Algeria</div>Français</a></li>
+						<li><a href="#" localeCd="AE" countryCd="AM"><div>Armenia</div>English</a></li>
+						<li><a href="#" localeCd="AE" countryCd="BH"><div>Bahrain</div>English</a></li>
+						<li><a href="#" localeCd="EG_EN"><div>Egypt</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="EG_AR">العربية</a></li>
+						<li><a href="#" localeCd="IR" countryCd="IR"><div>Iran</div>فارسی</a></li>
+						<li><a href="#" localeCd="LEVANT_EN" countryCd="IQ"><div>Iraq</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="LEVANT_AR" countryCd="IQ">العربية</a></li>						
+						<li><a href="#" localeCd="LEVANT_EN" countryCd="JO"><div>Jordan</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="LEVANT_AR" countryCd="JO">العربية</a></li>						
+						<li><a href="#" localeCd="IL" countryCd="IL"><div>Israel</div>Hebrew</a></li> 
+						<li><a href="#" localeCd="AE" countryCd="KW"><div>Kuwait</div>English</a></li>
+						<li><a href="#" localeCd="LEVANT_EN" countryCd="LB"><div>Lebanon</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="LEVANT_AR" countryCd="LB">العربية</a></li>	
+					</ul>
+					<ul class="second">							
+						<li><a href="#" localeCd="MA"><div>Morocco</div>Français</a></li>
+						<li><a href="#" localeCd="AE" countryCd="OM"><div>Oman</div>English</a></li>
+						<li><a href="#" localeCd="PK"><div>Pakistan</div>English</a></li>
+						<li><a href="#" localeCd="AE" countryCd="QA"><div>Qatar</div>English</a></li>
+						<li><a href="#" localeCd="SA_AR"><div>Saudi Arabia</div>العربية</a></li>
+						<li><a href="#" localeCd="ZA"><div>South Africa</div>English</a></li>
+						<li><a href="#" localeCd="LEVANT_EN" countryCd="SY"><div>Syria</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#"  localeCd="LEVANT_AR" countryCd="SY">العربية</a></li>						
+						<li><a href="#"  localeCd="TN_EN" countryCd="TN"><div>Tunisia</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#"  localeCd="TN_FR" countryCd="TN">Français</a></li>
+						<li><a href="#"  localeCd="TN_EN" countryCd="LY"><div>Libya</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#"  localeCd="TN_FR" countryCd="LY">Français</a></li>
+						<li><a href="#" localeCd="AE" countryCd="AE"><div>U.A.E</div>English</a></li>
+						<li><div>&nbsp;</div><a href="#" localeCd="AE_AR" countryCd="AE">العربية</a></li>
+						<li><a href="#" localeCd="AE" countryCd="YE"><div>Yemen</div>English</a></li>
+						<li style="#margin:3px 0 0 0;">&nbsp;</li>
+						<li style="#margin:2px 0 0 0;">&nbsp;</li>	
+																			
+					</ul>
+				</li>
+			</ul>
+
+<form id="aForm" method="post">
+	   <input type="hidden" id="localeCd" name="localeCd">
+	   <input type="hidden" id="countryCd" name="countryCd">
+	   <input type="hidden" id="domainUrl" name="domainUrl" value="http://www.lg.com">
+	   
+</form>    
+
+
+  
+
+
+
+
+		</li>
+		<li><a href="http://www.lg.com/cn/general/contact-us.jsp">联系我们</a></li>
+		<li><a href="http://www.lg.com/cn/support/registration/support-sign-in-gateway.jsp?url=/cn/support/registration/support-my-products-list.jsp&countryCd=cn" >时事通讯</a></li>
+		<li><a href="http://www.lg.com/cn/general/sitemap.jsp">网站地图</a></li>
+		<li><a href="http://www.lg.com/cn/general/glossary.jsp">术语表</a></li>
+                            <li><a href="http://www.lg.com/cn/general/buyer-guides/tv-audio-video.jsp">购买指南</a></li>
+		<li><a href="http://www.lg.com/cn/about-lg/careers/index.jsp">工作</a></li>
+		<li><a href="#">商业客户</a>
+                              <ul>
+                                <li><a href="http://ch.lgeaircon.com" target="_blank">LG 中央空调</a></li>
+                                <li><a href="http://www.ipslcd.com/" target="_blank">LG IPS硬屏</a></li>
+				<li><a href="http://cn.lghomnet.com/" target="_blank">LG 智能家居</a></li>
+				<li><a href="http://partnerportal.lge.com/cn/zh/index.brm" target="_blank">商用解决方案</a></li>
+                              </ul>
+                            </li>
+		<li><a href="http://www.lg.com/cn/general/privacy.jsp">隐私条款</a></li>
+		<li><a href="http://www.lg.com/cn/general/legal.jsp">法律</a></li>
+
+		
+
+		</ul>
+
+        <div class="secondary">
+	
+	
+		
+		
+				<p><a href="javascript:cfSwitchBandwidth('formBandWidth', 'true', 'cn');" target="_self"/>低带宽版本</a></p>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <p>Copyright 2010 LG Electronics. All Rights Reserved.京ICP备</p>
+<a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" target="_blank" ><p>10215418</p></a>
+<p>号</p><img src="/cn/img/footer_address_gray.png" width="15" height="20" border=0 />
+        
+        <p class="bugClass" style="position:absolute;width:100px;cursor:pointer;color:#FF0000;margin-bottom:5px;visibility:hidden;">Bug Report</p>
+        
+        </div>
+</div>
+
+<div class="newsletter-overlay">
+	<div class="newsletter-form">
+		<h4>注册新闻通讯</h4>
+		<p>请输入您的电子邮件地址，<br />获取最新的产品和活动信息</p>
+		<p class="error">请输入有效的邮件地址。</p>
+		<span class="input-generic"><input name="newsletter-email" id="newsletter-email" value="" /></span>
+		<a href="/cn/category/newsletter-response.jsp" class="button-small"><span>提交</span></a>
+	</div>
+	<div class="newsletter-response">
+		<h4>注册新闻通讯</h4>
+		<p>谢谢。您的邮件已发送。</p>
+	</div>
+</div>
+
+<form name="formBandWidth" id="formBandWidth" action="" method="post">
+</form>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+if(!s.pageType && !s.pageName && s.pageType!="errorPage")
+		s.pageName=s.getPageName();
+
+		
+/* s.channelExtract 1.0 */
+if(!s.channel) s.channel=s.channelExtract(":",2,s.pageName);  
+if(!s.prop3) s.prop3=s.channelExtract(":",2,s.pageName);      
+if(!s.prop4) s.prop4=s.channelExtract(":",3,s.pageName);      
+if(!s.prop5) s.prop5=s.channelExtract(":",4,s.pageName);      
+if(!s.hier1) s.hier1=s.pageName;
+
+s.server="";
+
+/* Traffic Variables */
+s.prop1=$javaLocale.substring(0,$javaLocale.indexOf("_"));  
+s.prop2=$javaLocale.substring($javaLocale.indexOf("_")+1);    
+
+/* Conversion Variables */
+s.campaign=""
+s.events=""
+
+if("false"=="true"){
+    s.prop9="Logged in";
+    s.eVar8=s.prop9;
+} else {
+	s.prop9="Anonymous";
+	s.eVar8=s.prop9;
+}
+
+if(s.prop3.indexOf("about-lg")+s.prop3.indexOf("general")+s.pageName.indexOf("index")+s.pageName.indexOf("include")+s.pageName.indexOf("common")==-5){
+   if(s.pageType!="errorPage"){
+	  s.products=s.pageName.substring(0,s.pageName.lastIndexOf(":"))+";"+s.pageName.substring(s.pageName.lastIndexOf(":")+1).replace(".jsp","").replace("uk:",""); 
+	  s.events="event7,prodView";
+   }
+}
+    
+s.eVar1=$javaLocale.substring(0,$javaLocale.indexOf("_")); 
+s.eVar2=$javaLocale.substring($javaLocale.indexOf("_")+1);    
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://lgelectronics.122.2O7.net/b/ss/lgeuk/1/H.17--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
+
+<img src="http://ad-apac.doubleclick.net/activity;src=2668046;type=cooki310;cat=lgnlu619;qty=1;cost=[Revenue];ord=[OrderID]?" width="1" height="1" alt=""/> 
+
+
+</html>
+
+ 
+
+
+
+                 
+
+
+
+<div class="menu-left">
+        <a href="http://www.lg.com/cn/index.jsp"><img src="/cn/img/logo-lg.png" class="logo" alt="LG LOGO" /></a>
+         
+
+
+
+<form action="http://www.lg.com/cn/common/search/search-results-complex.jsp" method="post" id="search-form">
+		<fieldset>
+			<input type="hidden" name="predictive-search-url" id="predictive-search-url" value="/cn/common/search/search-predictive-results.jsp" />
+			<input type="hidden" name="search-prop" id="search-prop" value="All" />
+			<input type="hidden" name="search-mode" id="search-mode" value="mode+matchallpartial" />
+			<input type="hidden" name="Nval" id="Nval" value="0" />
+			<input type="hidden" name="AIproduct" id="AIproduct" value="A" />
+			<input type="hidden" name="search_renewal_flag" id="search_renewal_flag" value="default" />
+			<input type="hidden" name="search_locale_code" id="search_locale_code" value="cn" />
+			<input type="hidden" value="0" id="search_businessType" name="search_businessType" />
+			<input type="hidden" value="null" id="tabPage" name="tabPage" />
+			<input type="text" name="search-query" id="search-query" value="P503" class="prefill" />
+			<input type="submit" name="search-submit" id="search-submit" value="&nbsp;" />
+		</fieldset>
+	</form>	
+        <ul class="breadcrumbs">
+<li>
+   <a href="http://www.lg.com/cn/index.jsp?countryCd=cn" target="_self"></a>
+    <ul>
+     <li>
+        <a href="http://www.lg.com/cn/tv-audio-video/index.jsp?countryCd=cn" target="_self">电视 / 音频 / 视频</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/tv-audio-video/television/index.jsp?countryCd=cn" target="_self">电视机</a></li>
+        <li><a href="http://www.lg.com/cn/tv-audio-video/home-theater/index.jsp?countryCd=cn" target="_self">家庭影院</a></li>
+        <li><a href="http://www.lg.com/cn/tv-audio-video/blu-rayplayer/index.jsp?countryCd=cn" target="_self">蓝光播放器</a></li>
+        <li><a href="http://www.lg.com/cn/tv-audio-video/tv-accessories/index.jsp?countryCd=cn" target="_self">电视配件</a></li>
+<li class="hr"></li>
+        <li><a href="http://www.lg.com/global/smarttv/index.jsp?countryCd=cn" target="popup"><font color="#AC0648">智能电视即将登陆</font></a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/mobile-phones/index.jsp?countryCd=cn" target="_self">手机</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/mobile-phones/gsm-hand-phones/index.jsp?countryCd=cn" target="_self">GSM手机</a></li>
+        <li><a href="http://www.lg.com/cn/mobile-phones/cdma-hand-phones/index.jsp?countryCd=cn" target="_self">CDMA手机</a></li>
+        <li><a href="http://www.lg.com/cn/mobile-phones/3g-hand-phones/index.jsp?countryCd=cn" target="_self">3G手机</a></li>
+        <li><a href="http://www.lg.com/cn/lgapplication/index.jsp?countryCd=cn" target="_blank">LG 手机应用商店</a></li>
+<li class="hr"></li>
+        <li><a href="http://www.lg.com/cn/microsite/P503/index.jsp?countryCd=cn" target="popup"><font color="#AC0648">P503智能上市</font></a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/home-appliances/index.jsp?countryCd=cn" target="_self">家用电器</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/home-appliances/refrigerators/index.jsp?countryCd=cn" target="_self">冰箱</a></li>
+        <li><a href="http://www.lg.com/cn/home-appliances/microwave-ovens/index.jsp?countryCd=cn" target="_self">微波炉</a></li>
+        <li><a href="http://www.lg.com/cn/home-appliances/washing-machines/index.jsp?countryCd=cn" target="_self">洗衣机</a></li>
+        <li><a href="http://www.lg.com/cn/home-appliances/tumble-dryers/index.jsp?countryCd=cn" target="_self">干衣机</a></li>
+        <li><a href="http://www.lg.com/cn/home-appliances/vacuum-cleaners/index.jsp?countryCd=cn" target="_self">吸尘器</a></li>
+        <li><a href="http://www.lg.com/cn/home-appliances/air-condition/index.jsp?countryCd=cn" target="_self">空调</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/computer-and-accessories/index.jsp?countryCd=cn" target="_self">电脑及配件</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/computer-and-accessories/computer-monitors/index.jsp?countryCd=cn" target="_self">电脑显示器</a></li>
+        <li><a href="http://www.lg.com/cn/computer-and-accessories/dvd-rewriters/index.jsp?countryCd=cn" target="_self">DVD刻录机</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/central-air-con/index.jsp?countryCd=cn" target="_self">中央空调</a>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/microsite/lgesecurity/index.jsp?countryCd=cn" target="_blank">安防系统</a>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/microsite/lghomnet/index.jsp?countryCd=cn" target="_blank">智能家居</a>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/commercial-solution/index.jsp?countryCd=cn" target="_self">商用解决方案</a>
+    </li>
+    </ul>
+    <ul>
+    <li>
+        <a href="http://www.lg.com/cn/about-lg/index.jsp?countryCd=cn" target="_self">关于LG</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/about-lg/global-corporate-information/index.jsp?countryCd=cn" target="_self">全球概况</a></li>
+        <li><a href="http://www.lg.com/cn/about-lg/lg-china-overview/index.jsp?countryCd=cn" target="_self">LG中国概况</a></li>
+        <li><a href="http://www.lg.com/cn/about-lg/innovation/index.jsp?countryCd=cn" target="_self">创新</a></li>
+        <li><a href="http://www.lg.com/cn/about-lg/press-media/index.jsp?countryCd=cn" target="_self">新闻中心</a></li>
+        <li><a href="http://www.lg.com/cn/about-lg/careers/index.jsp?countryCd=cn" target="_self">招贤纳士</a></li>
+        <li><a href="http://www.lg.com/cn/about-lg/events/index.jsp?countryCd=cn" target="_self">活动</a></li>
+        </ul>
+    </li>
+    </ul>
+    <ul>
+    <li>
+        <a href="http://www.lg.com/cn/support/index.jsp?countryCd=cn" target="_self">售后服务中心</a>
+     <ul>
+        <li><a href="http://www.lg.com/cn/support/registration/support-register-product.jsp?countryCd=cn" target="_self">登记您的产品</a></li>
+        <li><a href="http://www.lg.com/cn/support/product/support-product.jsp?countryCd=cn" target="_self">产品服务与支持</a></li>
+        <li><a href="http://www.lg.com/cn/support/mc-support/mobile-phone-support.jsp?countryCd=cn" target="_self">手机软件升级</a></li>
+        <li><a href="http://www.lg.com/cn/support/faq/support-faqs.jsp?countryCd=cn" target="_self">常见问题解答</a></li>
+        <li><a href="http://www.lg.com/cn/support/diagnosis/support-self-diagnosis-wizard.jsp?countryCd=cn" target="_self">自助诊断</a></li>
+<li class="hr"></li>
+        <li><a href="http://www.lg.com/cn/support/repair/support-request-installation.jsp?countryCd=cn" target="_self">申请安装</a></li>
+        <li><a href="http://www.lg.com/cn/support/repair/support-request-repair.jsp?countryCd=cn" target="_self">申请维修</a></li>
+        <li><a href="http://www.lg.com/cn/support/registration/support-pending-appointments.jsp?countryCd=cn" target="_self">您的预约申请</a></li>
+        <li><a href="http://www.lg.com/cn/support/repair/support-service-center-map.jsp?countryCd=cn" target="_self">查找服务中心</a></li>
+        <li><a href="http://www.lg.com/cn/support/repair/support-warranty-policies.jsp?countryCd=cn" target="_self">LG服务政策</a></li>
+<li class="hr"></li>
+        <li><a href="http://www.lg.com/cn/support/notice/support-announcements.jsp?countryCd=cn" target="_self">服务与支持公告</a></li>
+        <li><a href="http://www.lg.com/cn/support/contact/support-contact-cs.jsp?countryCd=cn" target="_self">联系客户服务</a></li>
+<li class="hr"></li>
+        <li><a href="http://www.lg.com/cn/support/registration/support-my-products-list.jsp?countryCd=cn" target="_self">我的LG支持</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/support/index.jsp?countryCd=cn" target="_self">400-819-9999</a>
+    </li>
+    </ul>
+    <ul>
+    <li>
+        <a href="http://www.lg.com/cn/support/registration/support-sign-in-gateway.jsp?url=/cn/support/registration/support-my-products-list.jsp&countryCd=cn" target="_self">注册</a>
+    </li>
+    <li>
+        <a href="http://www.lg.com/cn/support/registration/support-sign-in-gateway.jsp?countryCd=cn" target="_self">登录</a>
+    </li>
+    </ul>
+    <ul>
+    <li>
+    <a href="javascript:cfSwitchBandwidth('formBandWidth', 'true','cn')" target="_self">低带宽版本 </a></li>
+    </ul>
+  </li>
+
+        </ul>
+</div>	    
+
+
+
+
+
+
+    
+            <div class="rightrail-shutter"><img src="/common/img/bg-right-rail.png" style="width:250px;height:100%;" alt="" /><div class="rightrail-close"></div></div>
+            <div class="right-rail">
+                
+                    <ul >
+                        <li class="title">
+                            <h3 class="header">
+                                最新活动
+                            </h3>
+                        </li>
+                        
+                            <li>
+                                <h4>
+                                    P503智能上市
+                                </h4>
+                                
+                                        
+                                                <a href="http://www.lg.com/cn/microsite/P503/index.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/p503rightbanner-2.png" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    玩转智能街区，大奖赢不停！
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="http://www.lg.com/cn/microsite/P503/index.jsp" target="_blank">
+                                                        了解P503智能手机
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    趣享新年 乐发现
+                                </h4>
+                                
+                                        
+                                                <a href="/cn/about-lg/events/detail/20101221.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/newyear_banner.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    LG手机好礼相赠！
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="/cn/about-lg/events/detail/20101221.jsp" target="_blank">
+                                                        查看活动
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    LG智能电视即将上市
+                                </h4>
+                                
+                                        
+                                                <a href="http://www.lg.com/global/smarttv/index.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/icon_smartTV.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                     
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="http://www.lg.com/global/smarttv/index.jsp" target="_blank">
+                                                        体验智能电视
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+                    <ul >
+                        <li class="title">
+                            <h3 class="header">
+                                最新活动
+                            </h3>
+                        </li>
+                        
+                            <li>
+                                <h4>
+                                    2010韩国游第四季活动行程安排公布
+                                </h4>
+                                
+                                        
+                                                <a href="http://www.lg.com/global/smarttv/index.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/right_banner4.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                     
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="http://www.lg.com/global/smarttv/index.jsp" target="_blank">
+                                                        查看行程
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    LG发布免责声明
+                                </h4>
+                                
+                                        
+                                                <a href="/cn/press-release/article/company20100524wbn00003600.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/LGlogo.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    请选择LG指定网站及服务中心下载驱动软件
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="/cn/press-release/article/company20100524wbn00003600.jsp" target="_blank">
+                                                        阅读详情
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    关爱客户 瞬间感动
+                                </h4>
+                                
+                                        
+                                                <a href="/cn/press-release/article/company20100929wbn00003600.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/LGlogo.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    LG电子中国实施新的平板电视保修政策
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="/cn/press-release/article/company20100929wbn00003600.jsp" target="_blank">
+                                                        阅读详情
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+                    <ul >
+                        <li class="title">
+                            <h3 class="header">
+                                最新活动
+                            </h3>
+                        </li>
+                        
+                            <li>
+                                <h4>
+                                    关爱客户 瞬间感动
+                                </h4>
+                                
+                                        
+                                                <a href="/cn/support/data/notice/cnntc101015001241/cnntc101015001241.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/LGlogo.jpg" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    对使用LG KT878手机用户的服务指南
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="/cn/support/data/notice/cnntc101015001241/cnntc101015001241.jsp" target="_blank">
+                                                        阅读详情
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    LG电子校园招聘
+                                </h4>
+                                
+                                        
+                                                <a href="http://campus.chinahr.com/2010/pages/lg" target="_blank"><img src="/cn/img/mobile-phones/promotions/HR90x39.gif" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    选择LG，助您实现梦想
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="http://campus.chinahr.com/2010/pages/lg" target="_blank">
+                                                        查看职位
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                            <li>
+                                <h4>
+                                    LG Application Store
+                                </h4>
+                                
+                                        
+                                                <a href="/cn/lgapplication/index.jsp" target="_blank"><img src="/cn/img/mobile-phones/promotions/LG_APPstore.gif" alt="" /></a>
+                                            
+                                    
+                                <p>
+                                    应用程序免费下载
+                                </p>
+                                <div>
+                                    
+                                            
+                                                    <a href="/cn/lgapplication/index.jsp" target="_blank">
+                                                        访问 Store
+                                                    </a>
+                                                
+                                        
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+            </div>
+        
+
+    
+<script type="text/javascript" src="/common/optimo/js/framework.js"></script>
+<script type="text/javascript" src="/common/optimo/js/category.js"></script>
+
+
+</body>
+</html>
+

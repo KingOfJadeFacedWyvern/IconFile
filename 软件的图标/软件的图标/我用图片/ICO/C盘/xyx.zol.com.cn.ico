@@ -1,0 +1,237 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>经典小游戏-美女代言人-摄影作品-ZOL中关村在线</title>
+<link href="http://icon.zol-img.com.cn/youxis/css/tc.css" rel="stylesheet" type="text/css" media="all" />
+<style>
+*{margin:0;padding:0;}
+body{font:12px 宋体;}
+#xltable td{height:30px;line-height:30px;}
+#xltable .keyword{height:18px;line-height:18px;float:left;}
+#xltable .btn{height:23px;float:left;}
+#xltable a{text-decoration:none;color:#3cc;}
+#xltable a:hover{text-decoration:underline;}
+</style>
+<script language="javascript">
+ function   mouseover() 
+ { 
+    var str=document.getElementById("bts_text").value;
+    if (str=="请输入影片名或演员名")
+    {
+        document.getElementById("bts_text").value=''; 
+    }
+ } 
+ function   mousedown() 
+ { 
+    var str=document.getElementById("bts_text").value;
+    if (str=="" || str=="请输入影片名或演员名")
+   {
+       document.getElementById("bts_text").value='请输入影片名或演员名'; 
+   }
+ }
+
+    function enterkey(event) 
+    { 
+		event   =   (event)?event:window.event;   
+        if (event.keyCode == 13)
+        { 
+            event.returnValue = false;
+            n_sch(); 
+        }
+    } 
+
+function n_sch()
+{
+	var data="movie.gougou.com/search?id=489&search=";
+	if(document.getElementById("bts_text").value=="")
+	{
+		alert("搜索值不能为空");
+		return false;
+	}
+	window.open("http://"+data+encodeURIComponent(document.getElementById("bts_text").value),"_blank");
+}
+
+
+function setHome(obj,url){
+	try{
+			obj.style.behavior='url(#default#homepage)';obj.setHomePage(url);
+	}
+	catch(e){
+		if(window.netscape) {
+			try {
+					netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
+			}  
+			catch (e) 
+			{ 
+					alert("抱歉！您的浏览器不支持直接设为首页。请在浏览器地址栏输入“about:config”并回车然后将[signed.applets.codebase_principal_support]设置为“true”，点击“加入收藏”后忽略安全提示，即可设置成功。");  
+			}
+			var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+			prefs.setCharPref('browser.startup.homepage',url);
+		 }
+	}
+
+}
+
+
+
+function uncompile(code)
+{
+	var code=unescape(code);
+	var ucode = "";
+	for(var i=0;i<code.length;i++) {
+		ucode += String.fromCharCode(code.charCodeAt(i)-code.length);
+	}
+	return ucode;
+}
+
+function GetUrlParam(paramName)
+{
+    var oRegex = new RegExp( '[\?&]' + paramName + '=([^&]+)', 'i' ) ;
+    var oMatch = oRegex.exec( window.location.search ) ;
+    if ( oMatch && oMatch.length > 1 )
+        return oMatch[1] ;
+    else
+        return '' ;
+}
+</script>
+<script src="http://pstatic.xunlei.com/js/webThunderDetect.js"></script>
+<script src="http://pstatic.xunlei.com/js/base64.js"></script>
+<base target="_blank" />
+</head>
+<body>
+<!-- 用户登录 -->
+<div class="tc_box">
+  <div class="tc_t"></div>
+  <div class="tc_m">
+    <div class="zlink clearfix">
+
+    <a href="http://play.zol.com.cn/collection/show_26_1.html" class="zbtn1">美女小游戏</a>
+    <a href="http://game.zol.com.cn/topic/799365.html" class="zbtn1">游戏代言人</a>
+    <a href="http://game.zol.com.cn/topic/799309.html" class="zbtn1">美女Cosplay</a>
+    <a href="http://blog.zol.com.cn/log_cate_6.html" class="zbtn1">摄影作品</a>
+    <a href="http://www.xgo.com.cn/baobei.html?from=lilei" class="zbtn1">香车美女</a>
+    </div>
+	<div class="zelink clearfix">
+<script language="javascript">
+    document.write(uncompile(GetUrlParam("query1")));
+</script>	
+<table id="xltable" cellpadding="0" cellspacing="0" border=0>
+<tr>
+<td>
+<script language="javascript">
+var thunder_url = uncompile(GetUrlParam("query2"));
+var thunder_pid = "00009";
+var restitle = "";
+document.write('<a href="' +thunder_url+ '" target=_blank>本地下载</a>&nbsp;&nbsp;<a href="#" thunderHref="' + ThunderEncode(thunder_url) + '" thunderPid="' + thunder_pid + '" thunderResTitle="' + restitle + '" onClick="return OnDownloadClick_Simple(this,2)" oncontextmenu="ThunderNetwork_SetHref(this)"><font color=red>迅雷专用下载</font></a>&nbsp;&nbsp;&nbsp;&nbsp;');
+</script>
+</td>
+<td>
+
+  <input id="bts_text" type="text" size="20" value='请输入影片名或演员名' maxlength='100' onfocus="mouseover()" onblur="mousedown()" onkeypress="enterkey(event)"/> 
+  <input name=websearch style="width:70px;height:22px;color:#000000" type="button" value="狗狗搜索" onclick="n_sch()"/>
+
+</td>
+
+<td>
+<a href="http://www.155.com/?id=copgg" target=_blank><img src="http://img.155.com/images/155.ico" border=0></a>
+</td>
+
+<td>
+<a href="http://www.155.com/?id=copgg" target=_blank>155生活娱乐网址导航</a>
+</td>
+<td>
+&nbsp;<a onclick="setHome(this,'http://www.155.com')" href="#">设为首页</a>
+</td>
+</tr>
+</table>
+	</div>
+    <div class="tc_tit clearfix"><span class="more7">●→　<a href="http://play.zol.com.cn/">更多小游戏</a></span>
+    <a href="http://play.zol.com.cn/">★★→ 经典小游戏 ⊙_⊙</a></div>
+    <ul class="li_pic3 clearfix">
+		<li>
+		<a href="http://play.zol.com.cn/detail/4855_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_1/4855.jpg" alt="981救火员" width="80" height="60" />981救火员</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/3551_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_1/3551.jpg" alt="乐透人梯叠叠高" width="80" height="60" />乐透人梯叠叠高</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/19216_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_3/20233.jpg" alt="美女陪练员" width="80" height="60" />美女陪练员</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/3522_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_1/3522.jpg" alt="青蛙跳棋" width="80" height="60" />青蛙跳棋</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/3102_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_1/3102.jpg" alt="可爱大炮炮" width="80" height="60" />可爱大炮炮</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/302324_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_6/59439.jpg" alt="战场救美女" width="80" height="60" />战场救美女</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/5301_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_1/5301.jpg" alt="香艳网球装" width="80" height="60" />香艳网球装</a>
+		</li><li>
+		<a href="http://play.zol.com.cn/detail/17417_1.html"><img src="http://img9.zol.com.cn/flash_pic/pic_2/17417.jpg" alt="爱情之箭" width="80" height="60" />爱情之箭</a>
+		</li>    </ul>
+    <div class="tc_tit clearfix"><span class="more7">●→　<a href="http://game.zol.com.cn/topic/799365.html">更多美女代言人</a></span>
+    <a href="http://game.zol.com.cn/topic/799365.html">★★→ 美女代言人 ⊙_⊙</a></div>
+    <ul class="li_pic2 clearfix">
+		<li><a href="http://game.zol.com.cn/207/2077386.html"><img src="http://2a.zol-img.com.cn/article/6/635/liGm6jnYgKFWI.jpg" alt="来自性感女仆装完美粉红丝袜的简单诱惑" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/207/2077386.html">来自性感女仆装完美粉红丝袜的简单诱惑</a></p>
+		</li><li><a href="http://game.zol.com.cn/205/2057274.html"><img src="http://2c.zol-img.com.cn/article/6/247/lisP919auf6.jpg" alt="拼凑可爱的性感肖阳粉红色床照套图" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/205/2057274.html">拼凑可爱的性感肖阳粉红色床照套图</a></p>
+		</li><li><a href="http://game.zol.com.cn/205/2055652.html"><img src="http://2c.zol-img.com.cn/article/6/32/lixTZtc2KDgnA.jpg" alt="这才是真模特 内衣模特大秀S型热辣身材" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/205/2055652.html">这才是真模特 内衣模特大秀S型热辣身材</a></p>
+		</li><li><a href="http://game.zol.com.cn/204/2044753.html"><img src="http://2c.zol-img.com.cn/article/6/82/lirhhD2dfD2qg.jpg" alt="不可思议！清纯美眉玩家变身性感劳拉" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/204/2044753.html">不可思议！清纯美眉玩家变身性感劳拉</a></p>
+		</li><li><a href="http://game.zol.com.cn/204/2040718.html"><img src="http://2c.zol-img.com.cn/article/6/442/li88bkSDh3kM.jpg" alt="快出来大饱眼福吧 国产嫩模美腿大比拼" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/204/2040718.html">快出来大饱眼福吧 国产嫩模美腿大比拼</a></p>
+		</li><li><a href="http://game.zol.com.cn/204/2040048.html"><img src="http://2c.zol-img.com.cn/article/6/292/lijmdIp5V3XzI.jpg" alt="90后歌手“小范冰冰”杨棋涵满涨感写真" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/204/2040048.html">90后歌手“小范冰冰”杨棋涵满涨感写真</a></p>
+		</li><li><a href="http://game.zol.com.cn/203/2033421.html"><img src="http://2d.zol-img.com.cn/article/6/178/liBhrOLuMexlo.jpg" alt="“丝袜控” 盘点游戏圈的十大性感美腿" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/203/2033421.html">“丝袜控” 盘点游戏圈的十大性感美腿</a></p>
+		</li><li><a href="http://game.zol.com.cn/203/2034085.html"><img src="http://2c.zol-img.com.cn/article/6/317/liL2rPinwVAk.jpg" alt="日本最美《街霸4》女玩家自曝是伪娘" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/203/2034085.html">日本最美《街霸4》女玩家自曝是伪娘</a></p>
+		</li><li><a href="http://game.zol.com.cn/203/2033904.html"><img src="http://2a.zol-img.com.cn/article/6/285/liZ3brICSu0cw.jpg" alt="比基尼美女高尔夫绿草地上秀翘臀长腿" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/203/2033904.html">比基尼美女高尔夫绿草地上秀翘臀长腿</a></p>
+		</li><li><a href="http://game.zol.com.cn/203/2031587.html"><img src="http://2a.zol-img.com.cn/article/6/920/li6Ci3PX8VpBI.jpg" alt="妖姬宅美女刘美萱“极度诱惑”写真" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/203/2031587.html">妖姬宅美女刘美萱“极度诱惑”写真</a></p>
+		</li><li><a href="http://game.zol.com.cn/203/2030997.html"><img src="http://2d.zol-img.com.cn/article/6/793/liZ3LRy31eaZM.jpg" alt="朦胧镜下的致使诱惑 极品美女床上照" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/203/2030997.html">朦胧镜下的致使诱惑 极品美女床上照</a></p>
+		</li><li><a href="http://game.zol.com.cn/202/2023128.html"><img src="http://2d.zol-img.com.cn/article/6/473/liA2FjPrvDSQ2.jpg" alt="性感与挑逗并重韩国最美的汽车模特们" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/202/2023128.html">性感与挑逗并重韩国最美的汽车模特们</a></p>
+		</li>    </ul>
+    <div class="tc_tit clearfix"><span class="more7">●→　<a href="http://game.zol.com.cn/topic/799309.html">更多美女Cosplay</a></span>
+    <a href="http://game.zol.com.cn/topic/799309.html">★★→ 美女Cosplay ⊙_⊙</a></div>
+    <ul class="li_pic2 clearfix">
+		<li><a href="http://game.zol.com.cn/202/2025229.html"><img src="http://2d.zol-img.com.cn/article/6/883/linAjWsaxAzZM.jpg" alt="《古剑奇谭》令人惊艳的官方COS外景照" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/202/2025229.html">《古剑奇谭》令人惊艳的官方COS外景照</a></p>
+		</li><li><a href="http://game.zol.com.cn/196/1969151.html"><img src="http://2a.zol-img.com.cn/article/6/510/li3HBvJTYZytQ.jpg" alt="不会就别Cos！那些让人喷饭的CosPlay   " width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/196/1969151.html">不会就别Cos！那些让人喷饭的CosPlay   </a></p>
+		</li><li><a href="http://game.zol.com.cn/195/1951493.html"><img src="http://2b.zol-img.com.cn/article/6/786/liYKnTYkqHYcU.jpg" alt="美不胜收 名画师miche插画欣赏第二辑 " width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/195/1951493.html">美不胜收 名画师miche插画欣赏第二辑 </a></p>
+		</li><li><a href="http://game.zol.com.cn/193/1934860.html"><img src="http://2a.zol-img.com.cn/article/6/145/li4RPsEt5lXg.jpg" alt="美不胜收 日本著名画师miche插画欣赏" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/193/1934860.html">美不胜收 日本著名画师miche插画欣赏</a></p>
+		</li><li><a href="http://game.zol.com.cn/193/1933521.html"><img src="http://2e.zol-img.com.cn/article/6/964/liDw8aBc48l8A.jpg" alt="LOLI变御姐 美女COS可爱Q版游戏人物" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/193/1933521.html">LOLI变御姐 美女COS可爱Q版游戏人物</a></p>
+		</li><li><a href="http://game.zol.com.cn/191/1914004.html"><img src="http://2b.zol-img.com.cn/article/6/931/liT6zGx9IRjjg.jpg" alt="萌死人不偿命 TONY精美画作图赏第一辑" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/191/1914004.html">萌死人不偿命 TONY精美画作图赏第一辑</a></p>
+		</li><li><a href="http://game.zol.com.cn/190/1909555.html"><img src="http://2b.zol-img.com.cn/article/6/221/liO0Ci5OoNkY2.jpg" alt="史上最逼真的春丽COS--哥要膜拜了 " width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/190/1909555.html">史上最逼真的春丽COS--哥要膜拜了 </a></p>
+		</li><li><a href="http://game.zol.com.cn/187/1879942.html"><img src="http://2c.zol-img.com.cn/article/6/907/liioeNItepio.jpg" alt="《古剑奇谭》玩家超逼真COS写实高清版" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/187/1879942.html">《古剑奇谭》玩家超逼真COS写实高清版</a></p>
+		</li><li><a href="http://game.zol.com.cn/182/1822360.html"><img src="http://2c.zol-img.com.cn/article/6/252/liRSWW3soyLw.jpg" alt="不华丽不成活 国内最美的伪娘COS作品集" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/182/1822360.html">不华丽不成活 国内最美的伪娘COS作品集</a></p>
+		</li><li><a href="http://game.zol.com.cn/179/1799421.html"><img src="http://2e.zol-img.com.cn/article/6/744/liVRrrSXZIM76.jpg" alt="《幻想三国志四》雾霭女仙 露朝雪" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/179/1799421.html">《幻想三国志四》雾霭女仙 露朝雪</a></p>
+		</li><li><a href="http://game.zol.com.cn/171/1710742.html"><img src="http://2b.zol-img.com.cn/article/6/86/ligi1c7LEqmoQ.jpg" alt="人人都爱Miku酱 虚拟偶像初音未来COS集" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/171/1710742.html">人人都爱Miku酱 虚拟偶像初音未来COS集</a></p>
+		</li><li><a href="http://game.zol.com.cn/170/1709629.html"><img src="http://2d.zol-img.com.cn/article/6/973/liyymAiGd9m.jpg" alt="老外评选25个最震撼的视频游戏Cosplay" width="120" height="160" /></a>
+		<p><a href="http://game.zol.com.cn/170/1709629.html">老外评选25个最震撼的视频游戏Cosplay</a></p>
+		</li>    </ul>
+<!-- 
+    <div class="tc_tit clearfix"><span class="more7">●→　<a href="http://blog.zol.com.cn/log_cate_6.html">更多摄影作品</a></span>
+    <a href="http://blog.zol.com.cn/log_cate_6.html">★★→ 摄影作品 ⊙_⊙</a></div>
+    <ul class="li_pic clearfix">
+
+    </ul>
+ -->
+  </div>
+  <div class="tc_b"></div>
+</div>
+<script language="JavaScript" type="text/javascript" src="http://js.zol.com.cn/pv.js"></script>
+</body>
+</html>

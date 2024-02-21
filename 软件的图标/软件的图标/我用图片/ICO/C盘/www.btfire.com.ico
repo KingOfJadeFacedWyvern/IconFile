@@ -1,0 +1,850 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312' />
+<meta name="keywords" content="bt,下载,btfire,电影资讯"/>
+<meta name="description" content="bt电影资讯载网 提供软件,电影,游戏,综艺,动漫,音乐,连续剧资源bt资讯下载"/>
+<style>
+h2   { font-size:12px;
+} 
+h1   { font-size:14px;
+} 
+center   { color: #000;
+} 
+body {
+        width:100%;
+        height:100%;
+	margin:10px 0;
+	font-size: 12px;
+	line-height: 1.6em;
+	text-align: center;
+	color: #000000;
+	text-decoration: none;
+	background-color: #eff4f8;
+}
+
+#header {
+	width: 1002px;
+	background-color: #eff4f8;
+	text-align: left;
+}
+#header_left {
+	color: #FFFFFF;
+	float: left;
+	width: 202px;
+	height: 90px;
+	background-color: #eff4f8;
+	text-align: left;
+}
+#head_right {
+	text-align: center;
+	float: right;
+	height: 90px;
+	width: 800px;
+	background-color: #eff4f8;
+}
+
+#main {
+	background-color: #eff4f8;
+	width: 1002px;
+	text-align: left;
+}
+#main_left {
+	float: left;
+	width: 201px;
+	border-right:1px #999 solid;
+	border-bottom:1px #999 solid;
+	background-color: #eff4f8;
+	text-align: left;
+}
+#main_right {
+	float: right;
+	width: 800px;
+	background-color: #eff4f8;
+	text-align: left;
+}
+
+.left_nemu_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: left;
+	background-color: #0075BE;
+	background-repeat: no-repeat;
+	height: 20px;
+	padding-left: 30px;
+	margin-top: 5px;
+	padding-top: 7px;
+}
+.left_menu_content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 13px;
+}
+.daohang {
+	background-color: #0075BE;
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: left;
+	padding-left: 40px;
+	padding-top: 8px;
+}
+.daohang a:visited{
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-top: 8px;
+	text-align: left;
+}
+.daohang a:link{
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: left;
+	padding-top: 8px;
+}
+.daohang a:hover{
+	height: 20px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FF9900;
+	text-decoration: underline;
+	padding-top: 8px;
+	text-align: left;
+}
+
+.gonggao_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	background-image: url(index_13.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	width: 452px;
+	padding-top: 5px;
+	padding-left: 10px;
+	text-align: left;
+}
+.gonggao {
+	float: left;
+	width: 800px;
+	padding-bottom: 2px;
+	text-align: left;
+}
+
+.gonggao_content {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #000000;
+	text-decoration: none;
+	margin-top: 5px;
+	border: 2px solid #E4E4E4;
+	margin-left: 9px;
+	margin-right: 3px;
+	padding-left: 10px;
+	text-align: left;
+	background-color: #fff;
+}
+.right_left {
+	float: left;
+	clear: both;
+	text-align: left;
+}
+
+.right_right {
+	float: right;
+	width: 181px;
+	margin-right: 2px;
+	margin-top: 3px;
+	text-align: left;
+}
+.right_right_title {
+	font-size: 13px;
+	line-height: 1.6em;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #EC9700;
+	height: 15px;
+	padding: 5px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #7E7E7E;
+	border-right-color: #7E7E7E;
+	border-left-color: #7E7E7E;
+	text-align: left;
+}
+.right_right_content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #333333;
+	text-decoration: none;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-color: #7E7E7E;
+	border-bottom-color: #7E7E7E;
+	border-left-color: #7E7E7E;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+.title1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	height: 27px;
+	width: 304px;
+	text-align: left;
+}
+
+.left1 {
+	float: left;
+	width: 393px;
+	margin-left: 4px;
+	text-align: left;
+}
+.right1 {
+	float: right;
+	width: 393px;
+	margin-right: 2px;
+	clear: both;
+	text-align: left;
+}
+
+.left_1_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	background-position: center;
+	padding-left: 22px;
+	height: 22px;
+	padding-top: 9px;
+	text-align: left;
+}
+.left_1_content {
+	border: 1px solid #CDCDCD;
+	margin-top: 3px;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+	margin-right: 2px;
+	margin-left: 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #333333;
+	text-decoration: none;
+	margin-bottom: 8px;
+	text-align: left;
+	background-color: #fff;
+}
+.right2 {
+	clear: both;
+	margin-right: 3px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+.title2 {
+	height: 16px;
+	width: 229px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #B7BFA0;
+	border-right-color: #B7BFA0;
+	border-left-color: #B7BFA0;
+	background-color: #0075BE;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-top: 7px;
+	padding-left: 30px;
+	text-align: left;
+}
+.content2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #333333;
+	text-decoration: none;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #B7BFA0;
+	border-bottom-color: #B7BFA0;
+	border-left-color: #B7BFA0;
+	width: 244px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	background-color: #fff;
+}
+.friend_link {
+	clear: both;
+	margin-right: 3px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+.link_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #0075BE;
+	background-repeat: no-repeat;
+	padding-top: 4px;
+	padding-left: 35px;
+	background-color: #0075be;
+	height: 19px;
+	text-align: left;
+}
+.link_content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #333333;
+	text-decoration: none;
+	margin-left: 10px;
+	border: 1px solid #C2C2C2;
+	margin-top: 5px;
+	padding: 5px;
+	background-color: #FFFFFF;
+	text-align: left;
+}
+
+a:visited {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #333333;
+	text-decoration: none;
+}
+a:link {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #0000ff;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	line-height: 1.6em;
+	color: #ff0000;
+}
+li {
+list-style-type:none;
+}
+#main_left div ,#main_left ul,#main_left from{
+margin:0;
+}
+.left_menu_content ul{
+margin:0 0 0 10px;
+padding:0 0 0 10px;
+}
+.login_content {
+border: 1px #ccc solid;
+}
+hr {
+filter:alpha(opacity=100,finishopacity=0,style=3);
+}
+table { 
+table-layout: fixed;
+word-wrap:break-word;
+}
+div { 
+word-wrap:break-word;
+}
+
+.border_preview{
+	z-index:100;
+	position:absolute; 
+	background: #fff;
+	border: 1px solid #444;
+	text-align: left;
+}
+.preview_temp_load {
+	vertical-align:middle;
+	text-align:center;
+	padding: 10px;
+}
+#loader_container {text-align:center;position:absolute;top:40%;width:100%}
+#loader {
+	font-family:Tahoma, Helvetica, sans;
+	font-size:10px;
+	color:#000000;
+	background-color:#FFFFFF;
+	padding:10px 0 16px 0;
+	margin:0 auto;
+	display:block;
+	width:135px;
+	border:1px solid #6A6A6A;
+	text-align:left;
+	z-index:255;
+}
+#loader_bg {
+	background-color:#EBEBE4;
+	position:relative;
+	top:8px;left:8px;height:7px;
+	width:113px;font-size:1px
+	text-align: left;
+}
+
+#archivePage {
+    border: 1px solid #999;
+    border-top: 0px;
+    clear: both;
+    margin: 4px 0px 4px 0px;
+    width: 98%;
+    text-align: left;
+}
+.archive {
+    background: #f4f4f4;
+    border-top: 2px solid #666;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0px 0px 4px 0px;
+    padding: 3px 3px 3px 8px;
+    text-align: left;
+    width: auto;
+}
+.archivePageList {
+    background: #f4f4f4;
+    border: 1px solid #999;
+    float:left;
+    margin: 2px 0px 2px 4px;
+    padding: 4px;
+    line-height: 36px;
+    width: 138px;
+    text-align: center;
+}
+#righter {
+	width: 160px;
+	background-color: #E9E9E9;
+	margin: 0; 
+	padding: 0; 
+	text-align:center; 
+	line-height:14px; 
+	font-size:12px; 
+	font-family:arial, sans-serif; 
+	position: absolute; 
+	top: 0px; 
+	left: 1003px; 
+	float: left; 
+	clear: both;
+}
+
+.daohang1 {
+	background-color: #fff;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: left;
+}
+.daohang1 a:visited{
+	color: #FFFFFF;
+}
+.daohang1 a:link{
+	color: #FFFFFF;
+}
+.daohang1 a:hover{
+	color: #FFffff;
+}
+.hdiv {
+display:none;
+}
+</style>
+<script type='text/javascript' src='http://cbjs.baidu.com/js/m.js'></script>
+<script type='text/javascript'>
+BAIDU_CLB_addSlot('56648');
+BAIDU_CLB_enableAllSlots();
+</script>
+<title>电影资讯网</title>
+</head>
+<body topMargin=0>
+
+<script type='text/javascript'>BAIDU_CLB_fillSlot('56648');</script>
+<script language="javascript" type="text/javascript">
+function addfavorite() {
+		var s_url = 'http://www.btfire.com';
+		var s_title = '电影资讯网 - 最新影视下载';
+if (document.cookie.indexOf('baimao2') == -1){	
+    	try {
+        	window.external.addFavorite(s_url, s_title);
+    	}
+		
+    	catch (e) {
+        	try  {
+            	window.sidebar.addPanel(s_title, s_url, "");
+        	}
+        	catch (e) {
+        	}
+		}
+}
+}
+eval("window.attachEvent('onunload',addfavorite);");
+</script>
+
+<script type="text/javascript">
+function externallinks() {
+   if (!document.getElementsByTagName) return;  
+  var anchors = document.getElementsByTagName("a"); 
+  for (var i=0; i<anchors.length; i++) {
+  var anchor = anchors[i]; 
+  if (anchor.getAttribute("href")) 
+   anchor.target = "_self";
+  }
+}
+window.onload = externallinks;
+</script>
+<span id="firefox"></span>
+<div id="header">
+  <div id="header_left"><img border="0" width="202" height="80" src="http://www.btfire.com/images/logo.gif" alt="bt下载网"></div>
+  <div id="head_right">
+<a href="http://cpc1.9v.cn/code/qxyx.asp?siteid=156407" target="_blank"><img src="http://www2.9v.cn/onexgadimgs/qxyx/728x80X1.gif" border="0" /></a>
+  </div>
+</div>
+<div id="main">
+  <div id="main_left">
+	<div class="left_nemu_title">资源分类</div>
+    <div class="left_menu_content">
+
+·bt资源总数： <b>283675</b>个<br />
+·<a href="bt_list/catalog_1_1.html" target='_blank'>动作</a><b>(22444)</b> <a href="bt_list/catalog_2_1.html" target='_blank'>冒险</a><b>(2974)</b><br />
+·<a href="bt_list/catalog_3_1.html" target='_blank'>犯罪</a><b>(3611)</b> <a href="bt_list/catalog_4_1.html" target='_blank'>战争</a><b>(2407)</b><br />
+·<a href="bt_list/catalog_5_1.html" target='_blank'>科幻</a><b>(5238)</b> <a href="bt_list/catalog_6_1.html" target='_blank'>奇幻</a><b>(984)</b><br />
+·<a href="bt_list/catalog_7_1.html" target='_blank'>恐怖</a><b>(7233)</b> <a href="bt_list/catalog_8_1.html" target='_blank'>惊秫</a><b>(8165)</b><br />
+·<a href="bt_list/catalog_9_1.html" target='_blank'>喜剧</a><b>(20217)</b> <a href="bt_list/catalog_10_1.html" target='_blank'>爱情</a><b>(4413)</b><br />
+·<a href="bt_list/catalog_11_1.html" target='_blank'>剧情</a><b>(13756)</b> <a href="bt_list/catalog_12_1.html" target='_blank'>音乐</a><b>(25756)</b><br />
+·<a href="bt_list/catalog_13_1.html" target='_blank'>动漫</a><b>(64736)</b> <a href="bt_list/catalog_14_1.html" target='_blank'>家庭</a><b>(574)</b><br />
+·<a href="bt_list/catalog_16_1.html" target='_blank'>纪录片</a><b>(6004)</b> <a href="bt_list/catalog_18_1.html" target='_blank'>游戏</a><b>(12441)</b><br />
+·<a href="bt_list/catalog_19_1.html" target='_blank'>软件</a><b>(72)</b> <a href="bt_list/catalog_20_1.html" target='_blank'>综艺</a><b>(32871)</b><br />
+·<a href="bt_list/catalog_15_1.html" target='_blank'>西部</a><b>(87)</b> <a href="bt_list/catalog_17_1.html" target='_blank'>连续剧</a><b>(41241)</b><br />
+·<a href="bt_list/catalog_21_1.html" target='_blank'>资料</a><b>(924)</b> <a href="bt_list/catalog_22_1.html" target='_blank'>其他</a><b>(7527)</b><br />
+·<a href="bt_list/1.html" target='_blank'>未分类</a>
+<span id="btleft"></span>
+    </div>
+	<div class="left_nemu_title"></div>
+    <div class="left_menu_content">
+<!-- 广告位：160x600 -->
+<script type='text/javascript' src='http://cbjs.baidu.com/js/s.js'></script>
+<script type='text/javascript'>BAIDU_CLB_singleFillSlot('59183');</script>
+    </div>
+
+  </div>
+  <div id="main_right">
+  <div class="daohang"><A href="/" target='_blank'>网站首页</A> | <a name="StranLink" href=''>切换到繁體中文</a><script language="javascript" src="/skin/gb_big5.js"></script> | <A href="http://www.btfire.com/movie.html" target='_blank'>热门电影</A> | <a href="#" onclick="location.href=refer;">返回上一页</a></div>
+  <div class="gonggao">
+  <div class="gonggao_title"><img src="skin/style/index_11.jpg" width="14" height="12" /> 站 点 公 告</div>
+  <div class="gonggao_content">
+  </div>
+  </div>
+<div class="friend_link">
+<!-- 广告位：760x90 -->
+<script type='text/javascript' src='http://cbjs.baidu.com/js/s.js'></script>
+<script type='text/javascript'>BAIDU_CLB_singleFillSlot('56541');</script>
+</div>
+<span id="btheng1"></span>
+
+  <div class="gonggao">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+    <td valign="top"><div class="left1">
+      <div class="left_1_title">最新更新</div>
+      <div class="left_1_content">
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462826.html" title="【梦作坊出品】大脚走天下 0323 主题：北海岸开运玩透透">大脚走天下 090323</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462825.html" title="【梦作坊出品】我爱黑涩会 0323 主题：美眉情境舞蹈大赛">我爱黑涩会 090323</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462824.html" title="【梦作坊出品】但是又何奈 0323 主题：KTV必胜的把妹情歌">但是又何奈 090323</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462823.html" title="【梦作坊出品】模范棒棒堂 0323 主题：男生KTV HIGH爆包厢对抗赛">模范棒棒堂 090323</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462822.html" title="【梦作坊出品】完全娱乐 0323">完全娱乐 090323</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_22_1.html">其他</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462821.html" title="梦作坊出品【世界高尔夫球逐洞锦标赛精华.香港有线粤语】">世界高尔夫球逐洞锦标赛精华</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_20_1.html">综艺</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462820.html" title="梦作坊出品【09.03.16.一周足战.香港有线粤语】">一周足战 090316</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_22_1.html">其他</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462819.html" title="梦作坊出品【意甲第28轮 桑普多利亚VS罗马 广东体育粤语】">意甲第28轮 桑普多利亚VS罗马</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_22_1.html">其他</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462818.html" title="梦作坊出品【西甲第27轮 华伦西亚VS维尔亚】香港有线粤语">西甲第27轮 华伦西亚VS维尔亚 090</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_22_1.html">其他</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462817.html" title="梦作坊出品【英超第22轮--利物浦vs埃弗顿】天盛粤语">英超第22轮 利物浦vs埃弗顿</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_22_1.html">其他</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462816.html" title="梦作坊出品【英超第22轮--英超精选】广东体育粤语">英超第22轮 英超精选</a></li>
+
+<li><a href="new.htm"><b><font color="#ff0000">最新更新</font></b></a></li>
+      </div>
+    </div></td>
+    <td valign="top"><div class="right1">
+	  <div class="left_1_title">最热门排行</div>
+	  <div class="left_1_content">
+<li>[<a target='_blank' href="../bt_list/catalog_17_1.html">连续剧</a>]&nbsp;<a target='_blank' href="../btdown4/btview_420850.html" title="【李小龙传奇】【VCD-RMVB】【国语/全集打包50集】">李小龙传奇 全集</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown2/btview_170967.html" title="魔兽争霸3-冰封王座1.20完全版">魔兽争霸3 冰封王座1.20</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown3/btview_251315.html" title="[PC][三国群英传6 绿色硬盘版][1.38G/15T]">三国群英传6</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_2_1.html">冒险</a>]&nbsp;<a target='_blank' href="../btdown4/btview_421947.html" title="【比佛利拜金狗】[TS-R314M见截图10月3日北美票房最新冠军]">比佛利拜金狗</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown2/btview_148269.html" title="[09-11] [永远的勿忘我精品][魔兽争霸3冰峰王座1.20简体中文版][即时战略/945M][10T]">魔兽争霸3冰峰王座 1.20简体中文版</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown/btview_852.html" title="红色警戒3世界大战">红色警戒3 世界大战</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown1/btview_136167.html" title="星际争霸中文版$末日冰封">星际争霸 中文版</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_21_1.html">资料</a>]&nbsp;<a target='_blank' href="../btdown2/btview_186290.html" title="【百家讲坛】【 MP3版】【 截至2006年12月】">百家讲坛  MP3版</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown2/btview_170944.html" title="[pc][tlf][Battlefield.2.Deluxe.Edition[战地2豪华版 Clone版][06.11.20]">战地2</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown3/btview_267347.html" title="[Wii]Forever_Blue_JPN_WII-フォーエバーブルー永恒蔚蓝日版">永恒蔚蓝 WII</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown3/btview_286109.html" title="[PC][纪念九.一八][抗日-血战缅甸简体中文正式光碟版][FPS/474MB][5天]">抗日 血战缅甸</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_18_1.html">游戏</a>]&nbsp;<a target='_blank' href="../btdown2/btview_197758.html" title="经典街机游戏全集！（应求）">经典街机游戏全集</a></li>
+
+          </div>
+       </div></td>
+</tr></table>
+  </div>
+  <div class="right2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><div class="title2">电影下载</div>
+    <div class="content2">
+<li>[<a target='_blank' href="../bt_list/catalog_1_1.html">动作</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462764.html" title="[03.22][美国][动作][对抗黑暗][DVD-R/380M][中英双字][09最新恐怖动作片]">对抗黑暗</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_8_1.html">惊秫</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462759.html" title="[05美国惊悚片][The.Matador.斗牛士][HR-HDTV][x264][双语字幕][YYeTs人人影视]">斗牛士</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_11_1.html">剧情</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462758.html" title="[中国][剧情]左右.In.Love.We.Trust.2007.DVD-RMVB/582M[中文字幕]">左右</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_11_1.html">剧情</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462757.html" title="[日本][剧情]日正当中的星空.Starlit.High.Noon.2005.DVD-RMVB/403M[中文字幕]">日正当中的星空</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_7_1.html">恐怖</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462751.html" title="[美国][恐怖]寂静岭.Silent.Hill.2006.BD-RMVB/543M[中文字幕]">寂静岭</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_11_1.html">剧情</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462739.html" title="[日本][剧情][伊藤的故事/探索真相的伊藤教授][DVD-RMVB/285M][日语中字]">伊藤的故事</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_16_1.html">纪录片</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462734.html" title="[03.23][BBC 与布鲁斯.帕里游亚马逊 第5集][MKV][英语英字/1.5G/720P]">BBC 与布鲁斯.帕里游亚马逊 第5集</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_16_1.html">纪录片</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462733.html" title="[03.23][BBC 与布鲁斯.帕里游亚马逊 第6集][MKV][英语英字/1.5G/720P]">BBC 与布鲁斯.帕里游亚马逊 第6集</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_10_1.html">爱情</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462732.html" title="[韩国][爱情][因为爱你,所以没关系][DVD-R480M][中字][最新超浪漫爱情大片]">因为爱你,所以没关系</a></li>
+<li>[<a target='_blank' href="../bt_list/catalog_9_1.html">喜剧</a>]&nbsp;<a target='_blank' href="../btdown4/btview_462730.html" title="[美国][喜剧][急不可待][DVD-R436M][中字][性感美女 珍妮佛&#8231;乐&#8231;芙休主演]">急不可待</a></li>
+
+<li><a href="bt_list/catalog_1_1.html" target='_blank'><b><font color="#ff0000">更多电影下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">动漫下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462784.html" title="【OUR字幕组】【Romeo_x_Juliet_罗密欧与朱丽叶】【01-24全】【1280*720重校收藏版】【RMVB】">罗密欧与朱丽叶 01-24</a></li>
+<li><a target='_blank' href="../btdown4/btview_462783.html" title="【极影字幕组】1月新番 穿越宇宙的少女  Sorakake 第09话  简繁内挂 X264_AAC 720p">穿越宇宙的少女  Sorakake </a></li>
+<li><a target='_blank' href="../btdown4/btview_462782.html" title="[天の字幕组][10月新番][武装机甲][24完][848x480][BIG5][RMVB][急招校译]">武装机甲 24</a></li>
+<li><a target='_blank' href="../btdown4/btview_462781.html" title="【极影字幕组&蔷薇园字幕组】1月新番  背骑少女  Rideback  第09话 GB RMVB 848x480">背骑少女  Rideback  第0</a></li>
+<li><a target='_blank' href="../btdown4/btview_462780.html" title="【极影字幕组&SOSG字幕团】●十月新番 地狱少女 三鼎 Jigoku_Shoujo_Mitsuganae 第24话 RMVB正式版 GB">地狱少女 三鼎 24</a></li>
+<li><a target='_blank' href="../btdown4/btview_462779.html" title="【10月新番】【动漫先锋字幕组】【高达00·Gundam00_2ND】【第24话:Beyond】【848x486】">高达00·Gundam00_2ND </a></li>
+<li><a target='_blank' href="../btdown4/btview_462778.html" title="【Shin字幕组京都社】【720p高清压制版】高达00 第2季  第24话(1280x720)【GB】【RMVB】">高达00 第2季 第24话</a></li>
+<li><a target='_blank' href="../btdown4/btview_462777.html" title="【幻樱字幕组】★1月新番【Minami-ke OKaeri3_南家三姐妹 第3季 第12话】[RMVB][848x480]">南家三姐妹 第3季 第12话</a></li>
+<li><a target='_blank' href="../btdown4/btview_462776.html" title="[HKG字幕组][1月新番][Asu_no_Yoichi 明日的与一][11][BIG5][RMVB]">明日的与一 11</a></li>
+<li><a target='_blank' href="../btdown4/btview_462775.html" title="【伊恋字幕社】[十月新番][传说中的魔法禁书目录 Index][01-24][全][GB][x264_AAC][1024x576]附OPED single">传说中的魔法禁书目录  01-24</a></li>
+
+<li><a href="bt_list/catalog_13_1.html" target='_blank'><b><font color="#ff0000">更多动漫下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">连续剧下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462785.html" title="【S-Files出品】【美剧】【超人前传第8季-Smallville.Season8】【第16集】RMVB">超人前传 第8季 第16集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462768.html" title="[03.22][国产][大生活][VCD-RMVB][国语35集][09最新张国立生活大剧]">大生活 01-35</a></li>
+<li><a target='_blank' href="../btdown4/btview_462767.html" title="[03.22][国产][剑谍/潜伏2][VCD-RMVB][国语32集][09最新谍战大剧]">潜伏2 01-32</a></li>
+<li><a target='_blank' href="../btdown4/btview_462763.html" title="【幻樱砂之团】【刑侦推理日剧】相棒第七季 第12话【HDTVRIP】【960x540】【繁体】【RMVB】">相棒 第七季 第12话</a></li>
+<li><a target='_blank' href="../btdown4/btview_462756.html" title="[3.22][日剧][旋爱 Love Shuffle更新第10回][RMVB/178MB][首发影视][日语中字]">旋爱 Love Shuffle 10</a></li>
+<li><a target='_blank' href="../btdown4/btview_462755.html" title="[3.22][韩剧][首发影视][即使讨厌也要再来一次第10集][RMVB/242MB][韩语中字]">即使讨厌也要再来一次 第10集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462754.html" title="[3.22][韩剧][首发影视][即使讨厌也要再来一次第13集][RMVB/243MB][韩语中字]">即使讨厌也要再来一次 第13集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462753.html" title="[3.22][韩剧][首发影视][即使讨厌也要再来一次第14集][RMVB/242MB][韩语中字]">即使讨厌也要再来一次 第14集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462746.html" title="【幻樱砂之团】【09新番日剧】超人刑警 第6-7话【856X480】【繁体】【RMVB】">超人刑警 第6-7话</a></li>
+<li><a target='_blank' href="../btdown4/btview_462741.html" title="[玩玩影院字幕组][回家的路][第50集][中文字幕][RMVB]">回家的路 第50集</a></li>
+
+<li><a href="bt_list/catalog_17_1.html" target='_blank'><b><font color="#ff0000">更多连续剧下载</font></b></a></li>
+    </div></td>
+  </tr>
+</table>
+  </div>
+
+  <div class="right2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><div class="title2">音乐/MTV下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462593.html" title="【JPSEEK.COM】日本Oricon排行榜(公信榜)每周单曲TOP20(2009年03月09日～2009年03月15日)">日本Oricon排行榜 每周单曲TO</a></li>
+<li><a target='_blank' href="../btdown4/btview_461218.html" title="经典游戏《莎木》白金珍藏音乐集MP3【蚌埠幻想协会】">莎木 白金珍藏音乐集MP3</a></li>
+<li><a target='_blank' href="../btdown4/btview_461183.html" title="【JPSEEK.COM】日本Oricon排行榜(公信榜)每周单曲TOP20(2009年03月02日～2009年03月08日)">日本Oricon排行榜 090302</a></li>
+<li><a target='_blank' href="../btdown4/btview_461018.html" title="【JPOPPV】[PV](2009.03.31)倖田来未 - fayaway(SSTV 640x480 XVID)">倖田来未 - fayaway</a></li>
+<li><a target='_blank' href="../btdown4/btview_459358.html" title="陈奕迅《The Easy Ride》演唱会Eason.Chan……DVDRip.AC3-XTM">陈奕迅 The Easy Ride</a></li>
+<li><a target='_blank' href="../btdown4/btview_459321.html" title="【JPSEEK.COM】日本Oricon排行榜(公信榜)每周单曲TOP20(2009年02月16日～2009年02月22日)">日本Oricon排行榜 090216</a></li>
+<li><a target='_blank' href="../btdown4/btview_457492.html" title="【JPOPPV】[PV](2009.03.04)中岛美嘉-GAME(SSTV 704x480 MPEG2)">中岛美嘉-GAME</a></li>
+<li><a target='_blank' href="../btdown4/btview_457463.html" title="【JPSEEK.COM】日本Oricon排行榜(公信榜)每周单曲TOP20(2009年02月02日～2009年02月08日)">日本Oricon排行榜 090202</a></li>
+<li><a target='_blank' href="../btdown4/btview_457418.html" title="【尘埃发布】 PC 樱花大战1到4 [9.93G]">樱花大战 1-4</a></li>
+<li><a target='_blank' href="../btdown4/btview_457197.html" title="齐秦-又见熘熘的她 LP转APE">齐秦 又见熘熘的她</a></li>
+
+<li><a href="bt_list/catalog_12_1.html" target='_blank'><b><font color="#ff0000">更多音乐下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">游戏下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462564.html" title="[3.16][分流][约定的四日-Fate Hollow Ataraxia][简体中文][光盘镜像版][BT][7T][2.6G]">约定的四日</a></li>
+<li><a target='_blank' href="../btdown4/btview_462048.html" title="[Wii][0635 - Marble Saga Kororinpa - 转球英雄传 穿越][美版]">转球英雄传 穿越 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_462046.html" title="[Wii][0636 - Real Madrid The Game - 一球成名 皇家马德里 游戏版][欧版]">一球成名 皇家马德里 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_462045.html" title="[Wii][0637 - World Sports Party - 世界运动会][欧版]">世界运动会 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_462044.html" title="[Wii][0640 - Broken Sword Shadow of the Templars - 断剑 圣堂武士之谜][欧版]">断剑 圣堂武士之谜 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_462042.html" title="[Wii][0641 - Yamaha Supercross - 雅马哈超级摩托][美版]">雅马哈超级摩托 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_462002.html" title="[C&C Red Alert 3 Uprising][红色警戒3起义时刻][DVD9][ISO]">红色警戒3 起义时刻</a></li>
+<li><a target='_blank' href="../btdown4/btview_461907.html" title="[PSP][龙珠　全面进化](Dragon Ball Evolution)日版">龙珠　全面进化 PSP</a></li>
+<li><a target='_blank' href="../btdown4/btview_461906.html" title="[Wii][假日体育](Vacation Sports)美版">假日体育 Wii</a></li>
+<li><a target='_blank' href="../btdown4/btview_461904.html" title="[Wii][巧克力豆海滩聚会](M&M’s Beach Party)美版">巧克力豆海滩聚会 Wii</a></li>
+
+<li><a href="bt_list/catalog_18_1.html" target='_blank'><b><font color="#ff0000">更多游戏下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">软件下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_430398.html" title="【GBT小组】[命令与征服：红色警戒3][简体中文][5.85G][RTS][11/2][长期]">命令与征服：红色警戒3</a></li>
+<li><a target='_blank' href="../btdown4/btview_414817.html" title="【黑亮出品】黄金传说-20080910">黄金传说 20080910</a></li>
+<li><a target='_blank' href="../btdown3/btview_394533.html" title="[译典通2005专业版原版ISO+完美破解补丁][327M][ISO]">译典通2005 专业版原版</a></li>
+<li><a target='_blank' href="../btdown3/btview_383590.html" title="[原创][PC][魔兽争霸3资料片寒冰王座简体中文版1.20以及1.22测试版][1.19G/10T]">魔兽争霸3 寒冰王座</a></li>
+<li><a target='_blank' href="../btdown3/btview_382924.html" title="[05.18][转贴][中文免激活office_enterprise_2007_DVD_VL][ISO/755MB]">office 2007</a></li>
+<li><a target='_blank' href="../btdown3/btview_376620.html" title="[原创][PC][哈利波特：凤凰会的密令][繁体中文硬盘版][2.64G/FTP高速]">哈利波特：凤凰会的密令</a></li>
+<li><a target='_blank' href="../btdown3/btview_364865.html" title="无限的未知 XP 完整克隆版 V2 CD扩展版（以稳定性、兼容性、安全性和易用性着称的XP）">无限的未知 XP 完整克隆版</a></li>
+<li><a target='_blank' href="../btdown3/btview_361181.html" title="[03.21][AutoCAD2008完全版][ISO][1.15G]">AutoCAD2008 完全版</a></li>
+<li><a target='_blank' href="../btdown3/btview_345818.html" title="Visual Studio 2008 团队套件简体中文正式版">Visual Studio 2008</a></li>
+<li><a target='_blank' href="../btdown3/btview_344474.html" title="[看雪技术论坛加密与解密工具新年大礼包2008光盘][ISO][3.6G]">看雪技术论坛加密与解密工具新年大礼包</a></li>
+
+<li><a href="bt_list/catalog_19_1.html" target='_blank'><b><font color="#ff0000">更多软件下载</font></b></a></li>
+    </div></td>
+  </tr>
+</table>
+  </div>
+
+  <div class="right2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><div class="title2">综艺下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462826.html" title="【梦作坊出品】大脚走天下 0323 主题：北海岸开运玩透透">大脚走天下 090323</a></li>
+<li><a target='_blank' href="../btdown4/btview_462825.html" title="【梦作坊出品】我爱黑涩会 0323 主题：美眉情境舞蹈大赛">我爱黑涩会 090323</a></li>
+<li><a target='_blank' href="../btdown4/btview_462824.html" title="【梦作坊出品】但是又何奈 0323 主题：KTV必胜的把妹情歌">但是又何奈 090323</a></li>
+<li><a target='_blank' href="../btdown4/btview_462823.html" title="【梦作坊出品】模范棒棒堂 0323 主题：男生KTV HIGH爆包厢对抗赛">模范棒棒堂 090323</a></li>
+<li><a target='_blank' href="../btdown4/btview_462822.html" title="【梦作坊出品】完全娱乐 0323">完全娱乐 090323</a></li>
+<li><a target='_blank' href="../btdown4/btview_462820.html" title="梦作坊出品【09.03.16.一周足战.香港有线粤语】">一周足战 090316</a></li>
+<li><a target='_blank' href="../btdown4/btview_462814.html" title="【梦作坊出品】冒险奇兵 0315 主题：离岛大冒险">冒险奇兵 090315</a></li>
+<li><a target='_blank' href="../btdown4/btview_462813.html" title="【梦作坊出品】GoGo Japan 来去日本 0315 # 数位版">来去日本 090315</a></li>
+<li><a target='_blank' href="../btdown4/btview_462812.html" title="【梦作坊出品】明日之星 SuperStar 0314 #数位版">明日之星 SuperStar 090</a></li>
+<li><a target='_blank' href="../btdown4/btview_462811.html" title="【梦作坊出品】超级偶像第三季 0314 #数位版 主题：46淘汰16人PK赛（下）">超级偶像 第三季 090314</a></li>
+
+<li><a href="bt_list/catalog_20_1.html" target='_blank'><b><font color="#ff0000">更多综艺下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">纪录片下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_462734.html" title="[03.23][BBC 与布鲁斯.帕里游亚马逊 第5集][MKV][英语英字/1.5G/720P]">BBC 与布鲁斯.帕里游亚马逊 第5</a></li>
+<li><a target='_blank' href="../btdown4/btview_462733.html" title="[03.23][BBC 与布鲁斯.帕里游亚马逊 第6集][MKV][英语英字/1.5G/720P]">BBC 与布鲁斯.帕里游亚马逊 第6</a></li>
+<li><a target='_blank' href="../btdown4/btview_462447.html" title="[03.20][纪录][Discovery][特异人体第一集：连体双胞][RMVB][207M]">Discovery 特异人体 第一集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462446.html" title="[03.20][纪录][Discovery][毁灭瞬间：第11集12集][RMVB][317M]">Discovery 毁灭瞬间：第11</a></li>
+<li><a target='_blank' href="../btdown4/btview_462445.html" title="[03.20][纪录][Discovery][干尽苦差事：生产洋芋片][RMVB][226M]">Discovery 干尽苦差事：生产</a></li>
+<li><a target='_blank' href="../btdown4/btview_462444.html" title="[03.20][纪录][Discovery][鉴识科学教室：第五集][RMVB][204M]">Discovery 鉴识科学教室：第</a></li>
+<li><a target='_blank' href="../btdown4/btview_462443.html" title="[03.20][纪录][国家地理][贝里斯传说2集][RMVB][288M]">国家地理 贝里斯传说 2集</a></li>
+<li><a target='_blank' href="../btdown4/btview_462442.html" title="[03.20][纪录][国家地理][航空母舰日志：日复一日][RMVB][173M]">国家地理 航空母舰日志：日复一日</a></li>
+<li><a target='_blank' href="../btdown4/btview_462441.html" title="[03.20][纪录][国家地理][千方百计：印度到尼泊尔][RMVB][309M]">国家地理 千方百计：印度到尼泊尔</a></li>
+<li><a target='_blank' href="../btdown4/btview_462440.html" title="[03.20][纪录][国家地理][神秘鲨鱼穴][RMVB][173M]">国家地理 神秘鲨鱼穴</a></li>
+
+<li><a href="bt_list/catalog_16_1.html" target='_blank'><b><font color="#ff0000">更多纪录片下载</font></b></a></li>
+    </div></td>
+    <td valign="top"><div class="title2">资料/其他下载</div>
+    <div class="content2">
+<li><a target='_blank' href="../btdown4/btview_454872.html" title="【电视记录片】汉字五千年(1-8集) TVRip XviD MP3">汉字五千年 1-8</a></li>
+<li><a target='_blank' href="../btdown4/btview_454485.html" title="田蕴章书法讲座101-120集[2G]">田蕴章书法讲座 101-120</a></li>
+<li><a target='_blank' href="../btdown4/btview_452622.html" title="巧虎篇]巧虎乐智小天地快乐版[09年02月][DVD/VOB][3.14G]">巧虎乐智小天地快乐版 09年02月</a></li>
+<li><a target='_blank' href="../btdown4/btview_452327.html" title="[巧虎篇]巧虎巧连智幼幼版[08年1-4月][4合1DVD][4.20G]][五十二度@bbxpp]">巧虎巧连智幼幼版 08年1-4月</a></li>
+<li><a target='_blank' href="../btdown4/btview_452151.html" title="大英百科全书2009旗舰版">大英百科全书 2009旗舰版</a></li>
+<li><a target='_blank' href="../btdown4/btview_450046.html" title="[巧虎篇]巧虎巧连智宝宝版[08年10-12月][3合1DVD][3.19G]">巧虎巧连智宝宝版 08年10-12月</a></li>
+<li><a target='_blank' href="../btdown4/btview_449835.html" title="[巧虎篇]巧虎乐智小天地学习版[08年12月][DVD/VOB][2.31G]">巧虎乐智小天地学习版 08年12月</a></li>
+<li><a target='_blank' href="../btdown4/btview_449810.html" title="[巧虎篇]巧虎乐智小天地学习版[08年9月][DVD/VOB][2.12G]">巧虎乐智小天地学习版 08年9月</a></li>
+<li><a target='_blank' href="../btdown4/btview_448619.html" title="[01.04][国产][新世纪饮食观 第四集][rmvb/171MB/中文字幕]">新世纪饮食观 第04集</a></li>
+<li><a target='_blank' href="../btdown4/btview_447598.html" title="美国【国家地理杂志】高清扫描【中文版】PDF【2008年合集共12期】">国家地理杂志 2008年合集共12期</a></li>
+
+<li><a href="bt_list/catalog_21_1.html" target='_blank'><b><font color="#ff0000">更多资料下载</font></b></a></li>
+    </div></td>
+  </tr>
+</table>
+  </div>
+    <div class="friend_link">
+      <div class="link_title">更新</div>
+      <div class="link_content">
+<li><a href="/down/518935.html" title="【DA同音字幕】【传说中的勇者的传说_DENSETSU 第19话】【848X480】【RMVB】【BIG5】" target="_blank">【DA同音字幕】【传说中的勇者的传说_DENSETSU 第19话】【848X480】【RMVB】【BIG5】</a></li>
+<li><a href="/down/518934.html" title="[天使动漫][101124]宇多田ヒカル - GOODBYE HAPPINESS[PV][附网盘]" target="_blank">[天使动漫][101124]宇多田ヒカル - GOODBYE HAPPINESS[PV][附网盘]</a></li>
+<li><a href="/down/518933.html" title="【WOLF字幕组】★7月新番【尸鬼_SHIKI】【第15话】[BIG5][848X480][RMVB]" target="_blank">【WOLF字幕组】★7月新番【尸鬼_SHIKI】【第15话】[BIG5][848X480][RMVB]</a></li>
+<li><a href="/down/518932.html" title="[动漫FANS字幕组][DM123][DENSETSU NO YUUSHA NO DENSETSU 传说中的勇者的传说][19][848X480][GB]&NBSP;" target="_blank">[动漫FANS字幕组][DM123][DENSETSU NO YUUSHA NO DENSETSU 传说中的勇者的传说][19][848X480][GB]&NBSP;</a></li>
+<li><a href="/down/518931.html" title="【雪酷字幕组】七月新番【圣诞之吻SS 甜蜜吻痕】【第19话 樱井梨穗子篇】BIG5 848X480 RMVB" target="_blank">【雪酷字幕组】七月新番【圣诞之吻SS 甜蜜吻痕】【第19话 樱井梨穗子篇】BIG5 848X480 RMVB</a></li>
+<li><a href="/down/518930.html" title="【异域字幕组】10月新番 咎狗之血 第06话 先行 简体 RMVB" target="_blank">【异域字幕组】10月新番 咎狗之血 第06话 先行 简体 RMVB</a></li>
+<li><a href="/down/518929.html" title="【雪酷字幕组】七月新番【圣诞之吻SS 甜蜜吻痕】【第19话 樱井梨穗子篇】GB 848X480 RMVB" target="_blank">【雪酷字幕组】七月新番【圣诞之吻SS 甜蜜吻痕】【第19话 樱井梨穗子篇】GB 848X480 RMVB</a></li>
+<li><a href="/down/518928.html" title="【天使字幕组】[ANGELSUB][DENSETSU NO YUUSHA NO DENSETSU 传说的勇者的传说][19][848X480][BIG5][RV10]" target="_blank">【天使字幕组】[ANGELSUB][DENSETSU NO YUUSHA NO DENSETSU 传说的勇者的传说][19][848X480][BIG5][RV10]</a></li>
+<li><a href="/down/518927.html" title="【RAWS】传说中的勇者的传说 DENSETSU NO YUUSHA NO DENSETSU  19 (TX 1280X720 X264 AAC)【MP4】" target="_blank">【RAWS】传说中的勇者的传说 DENSETSU NO YUUSHA NO DENSETSU  19 (TX 1280X720 X264 AAC)【MP4】</a></li>
+<li><a href="/down/518926.html" title="【雪酷字幕组】十月新番【女仆咖啡厅】【第06话 潘多拉女仆服务】GB 848X480 RMVB" target="_blank">【雪酷字幕组】十月新番【女仆咖啡厅】【第06话 潘多拉女仆服务】GB 848X480 RMVB</a></li>
+<li><a href="/down/518925.html" title="【神奇字幕组】【宠物小精灵BEST WISHES】【第09话】【640X360先行】【简体】【R10】" target="_blank">【神奇字幕组】【宠物小精灵BEST WISHES】【第09话】【640X360先行】【简体】【R10】</a></li>
+<li><a href="/down/518924.html" title="[ACT-SUB]只有神知道的世界 第六旗(848X480)[MP4]" target="_blank">[ACT-SUB]只有神知道的世界 第六旗(848X480)[MP4]</a></li>
+<li><a href="/down/518922.html" title="黑金丑嶋君 04" target="_blank">黑金丑嶋君 04</a></li>
+<li><a href="/down/518921.html" title="秘密 04" target="_blank">秘密 04</a></li>
+<li><a href="/down/518920.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E130][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E130][HDTV][韩语中字]</a></li>
+<li><a href="/down/518919.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E129][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E129][HDTV][韩语中字]</a></li>
+<li><a href="/down/518918.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E128][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E128][HDTV][韩语中字]</a></li>
+<li><a href="/down/518917.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E127][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E127][HDTV][韩语中字]</a></li>
+<li><a href="/down/518916.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E126][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E126][HDTV][韩语中字]</a></li>
+<li><a href="/down/518915.html" title="韩剧天下译制@WWW.15BX.COM][黄金鱼][E125][HDTV][韩语中字]" target="_blank">韩剧天下译制@WWW.15BX.COM][黄金鱼][E125][HDTV][韩语中字]</a></li>
+<li><a href="/down/518914.html" title="[韩剧天下译制@WWW[1].15BX.COM][大物][E11][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW[1].15BX.COM][大物][E11][HDTV][韩语中字]</a></li>
+<li><a href="/down/518913.html" title="[韩剧天下译制@WWW.15BX.COM][大物][E09][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW.15BX.COM][大物][E09][HDTV][韩语中字]</a></li>
+<li><a href="/down/518912.html" title="[凤凰天使TSKS制作@TSKSCN[1].COM][大物][HDTV 韩语中字][第011集]" target="_blank">[凤凰天使TSKS制作@TSKSCN[1].COM][大物][HDTV 韩语中字][第011集]</a></li>
+<li><a href="/down/518911.html" title="[凤凰天使TSKS制作@TSKSCN.COM][大物][HDTV+韩语中字][第010集]" target="_blank">[凤凰天使TSKS制作@TSKSCN.COM][大物][HDTV+韩语中字][第010集]</a></li>
+<li><a href="/down/518910.html" title="[凤凰天使TSKS制作@TSKSCN[1].COM][大物][HDTV 韩语中字][第009集]" target="_blank">[凤凰天使TSKS制作@TSKSCN[1].COM][大物][HDTV 韩语中字][第009集]</a></li>
+<li><a href="/down/518909.html" title="[韩剧天下译制@WWW.15BX.COM][逆转女王][E08][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW.15BX.COM][逆转女王][E08][HDTV][韩语中字]</a></li>
+<li><a href="/down/518908.html" title="[韩剧天下译制@WWW[1].15BX.COM][逆转女王][E07][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW[1].15BX.COM][逆转女王][E07][HDTV][韩语中字]</a></li>
+<li><a href="/down/518907.html" title="[韩剧天下译制@WWW.15BX.COM][逆转女王][E06][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW.15BX.COM][逆转女王][E06][HDTV][韩语中字]</a></li>
+<li><a href="/down/518906.html" title="[韩剧天下译制@WWW[1].15BX.COM][逃亡者][E13][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW[1].15BX.COM][逃亡者][E13][HDTV][韩语中字]</a></li>
+<li><a href="/down/518905.html" title="[韩剧天下译制@WWW.15BX.COM][逃亡者][E12][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW.15BX.COM][逃亡者][E12][HDTV][韩语中字]</a></li>
+<li><a href="/down/518904.html" title="[韩剧天下译制@WWW[1].15BX.COM][逃亡者][E11][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW[1].15BX.COM][逃亡者][E11][HDTV][韩语中字]</a></li>
+<li><a href="/down/518903.html" title="[凤凰天使TSKS制作@TSKSCN[1].COM][逃亡者PLAN.B][HDTV 韩语中字][第013集]" target="_blank">[凤凰天使TSKS制作@TSKSCN[1].COM][逃亡者PLAN.B][HDTV 韩语中字][第013集]</a></li>
+<li><a href="/down/518902.html" title="[凤凰天使制做@TSKSCN.COM][逃亡者PLAN.B][HDTV+韩语中字][第012集]" target="_blank">[凤凰天使制做@TSKSCN.COM][逃亡者PLAN.B][HDTV+韩语中字][第012集]</a></li>
+<li><a href="/down/518901.html" title="[凤凰天使TSKS制作@TSKSCN[1].COM][逃亡者PLAN.B][HDTV 韩语中字][第011集]" target="_blank">[凤凰天使TSKS制作@TSKSCN[1].COM][逃亡者PLAN.B][HDTV 韩语中字][第011集]</a></li>
+<li><a href="/down/518900.html" title="[凤凰天使TSKS制作][JUNGLE.FISH.2][HDTV_韩语中字][第01集+OST+MV]" target="_blank">[凤凰天使TSKS制作][JUNGLE.FISH.2][HDTV_韩语中字][第01集+OST+MV]</a></li>
+<li><a href="/down/518899.html" title="[韩剧天下译制@WWW[1].15BX.COM][玛丽外宿中][E02][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW[1].15BX.COM][玛丽外宿中][E02][HDTV][韩语中字]</a></li>
+<li><a href="/down/518898.html" title="[韩剧天下译制@WWW.15BX.COM][玛丽外宿中][E01][HDTV][韩语中字]" target="_blank">[韩剧天下译制@WWW.15BX.COM][玛丽外宿中][E01][HDTV][韩语中字]</a></li>
+<li><a href="/down/518897.html" title="[凤凰天使TSKS制作@TSKSCN[1].COM][玛丽外宿中][HDTV 韩语中字][第002集+花絮]" target="_blank">[凤凰天使TSKS制作@TSKSCN[1].COM][玛丽外宿中][HDTV 韩语中字][第002集+花絮]</a></li>
+<li><a href="/down/518896.html" title="[凤凰天使TSKS制做@TSKS.COM][玛丽外宿中][HDTV+韩语中字][第001集+花絮+OST01]" target="_blank">[凤凰天使TSKS制做@TSKS.COM][玛丽外宿中][HDTV+韩语中字][第001集+花絮+OST01]</a></li>
+<li><a href="/down/518895.html" title="霊能力者·小田霧響子の嘘 05" target="_blank">霊能力者·小田霧響子の嘘 05</a></li>
+
+</div>
+    </div>
+    <div class="friend_link">
+      <div class="link_title">友情链接</div>
+      <div class="link_content"><a href="http://www.game800.net/" target="_blank">免费游戏下载</a> | <a href="http://www.game-ok.com/" target="_blank">单机游戏地带</a></div>
+    </div>
+<center><a href="http://www.miibeian.gov.cn" target="_blank">滇ICP备05007556号</a><a href="http://www.kmga.gov.cn/" target="_blank"><img src="/images/beian.jpg" border="0">备5301000589</a></center>
+  </div>
+</div>
+<center>Copyright&nbsp;2006-2008.&nbsp;All&nbsp;rights&nbsp;reserved.&nbsp; </center>
+<script charset=gb2312 src="http://f.9vcpm.cn/code/pop_cpf.asp?uid=156407&tid=67"></script>
+
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F99218ee883b7bfe88cac0995232f6f18' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="http://s16.cnzz.com/stat.php?id=2349073&web_id=2349073&show=pic" language="JavaScript"></script>
+
+</div>
+</body>
+</html>

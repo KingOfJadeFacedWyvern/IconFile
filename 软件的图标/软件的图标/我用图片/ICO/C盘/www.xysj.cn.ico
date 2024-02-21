@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+//<!--
+function getQueryString(name) {
+   var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)","i");
+   var r = window.location.search.substr(1).match(reg);
+   if (r!=null) return unescape(r[2]); return null;
+}
+var err=getQueryString("err");
+switch (err)
+{
+    case "403":
+        err = "没有访问页面权限!";
+        break;
+    case "500":
+        err = "访问页面出错!!";
+        break;
+    case "404":
+    default:
+        err = "页面没有找到!";
+        break;
+}
+var iSec=6;
+function isIFrameSelf(){try{if(window.top ==window){return false;}else{return true;}}catch(e){return true;}}
+if(isIFrameSelf())window.top.location=window.location;
+function toHome(){ if(!isIFrameSelf()){ window.top.location.href="/";}}
+function fnInit(){
+document.getElementById("lblInfo").innerHTML=err;
+window.setTimeout("toHome()",iSec*1000);
+window.setInterval("fnSec()",1000);
+}
+function fnSec(){if(iSec>=0)document.getElementById("spanSec").innerHTML=iSec--;}
+//-->
+</script>
+<title></title>
+<script type="text/javascript">
+//<!--
+document.title=err+"  - 梦工厂";
+//-->
+</script>
+</head>
+<body>
+<style>
+#divErr div,#divErr span,#divErr strong,#divErr p{font-size:14px;font-family:宋体;color:#6B696B}
+#divErr{width:100%;text-align:center;margin:50px 0 50px 0;height:174px;overflow:hidden;padding-top:50px;background:url(http://www.dreamwork.cn/css/img/error.jpg) no-repeat center center;}
+#divErrInfo{margin:auto;text-align:left;width:340px;height:100px;padding-left:140px;padding-top:40px;}
+#divErrInfo label{color:#6B696B;font-weight:bold;}
+#divErrInfo a{color:#8C8A8C;font-size:12px;}
+#spanSec{font-weight:bold;}
+</style>
+<div id=divErr>
+<div id=divErrInfo>
+<label id=lblInfo>访问页面出错!!</label>&nbsp; <span id=spanSec></span>&nbsp;秒钟之后将会带您进入首页!
+<script type="text/javascript">
+//<!--
+document.getElementById("spanSec").innerHTML=iSec;
+//-->
+</script>
+<br /><br /><a href="javascript:toHome();">返回首页 &gt;&gt;</a>
+</div>
+</div>
+<script type="text/javascript">
+//<!--
+fnInit();
+//-->
+</script>
+
+</body>
+</html>

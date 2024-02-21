@@ -1,0 +1,250 @@
+<html>
+
+<head>
+<title>Virus Threats and Analysis</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="Copyright" content="Eset, spol. s r.o.">
+<meta name="Author" content="NOD32STAT">
+<meta name="Title" content="Virus Threats and Analysis">
+<meta name="Desc" content="List of available analysis">
+<meta name="Generated" content="2011-02-18 11:59:59 +0100 (2011-02-18 10:59:59 UTC)">
+<link href="static_main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table class="D_table_main" align="center" border="0" cellpadding="0" cellspacing="0" width="800" height="100%">
+	<tr>
+	<td valign="top" align="left" height=75>	
+		<a target=_blank href="http://www.eset.com"><img border=0 src="static_main_top_enu.gif" width=800 height=75></a><br>
+	</td>
+	</tr>
+	<tr>
+	<td valign="middle" align="left" height=31 background="static_menu_main.gif">
+		<table width=800 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td align=left><b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index_enu.html"><font color=#006B6A>Main</font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="stat_01_current/index_enu.html">Threats</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="stat_02_months/index_month_enu.html">Archive</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.virus-radar.com/dynamic/dquery.php?mcx=vdesc&instance=top&langname=enu">Virus descriptions</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="info_enu.html">Info</a>
+</b></td>
+<td align=right><b>
+<img align=absmiddle border=0 hspace=0 vspace=0 src="static_menu_main_separator.gif">
+&nbsp;&nbsp;<a href="index.html">Slovensky</a>
+&nbsp;&nbsp;<a href="index_csy.html">Česky</a>
+&nbsp;&nbsp;<font color=#006B6A>English</font>
+&nbsp;&nbsp;<a href="index_esn.html">Espa&#241;ol</a>
+&nbsp;&nbsp;
+</b>
+</td>
+</tr>
+</table>
+
+	</td>
+	</tr>
+    <tr>
+    <td valign="top" align="center">
+		<br><br><br>
+<table border=0 cellspacing=0 cellpadding=0 width=724>
+<tr>
+<td valign=top background="static_menu_interval_main_0.gif" height=40>
+
+	<table border=0 cellspacing=0 cellpadding=0 width=724 height=40>
+	<tr>
+	<td align=left width="120"><b>&nbsp;&nbsp;Time&nbsp;interval:</b></td>	
+	<td align=center width="75"><b><font color=#006B6A>Day</font></b></td>
+	<td align=center width="100"><b><a href="index_c168h_enu.html">Week</a></b></td>
+	<td align=center width="95"><b><a href="index_c31d_enu.html">Month</a></b></td>
+	<td align=center width="80"><b><a href="index_c12m_enu.html">Year</a></b></td>
+	<td align=left>&nbsp</td>
+	</tr>
+	</table>
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#EBEBEB">
+
+<table border="0" width="100%" cellpadding=12 cellspacing=0>
+  <tr>
+    <td width=345 align=left valign=top>
+    
+    	<table align=center border=0 cellpadding=0 cellspacing=0 width=100%>
+		<tr>
+    	<td align=left valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_lh_gr.gif" width="4" height="4"></td>
+    	<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ph_gr.gif" width="4" height="4"></td>
+  		</tr>
+  		<tr>
+    	<td width=4 bgcolor="#006B6A"></td>
+    	<td align=center valign=middle bgcolor="#006B6A">
+			<table border=0 cellspacing=2 cellpadding=0><tr>
+			<td><font color=white><b>Total infection ratio in the last 24 hours</b></font></td>
+			</tr></table>
+		</td>
+    	<td width=4 bgcolor="#006B6A"></td>
+  		</tr>
+  		<tr>
+		<td align=left valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ld_gr.gif" width="4" height="4"></td>
+   		<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_pd_gr.gif" width="4" height="4"></td>
+  		</tr>
+		</table>
+
+		<a href="stat_01_current/virus_total_enu.html"><img vspace=8 border=0 src=virus_total_ir_enu.png></a>&nbsp;<a href="stat_01_current/virus_total_enu.html"><img border=0 align=absmiddle src="static_button_red_gr.gif" width=18 height=18>&nbsp;&nbsp;More information...</a><br><br>
+		
+		<table align=center border=0 cellpadding=0 cellspacing=0 width=100%>
+		<tr>
+    	<td align=left valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_lh_gr.gif" width="4" height="4"></td>
+    	<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ph_gr.gif" width="4" height="4"></td>
+  		</tr>
+  		<tr>
+    	<td width=4 bgcolor="#006B6A"></td>
+    	<td align=center valign=middle bgcolor="#006B6A">
+			<table border=0 cellspacing=2 cellpadding=0><tr>
+			<td><font color=white><b>Top threats in the last 24 hours</b></font></td>
+			</tr></table>
+		</td>
+    	<td width=4 bgcolor="#006B6A"></td>
+  		</tr>
+  		<tr>
+		<td align=left valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ld_gr.gif" width="4" height="4"></td>
+   		<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_pd_gr.gif" width="4" height="4"></td>
+  		</tr>
+		</table>
+
+		<table align=center width=325 border=0 cellpadding=3 cellspacing=0><tr><td width=170><b>Virus</b></td><td align=right width=100></td><td align=right><b>Count</b></td></tr></table><center><img src="static_line_gr.gif" width=325 height=1></center><table align=center width=325 border=0 cellpadding=3 cellspacing=0><tr><td><a href='stat_01_current/virus_0001_enu.html'><font color=#E10202>1.</font>&nbsp;Win32/Netsky.Q worm</a></td><td align=center><img width=100 height=12 src=prog_100.png></td><td align=right>3 956</td></tr><tr><td><a href='stat_01_current/virus_0002_enu.html'><font color=#E10202>2.</font>&nbsp;<font title="a variant of Win32/Injector.BZ trojan">a variant of Win32/I...</font></a></td><td align=center><img width=100 height=12 src=prog_080.png></td><td align=right>3 159</td></tr><tr><td><a href='stat_01_current/virus_0003_enu.html'><font color=#E10202>3.</font>&nbsp;Win32/Zafi.B worm</a></td><td align=center><img width=100 height=12 src=prog_015.png></td><td align=right>602</td></tr><tr><td><a href='stat_01_current/virus_0004_enu.html'><font color=#E10202>4.</font>&nbsp;Win32/Merond.O worm</a></td><td align=center><img width=100 height=12 src=prog_003.png></td><td align=right>123</td></tr><tr><td><a href='stat_01_current/virus_0005_enu.html'><font color=#E10202>5.</font>&nbsp;Win32/Netsky.C worm</a></td><td align=center><img width=100 height=12 src=prog_002.png></td><td align=right>75</td></tr></table><center><img align=center src="static_line_gr.gif" width=325 height=1></center>&nbsp;<a href="stat_01_current/index_enu.html"><img vspace=5 border=0 align=absmiddle src="static_button_red_gr.gif" width=18 height=18>&nbsp;&nbsp;More information...</a><br><br>
+
+    </td>
+    <td align=center valign=middle><img border="0" src="static_dot_line_down_gr.gif" width="3" height="394"></td>
+    <td align=left width=345 align=center valign=top>
+    	
+    	<table align=center border=0 cellpadding=0 cellspacing=0 width=100%>
+		<tr>
+    	<td align=left valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_lh_gr.gif" width="4" height="4"></td>
+    	<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=top width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ph_gr.gif" width="4" height="4"></td>
+  		</tr>
+  		<tr>
+    	<td width=4 bgcolor="#006B6A"></td>
+    	<td align=center valign=middle bgcolor="#006B6A">
+			<table border=0 cellspacing=2 cellpadding=0><tr>
+			<td><font color=white><b>Top virus in the last 24 hours</b></font></td>
+			</tr></table>
+		</td>
+    	<td width=4 bgcolor="#006B6A"></td>
+  		</tr>
+  		<tr>
+		<td align=left valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_ld_gr.gif" width="4" height="4"></td>
+   		<td height=4 bgcolor="#006B6A"></td>
+		<td align=right valign=bottom width=4 height=4 bgcolor="#006B6A"><img border="0" src="static_table2_pd_gr.gif" width="4" height="4"></td>
+  		</tr>
+		</table>
+
+		<table border=0 cellpadding=0 cellspacing=3 width=100%>
+		<tr>
+		<td width=50>
+
+			<a href="http://www.virus-radar.com/dynamic/dquery.php?mcx=vdesc&instance=top&vname=Win32/Netsky.Q worm&langname=enu"><img border="0" vspace=10 hspace=4 src="static_list_desc_gr.gif" width="43" height="54"></a>
+
+		</td>
+		<td>
+
+			<table border=0 cellpadding=0 cellspacing=10 width=100%>
+			<tr>
+			<td><b>Info:</b></td><td><b><a href="http://www.virus-radar.com/dynamic/dquery.php?mcx=vdesc&instance=top&vname=Win32/Netsky.Q worm&langname=enu"><font color=darkblue>Win32/Netsky.Q worm</font></a></b></td>
+			</tr>
+			<tr>
+			<td>Risk:</td><td><font color=darkblue>Normal</font></td>
+			</tr>
+			</table>
+
+		</td>
+		</tr>
+		</table>
+
+		<table border=0 cellpadding=0 cellspacing=3 width=100%>
+		<tr>
+		<td>
+
+			<table border=0 cellpadding=0 cellspacing=10 width=100%>
+			<tr>
+			<td>Date first captured:</td><td>2009-06-30 15:01</td>
+			</tr>
+			<tr>
+			<td>Date last captured:</td><td>2011-02-18 11:56</td>
+			</tr>
+			<tr>
+			<td>Total stopped to date:</td><td>531 261</td>
+			</tr>
+			<tr>
+			<td>Most active month:</td><td>2011-02</td>
+			</tr>
+			<tr>
+			<td>Most active date:</td><td>2011-01-31</td>
+			</tr>
+			<tr>
+			<td>Infection ratio (2011-01-31):</td><td>0.058 %</td>
+			</tr>
+			</table>
+
+			&nbsp;
+
+		</td>
+		</tr>
+		</table>
+
+		<center><img align=center src="static_line_gr.gif" width=325 height=1></center>
+
+		&nbsp;<a href="http://www.virus-radar.com/dynamic/dquery.php?mcx=vdesc&instance=top&vname=Win32/Netsky.Q worm&langname=enu"><img vspace=5 border=0 align=absmiddle src="static_button_red_gr.gif" width=18 height=18>&nbsp;&nbsp;Virus Encyclopedia NOD32...</a><br>&nbsp;<a href=stat_01_current/virus_0001_enu.html><img vspace=5 border=0 align=absmiddle src="static_button_red_gr.gif" width=18 height=18>&nbsp;&nbsp;More information...</a><br><br>
+		
+    </td>
+  </tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td valign=top align=center>
+<img align=top src="static_table_down.gif" width=724 height=4>
+</td>
+</tr>
+</table>
+
+<table border=0 cellspacing=0 cellpadding=10 width=724>
+<tr>
+<td align=left valign=top>This page contains analysis of e-mail virus threats.<br>Generated: 2011-02-18 11:59:59 +0100 (2011-02-18 10:59:59 UTC)<br>Note: All times and dates are in local time (CET).<br><br></td>	
+</tr>
+</table>
+		
+	</td>
+    </tr>
+	<tr>
+	<td valign="middle" align="center">
+		<center>
+
+<img border="0" width=726 height=3 src="static_dot_line.gif"><br>
+<br>
+<a target="_blank" href="http://www.eset.com"><img width=460 height=59 vspace=0 border="0" src="static_banner_bottom.gif"></a><br>
+<br>
+<img border="0" width=726 height=3 src="static_dot_line.gif"><br>
+<br>
+<a target="_blank" href="http://www.seznam.cz">Project partner:<br>
+<img border="0" src="static_banner_small_seznam.gif"></a>
+
+</center>
+	</td>
+	</tr>
+	<tr>
+	<td bgcolor="#EBEBEB" valign="middle" align="center" height=27>
+		Â© 1992 - 2009 <a target="_blank" href="http://www.eset.eu/">ESET, spol. s r.o.</a> - All rights reserved
+	</td>
+	</tr>
+</table>
+</body>
+
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>金山远程维修 - 您身边的电脑服务专家</title>
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/lunbo.js"></script>
+<script type="text/javascript" src="js/jQuery.textSlider.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4126005-40']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+function hideinfo(){   
+    if(event.srcElement.tagName=="A"||event.srcElement.tagName=="IMG"){//如果触发函数的对象是链接   
+        //设置状态栏的显示为链接的文本   
+        window.status='';   
+    }   
+}   
+document.onmouseover=hideinfo; //鼠标移上时调用 hideinfo 函数   
+document.onmousemove=hideinfo; //鼠标移动时调用 hideinfo 函数   
+document.onmousedown=hideinfo; //鼠标按下时调用 hideinfo 函数
+</script>
+</head>
+<body>
+	<div class="header align_l">
+    	<img class="logo" src="images/logo.png" width="225" height="60" alt="" />
+    </div>
+    <div class="nav clearfix">
+    	<ul class="bg_c fl">
+        	<li class="fl stress big"><a class="now"><span class="slider">首页</span></a></li>
+            <li class="fl stress big"><a class="norm" href="server.html"><span class="slider">我们的服务</span></a></li>
+            <li class="fl stress big"><a class="norm" href="use.html"><span class="slider">如何使用</span></a></li>
+            <li class="fl stress big"><a class="norm" href="team.html"><span class="slider">专家团队</span></a></li>
+            <li class="fl stress big"><a class="norm" href="help.html"><span class="slider">帮助中心</span></a></li>
+            <li class="fl stress big"><a class="norm" href="feedback.html"><span class="slider">用户反馈</span></a></li>
+        </ul>
+    	<div class="bg_r fl">&nbsp;</div>
+    </div>
+    <div class="lb">
+        <!--图片1-->
+        <div class="pic1 pic_now" id="lb1">
+            <img src="images/banner1.jpg" /><img src="images/banner2.jpg" />
+            <a href="use.html" class="bttn"><img src="images/1x1.gif" alt="" /></a>
+        </div>
+       <!--图片2-->
+       <div class="pic2 pic_norm" id="lb2">
+            <img src="images/banner2_1.jpg" /><img src="images/banner2_2.jpg" />
+            <a href="http://vip.duba.net/space.php?do=remote_help" target="_blank" class="bttn"><img src="images/1x1.gif" width="1" height="1" alt="" /></a>
+        	<div class="txt">
+            	<p><a class="improtant" href="http://www.duba.net/buy/" target="_blank">开通会员10元/月</a></p>
+           		<p>还有8大特权等着您</p>
+            </div>
+        </div>
+        <!--切换按钮--> 
+        <div class="switch">
+        	<div class="now" id="sw1" onclick="javascript:lunb1();clearInterval(handle);handle = setInterval('change()', changeTime)">1</div>
+            <div class="norm" id="sw2" onclick="javascript:lunb2();clearInterval(handle);handle = setInterval('change()', changeTime)">2</div>
+        </div>
+    </div>
+    <script type="text/javascript">
+	var chnum = 2;
+	var changeTime = 5000;
+	var handle = setInterval("change()", changeTime);
+	</script>
+    <div class="content align_l clearfix">
+    	<div class="main fl">
+        	<div class="mod_a space_t">
+            	<h2 class="title big"><a class="fr nor weak" href="use.html">立即获得服务&gt;&gt;</a>数不尽的电脑服务等着您:</h2>
+                <ul class="cont list_a clearfix block36">
+                	<li class="item fl quickup">
+                    	<p class="big blu"><strong>电脑全面加速</strong></p>
+                        <p>开机慢?打开网页等半天?</p>
+                        <p>开机加速<span class="separator">|</span>清理IE缓存<span class="separator">|</span>清理系统垃圾</p>
+                    </li>
+                	<li class="item fl property">
+                    	<p class="big blu"><strong>全面系统性能提升</strong></p>
+                        <p>磁盘空间不足?电脑异常?</p>
+                        <p>系统维护<span class="separator">|</span>修复漏洞<span class="separator">|</span>清除安全隐患</p>
+                    </li>
+                	<li class="item fl service">
+                    	<p class="big blu"><strong>人工杀毒服务</strong></p>
+                        <p>顽固木马病毒清除不了?</p>
+                        <p>木马专杀<span class="separator">|</span>病毒救援<span class="separator">|</span>黑客入侵解决</p>
+                    </li>
+                	<li class="item fl plan">
+                    	<p class="big blu"><strong>上网安全解决方案</strong></p>
+                        <p>上网购物遇到欺骗?常打开钓鱼网站?</p>
+                        <p>钓鱼网站拦截<span class="separator">|</span>网址鉴定<span class="separator">|</span>主页篡改修复</p>
+                    </li>
+                	<li class="item fl teacher">
+                    	<p class="big blu"><strong>贴心的电脑教师</strong></p>
+                        <p>贴心的电脑教师</p>
+                        <p>高级软件教学<span class="separator">|</span>软件安装卸载</p>
+                    </li>
+                	<li class="item fl setup">
+                    	<p class="big blu"><strong>打印机等电脑设备安装指导</strong></p>
+                        <p>打印机安不上？摄像头用不了？</p>
+                        <p>打印机<span class="separator">|</span>摄像头<span class="separator">|</span>路由器安装指导</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="mod_b">
+            	<h2 class="title big">使用非常方便,省心,只需轻轻一点:</h2>
+                <ol class="cont list_b block36">
+                	<li>
+                    	<h5 class="img_tit step_buy">第1步购买</h5>
+                        <p class="hang">选择您的充值方式,购买远程不限次服务.或开通会员,享用1次/月远程服务。</p>
+                        <span class="dashe_arw"/></span>
+                    </li>
+                    <li>
+                    	<h5 class="img_tit step_down">第2步下载</h5>
+                        <p class="hang">下载金山毒霸最新版本,并启用电脑远程维修&nbsp;&nbsp;<a href="http://www.ijinshan.com/duba/index.shtml" target="_blank">点击下载</a></p>
+                        <span class="dashe_arw"/></span>
+                    </li>
+                    <li>
+                    	<h5 class="img_tit step_use">第3步使用</h5>
+                        <p class="hang">输入您所遇到的问题,工程师立即为您解决电脑问题。</p>
+                    </li>
+                </ol>
+            </div>
+            <div class="corner_b">&nbsp;</div>
+        </div>
+        <div class="sidebar fr">
+        	<div class="mod_c space_t">
+            	<h3 class="title big weak">如有疑问,咨询在线客服:</h3>
+                <div class="cont">
+                    <div class="align_c kefu"><a href="http://www.duba.net/imkefu?colectionid=109&passport=|depId|SY332" target="_blank"><img src="images/service.jpg" /></a></div>
+                    <div class="align_c remote"><a href="team.html"><img src="images/remote.png" /></a></div>
+                </div>
+                <div class="corner_bm">&nbsp;</div>
+            </div>
+            <div class="mod_d space_t">
+            	<h3 class="title big">听听使用过的用户怎么说:</h3>
+                <div class="cont" id="scrollDiv">
+                	<div class="scrollText">
+                        <ul class="list_d">
+                            <li class="clearfix spea_b">
+                                <div class="protrait fl"><img src="images/pro1.jpg" /></div>
+                                <div class="fl info">
+                                	<p><span class="fr">退休叔叔</span>KSDA***245</p>
+                                	<p class="block36">我用了一次，非常实用，251号工程师尽职尽责~！~值得表扬</p>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <div class="protrait fl"><img src="images/pro1.jpg" /></div>
+                               	<div class="fl info">
+                                	<p><span class="fr">公司员工</span>KSOE***856</p>
+                                    <p class="block36">我电脑一开始很慢，经工程师帮我处理后，现在快了不少，很感谢金山工程师</p>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <div class="protrait fl"><img src="images/pro1.jpg" /></div>
+                                <div class="fl info">
+                                	<p><span class="fr">小童10岁</span>KSDA***347</p>
+                                    <p class="block36">工程师叔叔帮我把机器修好了，现在可以正常上qq和打开网页。</p>
+                                </div>
+                            </li>  
+                            <li class="clearfix">
+                                <div class="protrait fl"><img src="images/pro1.jpg" /></div>
+                                <div class="fl info">
+                                	<p><span class="fr">家庭主妇</span>1392***213</p>
+                                    <p class="block36">遇到电脑问题， 我不再需要打电话叫人上门服务了，很方便，价格也很实惠。</p>
+                                </div>
+                            </li> 
+                            <li class="clearfix">
+                                <div class="protrait fl"><img src="images/pro1.jpg" /></div>
+                                <div class="fl info">
+                                	<p><span class="fr">20岁女大学生</span>1580***252</p>
+                                    <p class="block36">我男朋友帮我买的，用了后，他省心不少。用电脑遇到的问题都搞定了。</p>
+                                </div>
+                            </li>
+                        </ul>
+                	</div>
+                </div>
+          	    <script type="text/javascript"> 
+					$(document).ready(function(){
+							$("#scrollDiv").textSlider({line:1,speed:500,timer:3000});
+					});
+				</script>
+                <div class="corner_bm">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">Copyright &copy; 2009 Kingsoft Corp. All Rights Reserved　京ICP备B2-20040288号</div>
+</body>
+</html>

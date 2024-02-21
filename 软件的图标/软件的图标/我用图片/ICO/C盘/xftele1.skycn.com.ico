@@ -1,0 +1,156 @@
+<html>
+<head>
+<title>天空软件站：提供国内外最新免费软件、共享软件下载！</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="软件下载,软件,下载,共享,共享软件,免费,免费软件,汉化,汉化补丁,游戏,游戏下载,软件教程,软件新闻,软件资讯,操作系统,邮件,服务器,压缩,文件管理,组网,局域网,宽带,网络安全,杀毒,杀毒软件,病毒,黑客,病毒档案,音频,视频,数据库,设计,平面设计,网页制作,网页浏览,上传,联络,聊天,动画,网络软件,系统工具,应用软件,联络聊天,图像处理,多媒体,媒体工具,行业管理,游戏娱乐,编程开发,安全,教育教学,网站源码,数码软件,中国共享软件注册中心,注册码,软件注册,注册软件,购买软件,软件购买">
+<link href="download/download_0914.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+#kw {	FONT: 16px Verdana; PADDING-TOP: 2px; HEIGHT: 1.78em
+}
+#sb {	WIDTH: 6.0em; HEIGHT: 2em
+}
+#sb {	FONT-SIZE: 14px
+}
+-->
+</style>
+<script type='text/javascript' src='http://drmcmm.baidu.com/js/m.js'></script>
+<script type='text/javascript'>
+BAIDU_CLB_addSlot('17889');
+BAIDU_CLB_enableAllSlots();
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0">
+<table width="780" height="25" border="0" cellpadding="0" cellspacing="0" align="center" >
+
+  <tr>
+    <td bgcolor="#4695FE"><table width="778" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><font color="#FFFFFF">&nbsp;&nbsp;《天空软件站》WWW.SkyCN.COM （下载，从天空开始！）</font></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="778" height="113" border="0" align="center" cellpadding="0" cellspacing="0">
+
+  <tr>
+    <td width="170" height="90" valign="bottom"><img src="images/logo.gif" width="150" height="60"></td>
+    <td valign="bottom"><table width="190" height="25" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td align="center"><font size="4" face="Arial">WWW.SkyCN.COM</font></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="778" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="44" background="../images/def_bg778.gif"><table width="490" border="0" align="center" cellPadding=0 cellSpacing=0>
+        <tr>
+		<form name="sForm" action="search.php">
+          <td align="center">
+
+            <input type="text" id="kw" name="ss_name" size="39" maxlength="100" autocomplete="off"><input type="hidden" name="sf" value="default">&nbsp;&nbsp;<input type="submit" id="sb" value="软件搜索"></td>
+          <!--<td valign="bottom"><a href="h_search.php?sor=00" title="高级搜索">高级搜索</a></td>-->
+        </form>
+		</tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="12"></td>
+  </tr>
+
+</table>
+<script src="/js/ac.js"></script>  <script>InstallAC(document.sForm,document.sForm.ss_name,"","search","zh-CN");</script>
+<script language="javascript">document.sForm.ss_name.focus();</script>
+<table width="778" height="50" border="0" align="center" cellpadding="4" cellspacing="1" bgcolor="#F2F2F2">
+  <tr> 
+    <td bgcolor="#FFFFFF"> <table width="770" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+        <tr> 
+          <td height="50" class="blockword">首页入口：</td>
+        </tr>
+
+        <tr> 
+          <td><table width="620" height="65" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F9F8F8">
+            <tr>
+              <td align="center"><table width="114" height="40" border="0" cellpadding="0" cellspacing="0" background="../images/index_bg_0914.gif">
+                <tr>
+                  <td align="center"><a href="http://www.skycn.com/index.html" id="def_main" class="blueword">主站</a></td>
+                </tr>
+              </table></td>
+              <td width="140" align="center"><table width="114" height="40" border="0" cellpadding="0" cellspacing="0" background="../images/index_bg_0914.gif">
+
+                <tr>
+                  <td align="center"><a href="http://tele.skycn.com/index.html" id="def_tele" class="blueword">电信</a></td>
+                </tr>
+              </table></td>
+              <td align="center"><table width="114" height="40" border="0" cellpadding="0" cellspacing="0" background="../images/index_bg_0914.gif">
+                <tr>
+                  <td align="center"><a href="http://cnc.skycn.com/index.html" id="def_cnc" class="blueword">网通</a></td>
+                </tr>
+
+              </table></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="70" valign="bottom"><table width="740" height="40" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="110">&nbsp;<font color="010101"><b>本站栏目：</b></font></td>
+
+              <td width="120"><a href="http://shareware.skycn.com/" id="def_shop" target="_blank"><font color="blue"><b>软件商城</b></font></a></td>
+              <td width="120"><a href="http://news.skycn.com/" id="def_news" target="_blank"><font color="blue"><b>软件资讯</b></font></a></td>              
+              <td width="120"><a href="http://www.skycn.com/cy.htm" id="def_hot_soft" target="_blank"><font color="red"><b>装机必备</b></font></a></td>
+              <td><a href="http://www.regsky.com/" id="def_domain_name" target="_blank"><font color="blue"><b>域名主机</b></font></a></td>
+              
+            </tr>
+          </table></td>
+        </tr>
+
+      </table></td>
+  </tr>
+</table>
+<table width="780" height="90" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+  <tr> 
+    <td><table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr> 
+        <tr> 
+          <td><script type='text/javascript'>BAIDU_CLB_fillSlot('17889');</script></td>
+
+        </tr>
+          <td height="10"></td>
+        </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+<table width="780" height="10" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td></td>
+
+  </tr>
+</table>
+<table width="780" height="25" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr> 
+    <td align="right" bgcolor="#4695FE"><font color="#FFFFFF" face="Arial" ><a href="http://www.skycn.com/ads.php" id="def_ad" target="_blank"><font color="#FFFFFF">广告联系</font></a> 
+      
+      | <a href="http://www.skycn.com/announce.php" id="def_rights" target="_blank"><font color="#FFFFFF">版权声明</font></a> 
+      | <a href="http://www.skycn.com/downloadsoft.php" id="def_help" target="_blank"><font color="#FFFFFF">下载帮助</font></a> 
+      | <a href="http://author.skycn.com/" id="def_softup" target="_blank"><font color="#FFFFFF">软件发布</font></a> 
+      | <a href="http://www.skycn.com/mirror.php" id="def_mirror" target="_blank"><font color="#FFFFFF">镜像合作</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      Copyright&copy;1998 - 2010&nbsp;&nbsp;<a href="http://www.skycn.com/" id="def_page" target="_top"><font color="#FFFFFF">天空软件</font></a> 
+      &nbsp;&nbsp;All Rights Reserved &nbsp;</font></td>
+  </tr>
+</table>
+<div style="display:none"><script language="javascript" src="js/skycn-count.js"></script></div>
+</body>
+</html>

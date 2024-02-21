@@ -1,0 +1,274 @@
+﻿
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="shortcut icon" href="/theme/bluecloud/css/images/favicon2.ico" />
+        <title>金山安全中心 - 金山毒霸在线杀毒免费版|在线杀毒软件|木马专杀|云安全</title>
+		<meta name="description" content="金山毒霸在线杀毒软件是最好的在线杀毒软件产品之一。启动在线杀毒软件即可连接金山毒霸云计算病毒库，与金山毒霸同步更新，确保在线杀毒能快速实现病毒、木马专杀。在线杀毒软件能兼容本机杀毒软件，使本地、在线杀毒两不误。下载、安装在线杀毒软件后，即可享受免费杀毒软件所带来的优质服务。" />
+		<meta name="keywords" content="在线杀毒,金山毒霸,杀毒软件,免费杀毒软件,在线杀毒免费版,杀毒软件免费下载,最好的免费杀毒软件,在线杀毒软件,木马,木马专杀,灰鸽子木马专杀,木马清道夫,木马克星,防止木马下载,顽固木马专杀,金山在线杀毒,木马专杀,灰鸽子木马专杀,u盘在线杀毒,金山毒霸在线杀毒,在线杀毒免费" />
+        <link href="/theme/cloud2010/css/base.css" rel="stylesheet"/>
+        
+<link href="/theme/cloud2010/css/upload.css" rel="stylesheet"/>
+
+        <script type="text/javascript" src="http://www.pc120.com/theme/bluecloud/js/lib/jquery.js"></script>
+        <script type="text/javascript" src="/theme/cloud2010/js/base.js"></script>
+		
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<!-- AJAX Upload script itself doesn't have any dependencies-->
+<script type="text/javascript" src="/site_media/js/lib/ajaxupload.js"></script>
+<script type="text/javascript" src="/theme/cloud2010/js/report.js"></script>
+
+    </head>
+    <body >
+<!--[if IE 6]>
+<style type="text/css">
+#header h1 a{behavior:url(/theme/cloud2010/js/iepngfix.htc)}
+</style>
+<![endif]-->
+      
+      <div id="wrapper">
+        
+        <div id="header">
+		   <!--LOGO -->
+		   <h1><a href="http://www.pc120.com" title="金山安全中心"></a></h1>
+		   <!--小工具导航-->
+		   <div id="header_tool_nav">
+		     	<div id="header_tool_nav_left">
+		     		<div id="header_tool_nav_right">
+		     			<div id="header_tool_nav_middle">
+		     			  <a href="http://t.sina.com.cn/securitycenter" class="micro_blogging" target="_blank">PC120微博</a>|<a href="http://bbs.duba.net/forum-6425-1.html " target="_blank">论坛</a>|<a href="http://help.pc120.com/feedback/faq.php?id=21" target="_blank">问题反馈</a>|<a href="javascript:void(0);" target="_self" onclick="window.external.addFavorite('http://www.pc120.com','金山安全中心');">加入收藏</a><img src="http://si1.cnzz.com/stat.gif?id=8645" border="0px" width="0px" height="0px" />
+		     			</div>
+		     		</div>
+		     	</div>
+		    	<div id="websit_nav"><a href="http://123.duba.net" target="_blank">上网冲浪 ，从安全网址开始&gt;&gt;</a></div>
+	      </div>
+		   
+		   <!--导航-->
+		   <ul id="header_main_menu">
+		     <li>
+		     	<a href="http://www.pc120.com/epidemic_broadcast/"  class="selected" id="cloud_safe">云安全中心</a>
+				<!-- <img src="/theme/cloud2010/images/new.gif" alt="体验新功能" class="new"> -->
+		     </li>
+		     <li><a href="http://www.pc120.com/scan_index" class="" id="online">在线杀毒</a>
+		     	<img src="/theme/cloud2010/images/new.gif" alt="体验新功能" class="new">
+		     </li>
+		     <li>
+		     	<a href="http://www.pc120.com/avaward/" class="" id="iso">国际认证</a>
+		     </li>
+		     <li><a href="#" class="" id="websit_safe">网址安全</a></li>
+		   </ul>
+		   <div style="clear:both;"></div>
+		   
+		   
+		   <!--二级菜单-->
+		   <div id="header_secondary_menu">
+		     <div id="header_secondary_menu_right">
+		       <div id="header_secondary_menu_middle"> 
+		         <!--在线杀毒 -->
+		         <ul class="header_secondary_ul" style="display:none;">
+		         	<a href="http://help.pc120.com/feedback/write.php?id=18" target="_blank" class="feedback">问题反馈</a>
+		         </ul>
+		        <!--云安全中心 -->
+		         <ul class="header_secondary_ul" id="cloud_safe_more" style="">
+		           <li><a href="http://www.pc120.com/epidemic_broadcast/" class="">病毒疫情</a></li>
+		           <li><a href="http://baike.pc120.com/" target="_blank">病毒大百科</a></li>
+		           <li><a href="http://www.pc120.com/fileident/" class="selected">样本上报</a></li>
+		         </ul>
+		         <!--国际认证 -->
+		         <ul class="header_secondary_ul" style="display:none;">
+		         </ul>
+		         <!--网址安全 -->
+		         <ul class="header_secondary_ul" id="websit_safe_more" style="display:none;">
+		           <li><a href="http://wangzhi.pc120.com/" target="_blank">网址认证</a></li>
+		           <li><a href="http://www.pc120.com/kws/appeal/" target="_blank">网站申诉</a></li>
+		           <li><a href="http://www.pc120.com/kws/report/" target="_blank">恶意网站举报</a></li>
+		         </ul>
+		         <!--安全百事通 -->
+		         <ul class="header_secondary_ul" style="display:none;">
+		         </ul>
+		       </div>
+		     </div>
+		   </div>
+		   
+	   </div>
+       
+        
+		
+		
+            <!--内容-->
+            <div id="content" class="function_page">
+			    <div id="main" class="independence bg1">
+			      <div id="upload_form">
+			        <div class="upload_top">
+			          <h3><span>样本上报</span></h3>
+			          <p class="search">
+			            <label>疑似病毒文件上报号：</label>
+			            <input name="" id="upload_search_input" type="text" size="18" >
+			            <input name="" id="search_md5_but" type="button" value="查询" title="只接受可疑文件鉴定结果查询">
+			          </p>
+			        </div>
+			        <form id="form_upload" action="#" name="">
+			          <h4 class="hidden">请填写样本上报信息</h4>
+			          <p class="tip">感谢您上报可疑文件或误报文件，请尽可能认真填写，以便我们更好更快分析样本。</p>
+			          <br>
+			          <br>
+			          <ul class="input_form">
+			          	<li>
+			              <div class="title">
+			                <label for="upload_type"><em>*</em>文件类型：</label>
+			              </div>
+			              <div class="info" id="upload_type_wrap">
+			              	<input type="radio" name="upload_type" value="dubious" id="upload_type_dubious" style="margin-right: 3px;"/><label for="upload_type_dubious">疑似病毒文件</label>&nbsp;&nbsp;&nbsp;
+			              	<br/><input type="radio" name="upload_type" value="false_positive" id="upload_type_false_positive" style="margin-right: 3px;"/><label for="upload_type_false_positive">误报文件</label><span class="tip_input">(当您认为杀毒软件误报了安全的文件)</span>
+			              	<br/>&nbsp;&nbsp;&nbsp;&nbsp;<span class="tip_input" style="margin:0;"><em>*</em>产生误报的产品名称:</span>
+			              		<select id="false_positive_produce" disabled="true">
+			              			<option value="-1">请选择</option>
+			              			<option value="1">金山毒霸</option>
+			              			<option value="2">金山卫士</option>
+			              			<option value="3">金山在线杀毒</option>
+			              			<option value="0">金山其它产品</option>
+			              		</select>
+			              	<br/><span class="tip_error hidden">请选择要上报的文件类型</span>
+			              </div>
+			            </li>
+			
+			            <li>
+			              <div class="title">
+			                <label><em>*</em>上报文件：</label>
+			              </div>
+			              <div class="info">
+			                <input type="text" name="" id="text_upload_file" disabled="true">
+			                <input type="button" name="upload_file" id="btn_sel_upload_file" value="浏览" class="btn"/>
+			                <!--必填项验证-->
+			                <span class="tip_error hidden">请选择需要上报的文件</span>
+			                <p class="tip_input">支持不超过5M的可执行文件与压缩包，如EXE、DLL、OCX、SYS、COM、ZIP、RAR</p>
+			              </div>
+			            </li>
+			          	<li>
+			              <div class="title">
+			                <label for="email"><em>*</em>您的电子邮箱：</label>
+			              </div>
+			              <div class="info">
+			                <input name="email" type="text" id="email" size="28" />
+			                <!--必填项验证-->
+			                <span class="tip_error hidden">请输入您的电子邮箱</span> </div>
+			            </li>
+			            <li>
+			              <div class="title">
+			                <label for="username">您的姓名：</label>
+			              </div>
+			              <div class="info">
+			                <input name="username" type="text" id="username" size="28" />
+			               </div>
+			            </li>
+			            <li>
+			              <div class="title">
+			                <label for="qq">QQ：</label>
+			              </div>
+			              <div class="info">
+			                <input name="qq" type="text" id="qq" size="15" />
+			              </div>
+			            </li>
+			            <li>
+			              <div class="title">
+			                <label for="msn">MSN：</label>
+			              </div>
+			              <div class="info">
+			                <input name="msn" type="text" id="msn" size="28" />
+			              </div>
+			            </li>
+			            <li>
+			              <div class="title">
+			                <label for="remark"><em>*</em>描述信息：</label>
+			              </div>
+			              <div class="info">
+			                <textarea name="remark" cols="45" rows="4" id="remark"></textarea>
+			                <br/><span class="tip_error hidden">请输入关于该文件的描述信息</span>
+			                <p class="tip_input">填写样本来源信息或者其他相关信息，如软件官网、下载地址等，不超过200字。</p>
+			              </div>
+			            </li>
+			          </ul>
+			          <div class="submitBtnArea">
+			          	<p class="loading" style="display:none;">正在上传，请稍候...</p>
+			            <input id="btn_upload_file" name="input" type="submit" value="提交样本"  class="largeBtn" style="padding:5px;" />
+			          </div>
+			        </form>
+			        
+			        
+			        <div id="upload_result" class="upload_result" style="display:none;">
+				        <p class="dubious tip">感谢您提交可疑文件，根据样本文件的复杂程度，鉴定大约需要 3—5 分钟 ，如果鉴定超时我们会将该样本提交到人工鉴定，人工鉴定需要较长时间(几个小时至1个工作日不等)。您可以通过上报号查询鉴定结果。</p>
+				        
+				          <br>
+				          <br>
+				          <p id="need_time" style="color:#F00;display:none;"><img src="/theme/cloud2010/images/gif-0310.gif" width="14" height="14" />&nbsp;需要进一步鉴定的文件较多，我们的鉴定可能需要一定的时间</p>
+				          <div class="result_list">
+				            <p class="fileinfo"><img src="/theme/cloud2010/images/icon_ok.gif" style="margin-bottom:-5px; margin-right:4px;" width="24" height="24" /><strong>文件上报成功</strong><br><span class="num">上报号：<span id="sample_md5"></span></span></p>
+				            <div class="result_box"></div>
+				            <p class="false_positive tip" style="color:#090; text-align:center;display:none;">感谢提交疑似误报文件，鉴定结果我们会通过邮件通知您。</p>
+				            <div class="submitBtnArea">
+				           		<input id="con_upload" name="input" type="submit" value="继续上报"  class="largeBtn" style="padding:5px;" />
+				          	</div>
+				        </div>
+				    </div>
+			        
+			        
+			      </div>
+			    </div>
+			    <div id="sidebar">
+			      <!--须知-->
+			      <div class="columnBox01">
+			        <h3>样本上报须知</h3>
+			        <div class="boxInC">
+			          <ul class="para_list list_dot">
+			            <li>支持PE格式的可执行文件，如EXE、DLL、OCX、SYS、COM文件的提交，大小不超过5M</li>
+			            <li>多个文件的提交，请使用RAR或ZIP格式，压缩包内不能超过50个文件</li>
+			            <li>压缩包内必须全为单个文件，不能包含文件夹和压缩包，请勿加密或使用分卷</li>
+			            <li>如果可疑文件鉴定为病毒文件，需要10分钟同步到毒霸病毒特征库</li>
+			          </ul>
+			        </div>
+			      </div>
+			      <!--常见问题-->
+			      <!-- 
+			      <div id="upload_faq" class="columnBox01">
+			        <h3>常见问题</h3>
+			        <div class="boxInC">
+			          <ul class="list list_dot">
+			            <li><a href="#">上报样本的流程是怎么样的？</a></li>
+			            <li><a href="#">为什么老是提示上传失败？</a></li>
+			            <li><a href="#">上传的样本怎么一直处于鉴定没有结果？</a></li>
+			            <li><a href="#">可疑文件上报后为什么毒霸还是查杀不了？</a></li>
+			          </ul>
+			        </div>
+			      </div>
+			       -->
+			    </div>
+			  </div>
+
+		
+        <!--底部-->
+        <div id="footer">
+        	<a href="http://www.duba.net/" target="_blank">毒霸官网</a>|<a href="http://www.ijinshan.com" target="_blank">杀毒软件免费下载</a>|<a target="_blank" href="http://labs.duba.net/zt/">金山网盾安全专题</a>|<a href="http://job.kingsoft.com/">诚聘英才</a>|<a href="http://kefu.duba.net/">客服中心</a><!--|<a href="#">合作伙伴</a>|<a href="#">网站地图</a>-->
+            <p>© 2010 Kingsoft Corp All Rights Reserved 金山云安全中心
+            	 <a target="_blank" href="http://www.miibeian.gov.cn/">京ICP备06025896号</a> <br/>
+            	 <a target="_blank" href="http://www.kingsoft.com/licence/001.jpg">京ICP证100054号</a>
+				 <a target="_blank" href="http://www.kingsoft.com/licence/002.jpg">新出网证&lt;京&gt;字011号</a>
+				 <a target="_blank" href="http://www.kingsoft.com/licence/003.jpg">文网文[2008]058号</a>
+				 <a href="#">北京市公安局海淀分局 1101081576</a>
+				 <br/><a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202010082000004"><img src="/site_media/images/gongan.gif" /></a>
+            </p>
+            <div style="display:none;">
+				<script src="http://s11.cnzz.com/stat.php?id=2068757&web_id=2068757" language="JavaScript"></script>
+			</div>
+		</div>
+        
+       </div>
+        
+		<div class="file_info_box" id="file_info_template" style="display:none;">
+          <p><span class="title">样本名称：</span><span class="name"></span></p>
+          <p><span class="title">文件MD5：</span><span class="md5"></span></p>
+          <p><span class="title">鉴定结果：</span><span class="loadingImg hidden"><img src="/theme/cloud2010/images/loading.gif" width="16" height="16" /></span><span class="status status_name"></span></p>
+        </div>
+
+    </body>
+</html>

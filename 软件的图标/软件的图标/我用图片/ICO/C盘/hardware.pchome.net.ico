@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="5; url=http://www.pchome.net/" >
+<title>404 Not Found</title>
+<style>
+html,body,div,span,h1,h2,h3,p,a,img,dl,dt,dd,ol,ul,li,{margin:0;padding:0;border:0;outline:0;font-weight: inherit;font-style:inherit;font-family:inherit;vertical-align:baseline;}:focus{outline:0}body{background: #FFF;list-style:none; line-height: 1.5;color: black;font-size:12px}ol, ul{list-style:none}.clearBoth {clear:both;height:0;overflow:hidden}em{font-style:normal}a{color:#113593;text-decoration:underline}a:visited{ color:#113593}a:hover{color:#C30}a:active{color:#C30}a:focus{color:#C30}img{-ms-interpolation-mode: bicubic}h2{font-family:microsoft yahei,黑体;}
+/*简版页脚*/
+#global-simple-footer { background: #EEE; border-top: 1px solid #C0C0C0; line-height: 220%; text-align: center; position:relative; }
+#global-simple-footer #links { height: 50px; padding: 25px 0 15px 0; color: #FFF; font-family: Verdana, Arial; color:#454545}
+#global-simple-footer #links a:link { color: #333; }
+#global-simple-footer #links a:visited { color: #333; }
+#global-simple-footer #links a:hover { color: #06C; }
+#global-simple-footer #links a:active { color: #06C; }
+/* 简版头2008*/
+#short-nav{ overflow:hidden; width:852px; height:44px;line-height:44px; background:url(http://images.pchome.net/global/img/shortnav-bg.jpg) no-repeat; margin:0 auto; position:relative; padding-left:132px; color:#999}
+#shortNavLogo{ position:absolute; left:-2px ;top:0;}
+#short-nav a{ margin:0 3px; color:#000}
+#short-nav a:visited{ color:#000}
+#short-nav img.rss-icon{ display:block; position:absolute; right:18px; top:13px; margin:0 }
+</style>
+</head>
+<body><!--简版头 OP-->
+<div id="short-nav">
+<a href="http://www.pchome.net/" id="shortNavLogo"><img src="http://images.pchome.net/global/img/shortnav-logo.jpg" title="PChome电脑之家" alt="PChome电脑之家" /></a>
+<a href="http://www.pchome.net/" target="_blank">首页</a>|<a href="http://mobile.pchome.net/" target="_blank">手机</a>|<a href="http://notebook.pchome.net/" target="_blank">笔记本</a>|<a href="http://m.pchome.net/netbook/" target="_blank">上网本</a>|<a href="http://digi.pchome.net/" target="_blank">数码</a>|<a href="http://ehome.pchome.net/" target="_blank">家电</a>|<a href="http://hardware.pchome.net/" target="_blank">DIY硬件</a>|<a href="http://diy.pchome.net/" target="_blank">装机</a>|<a href="http://m.pchome.net/" target="_blank">办公</a>|<a href="http://software.pchome.net/" target="_blank">软件</a>|<a href="http://download.pchome.net/" target="_blank">下载</a>|<a href="http://product.pchome.net/" target="_blank">产品</a>|<a href="http://market.pchome.net/" target="_blank">行情</a>|<a href="http://mall.pchome.net/" target="_blank">卖场</a>|<a href="http://biz.pchome.net/" target="_blank">企业</a>|<a href="http://biz.pchome.net/telecom/" target="_blank">网络</a>|<a href="http://game.pchome.net/" target="_blank">游戏</a>|<a href="http://news.pchome.net/" target="_blank">资讯</a>|<a href="http://club.pchome.net/">社区</a>|<a href="http://event.pchome.net/">活动</a>
+<a href="http://www.pchome.net/rss-index.php"><img src="http://images.pchome.net/global/img/shortnav-icon-rss.jpg" alt="订阅您的资讯" title="订阅您的资讯" class="rss-icon" /></a>
+</div>
+<!--简版头 ED-->
+<a href="http://www.pchome.net/"><img style="margin:50px auto 80px; width:960px; border:none; display:block;" src="http://images.pchome.net/global/img2/pchome404.jpg" alt="糟糕！此链接好像已损坏。" />
+</a>
+<!-- 简版页脚 OP -->
+<div id="global-simple-footer" class="center" style="text-align:center;font-size:12px;line-height:1.5;border-top:0;">
+<div id="links">
+<a href="http://www.pchome.net/sitemap.html">网站地图</a> -
+<a href="http://www.pchome.net/aboutus/aboutus1.html">关于我们</a> - <a href="http://www.pchome.net/aboutus/contact.html">联系我们</a> - <a href="http://www.pchome.net/aboutus/joinus.html">加入我们</a> - <a href="http://www.pchome.net/aboutus/business1.html">营销服务</a> - <a href="http://site.pchome.net/link/">友情链接</a> - <a href="http://eco.netvibes.com/widgets/229939/pchome">PChome Widget</a><br />
+上海市长宁区延安西路889号 太平洋企业中心22楼 Tel: 86-21-51757733<br />
+Copyright &copy; 1996-2011 <a href="http://www.pchome.net/">PChome</a>.net All rights reserved. <a href="http://www.pchome.net/">电脑之家</a> 上海网策广告有限公司版权所有
+</div>
+<div id="footerBaidu"><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1447"><img width="40" height="48" src="http://images.pchome.net/global/img/pchome-footerBaidu.gif"></a></div>
+</div>
+<!-- 简版页脚 ED -->
+<div id="fRightCon">
+<div id="fRightLabel"><a href="http://club.pchome.net/thread_1_15_5926167.html" target="_blank"><img width="32" height="74" src="http://images.pchome.net/global/img2/float_r_fk.png" /></a></div>
+</div>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swfla
+sh.cab#version=8,0,0,0" style="position:absolute;left:-10px;top:-10px;width:1px;height:1px;" id="test_v2" >
+<param name="allowScriptAccess" value="always" />
+<param name="allowFullScreen" value="false" />
+<param name="movie" value="http://btn.pchome.net/flash/bannerV2.swf" /><embed src="http://btn.pchome.net/flash/bannerV2.swf"
+style="position:absolute;left:-10px;top:-10px;width:1px;height:1px;" name="test_v2" allowScriptAccess="always" allowFullScreen="fal
+se" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+<script type="text/javascript" src="http://images.pchome.net/global/js2/f_right.js"></script></body>
+</html>
+<script language="JavaScript">
+<!--
+var ownerId	= 'IPUB';
+var title
+= 'pchome 404页面';
+var extParams	= '&pid=984';
+//-->
+</script>
+<script type="text/javascript" src="http://stat.pchome.net/stat.js"></script>
+<script src="http://dw.cbsi.com.cn/js/dw.js"></script>
+<script>
+DW.pageParams = {
+siteid: 69
+};
+DW.clear();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-613977-25");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script src="http://js-1.pchome.net/ol.js"></script>
+<script type="text/javascript" src="http://stat.pchome.net/stat_block_pchome.js?v3"></script>
+<script type="text/javascript">
+PH.blockstat.init();
+</script>
+
+<div style="display:none;">2011-02-09 10:46:18</div>
+<!--81-->

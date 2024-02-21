@@ -1,0 +1,1560 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>中国三星电子 - 做中国人民喜爱的企业，贡献于中国社会的企业</title>
+		<meta name="title" content="中国三星电子" />
+		<meta name="description" content="想象三星能为您做什么！您可以为电视、手机、视频、音频、计算机和其他产品找到产品和支持信息。这里有关于我们公司的信息。" />
+		<meta name="keywords" content="samsung, samsung.com, 三星, 三星电子, 三星网站, 三星手机, 三星电视, 三星家电, 促销, 手机, 电视, 家电" />
+		<meta name="date" content="2009-10-30" />
+		<meta name="sitecode" content="cn" />
+		<!-- Stylesheets -->
+		<link rel="stylesheet" href="/cn/css/p2default.css" type="text/css" />
+		<link rel="stylesheet" href="/cn/flash/p2main/css/styles.css" type="text/css" media="screen" />
+		<!--[if IE 6]>
+		<link rel="stylesheet" href="/cn/flash/p2main/css/ie6_styles.css" type="text/css" media="screen" />
+		<![endif]-->	
+
+		<script type="text/javascript" src="/cn/scripts/javascript.js"></script>
+<script language="javascript">
+   function jstoflash_20100208(picurl){
+	window.document.footFlash.SetVariable("m",picurl);
+	window.document.footFlash.TCallLabel("/","callFun");
+   }
+</script>
+
+</head>
+	<body id="main">
+		<div id="header">
+						<script type="text/javascript" src="/cn/flash/p2main/js/jquery-1.3.2.min.js"></script>
+           <script type="text/javascript" src="/cn/scripts/common/cookie.js"></script>
+			<div class="gnb_top" onmouseover="hideGnbsub();" onmouseout="hideGnbsub();">
+           		<ul>
+				    <li class="first"><a href="http://www.samsungshop.com.cn/" target="_blank">三星商城</a></li>
+					<li><a href="/cn/support/DealerLocatorMap/DealerLocatorMap.html">专卖网络</a></li>
+					<li><a href="http://www.samsung.com.cn/sports/" target="_blank">畅享体育</a></li>
+					<li><a href="/cn/experience/Promotion/index.html">三星活动</a></li>					
+					<li><a href="/cn/news/main.do">新闻中心</a></li>
+					<li><a href="/cn/aboutsamsung/index.html">关于三星</a></li>
+					<li><a href="/cn/mysamsung/product/myssMyProductRegist2.do?page=PRODUCT.REGISTRATION">产品注册</a></li>
+				</ul>
+				<div class="hidesublayer_forie6" onmouseover="hideGnbsub();">&nbsp;</div>
+			</div>
+			<div id="gnb">
+				<div class="gnb_logo">
+				<script type="text/javascript">
+					function gohomeswitch()
+					{
+						// to avoid page redirection by script, this function point the logo's url direct to user's bandwidth choice
+						if (getCookie("PreferBandwidth") == "Low")
+						{
+							document.location.href="/cn/index_low.html";
+						}
+						else
+							document.location.href="/cn/index.html";
+					}
+				</script>
+					<a href="#" onclick="gohomeswitch();return false;">SAMSUNG</a>
+				</div>
+				<div id="visualsearch_input">
+					<div class="visualsearch_inputbox">
+						<div class="gnb_search_box">
+							<input value="" type="text" class="input_txt" id="visualsearch_inputitem" name="visualsearch_inputitem" onmouseover="this.focus();" onkeydown="findquick_keyDown_checkValue(this.value,event);" onkeyup="findquick_keyUp_checkValue(this.value,event);" onclick="if(this.value=='搜索') this.value='';findquick_onclick(); closeadvisor(); return false;" onblur="if(this.value=='') this.value='搜索'"/>
+						        <script type="text/javascript">
+							      //<![CDATA[
+							      document.getElementById("visualsearch_inputitem").disabled = "disabled";
+							      //]]>
+							</script>				
+						
+						</div>
+					</div>
+				</div>
+
+				<!-- search quick result layer -->
+				<div id="layer_findquick_container" class="layer_findquick_container">
+					<div id="layer_findquick_close" class="layer_findquick_close">
+						<a href="javascript:findquick_searchResult();"><img src="/cn/p2images/common/btn_x8.gif" alt="" /></a><br />
+					</div>
+					<div id="layer_findquick" class="layer_findquick">
+					</div>
+				</div>
+				<!-- //search quick result layer -->
+				<div class="gnb_bar"><div id="menuDefault">
+	<div class="gnb_menu">
+		<ul>
+			<li class="consumer1" onmouseover="viewGnbsub('subLayer1');"><a href="#" onclick="return false;">手机产品</a></li>
+			<li class="consumer2" onmouseover="viewGnbsub('subLayer2');"><a href="#" onclick="return false;">电视产品</a></li>
+			<li class="consumer3" onmouseover="viewGnbsub('subLayer3');"><a href="#" onclick="return false;">数码/影音</a></li>
+			<li class="consumer4" onmouseover="viewGnbsub('subLayer4');"><a href="#" onclick="return false;">电脑/办公</a></li>
+			<li class="consumer5" onmouseover="viewGnbsub('subLayer5');"><a href="#" onclick="return false;">白色家电</a></li>
+			<li class="exception1" onmouseover="viewGnbsub('subLayer8');"><a href="/cn/business/index.html?pid=cn_gnb_busines_100623">商用产品</a></li>
+			<li class="exception2" onmouseover="viewGnbsub('subLayer6');"><a id="landy7" href="/cn/support/main/supportMain.do?pid=cn_gnb_support_main_100623">服务中心</a></li>
+			<li class="exception4" onmouseover="viewGnbsub('subLayer7');"><a id="landy10" href="http://photo.samsung.com.cn" target="_blank">三星纷享</a></li>
+		</ul>
+	</div>
+	<div id="subLayer1" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer1');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy1_1" href="/cn/consumer/mobile-phones/mobile-phones/index.idx?pagetype=type_p2&&pid=cn_gnb_mobile_mobile-phones_100623">全部手机产品</a></li>
+				<li><a id="landy1_2" href="/cn/consumer/mobile-phones/mobile-phones/2g/index.idx?pagetype=subtype_p2&pid=cn_gnb_mobile_2g_100623">2G</a></li>
+				<li><a id="landy1_3" href="/cn/consumer/mobile-phones/mobile-phones/3g/index.idx?pagetype=subtype_p2&pid=cn_gnb_mobile_3g_100623">3G</a></li>
+				<li><a id="landy1_4" href="/cn/consumer/mobile-phones/mobile-phones/double-sim-card/index.idx?pagetype=subtype_p2&pid=cn_gnb_mobile_double-sim-card_100623">双卡</a></li>
+				<li style="margin-right:0"><a id="landy1_5" href="/cn/consumer/mobile-phones/mobile-phones/mobile-phone-accessories/index.idx?pagetype=accsubtype&pid=cn_gnb_mobile_mobile-phone-accessories_100623">手机配件</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	<div id="subLayer2" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer2');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy2_1" href="/cn/consumer/televisions/televisions/index.idx?pagetype=type_p2&&pid=cn_gnb_televisions_televisions_100623">全部电视产品</a></li>
+				<li><a id="landy2_6" href="/cn/consumer/televisions/televisions/flat-tv/index.idx?pagetype=subtype_p2&pid=cn_gnb_televisions_led-tv_UA55C7000WFXXZ_100623">3D LED电视</a></li>
+				<li><a id="landy2_2" href="/cn/consumer/televisions/televisions/led-tv/index.idx?pagetype=subtype_p2&pid=cn_gnb_televisions_led-tv_100623">LED 电视</a></li>
+				<li><a id="landy2_3" href="/cn/consumer/televisions/televisions/lcd-tv/index.idx?pagetype=subtype_p2&pid=cn_gnb_televisions_lcd-tv_100623">液晶电视</a></li>
+				<li><a id="landy2_4" href="/cn/consumer/televisions/televisions/plasma-tv/index.idx?pagetype=subtype_p2&pid=cn_gnb_televisions_plasma-tv_100623">等离子电视</a></li>
+				<li style="margin-right:0"><a id="landy2_7" href="/cn/consumer/televisions/televisions/tv-accessories/index.idx?pagetype=accsubtype&pid=cn_gnb_televisions_tv-accessories_100623">电视配件</a></li>
+				<!-- <li style="margin-right:0"><a id="landy2_5" href="/cn/consumer/learningresources/tv/contents_lib/introduction.html">创新媒体功能</a></li> -->
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	<div id="subLayer3" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer3');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy3_2" href="/cn/consumer/digital-video/cameras/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_cameras_100623">数码照相机</a></li>
+				<li><a id="landy3_3" href="/cn/consumer/digital-video/camcorders/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_camcorders_100623">数码摄像机</a></li>
+				<li><a id="landy3_4" href="/cn/consumer/digital-video/photo-frame/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_photo-frame_100623">数码相框</a></li>
+				<li><a id="landy3_5" href="/cn/consumer/digital-video/home-theater/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_home-theater_100623">家庭影院</a></li>
+				<li><a id="landy3_1" href="/cn/consumer/digital-video/mp3-players/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_mp3-players_100623">MP3, MP4 播放器</a></li>
+				<li><a id="landy3_7" href="/cn/consumer/digital-video/home-theater-projector/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_home-theater-projector_100623">家用投影机</a></li>
+				<li style="margin-right:0"><a id="landy3_6" href="/cn/consumer/digital-video/voice-pen/index.idx?pagetype=type_p2&&pid=cn_gnb_digital-video_voice-pen_100623">录音笔</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	<div id="subLayer4" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer4');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy4_1" href="/cn/consumer/computers-office/ultra-mobile-pc/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_ultra-mobile-pc_100623">笔记本电脑</a></li>
+				<li><a id="landy4_2" href="/cn/consumer/computers-office/printers-multifunction/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_printers-multifunction_100623">办公产品</a></li>
+				<li><a id="landy4_3" href="/cn/consumer/computers-office/monitors/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_monitors_100623">显示器</a></li>
+				<li><a id="landy4_4" href="/cn/consumer/computers-office/data-projectors/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_data-projectors_100623">数据投影机</a></li>
+				<li><a id="landy4_5" href="/cn/consumer/computers-office/optical-disc-drives/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_optical-disc-drives_100623">光存储产品</a></li>
+				<li style="margin-right:0"><a id="landy4_6" href="/cn/consumer/computers-office/hard-disk-drives/index.idx?pagetype=type_p2&&pid=cn_gnb_computers-office_hard-disk-drives_100623">硬盘</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	<div id="subLayer5" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer5');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy5_1" href="/cn/consumer/home-appliances/refrigerators/index.idx?pagetype=type_p2&&pid=cn_gnb_home-appliances_refrigerators_100623">冰箱</a></li>
+				<li><a id="landy5_2" href="/cn/consumer/home-appliances/washers-dryers/index.idx?pagetype=type_p2&&pid=cn_gnb_home-appliances_washers-dryers_100623">洗衣机</a></li>
+				<li><a id="landy5_3" href="/cn/consumer/home-appliances/air-conditioners/index.idx?pagetype=type_p2&&pid=cn_gnb_home-appliances_air-conditioners_100623">空调</a></li>
+				<li style="margin-right:0"><a id="landy5_4" href="/cn/consumer/home-appliances/air-cleaner/index.idx?pagetype=type_p2&&pid=cn_gnb_home-appliances_air-air-cleaner_100623">空气净化器</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	<div id="subLayer6" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer6');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg11"><div style="cursor: pointer;z-index:100; margin:15px 0 0 315px; position:absolute" onclick="document.getElementById('subLayer6').style.display='none';"><img src="/cn/p2images/main/close.gif"/></div></div>
+		<div class="list_text_100823 clearfix">
+			<ul style="padding-bottom:14px">
+				<li id="landy6_2"><a href="http://www.samsung.com/cn/support/faqs/supportFaqsMain.do?pid=cn_gnb_support_faqs_100623">常见问题解答</a></li>
+				<li id="landy6_7"><a href="http://www.samsung.com/cn/support/location/supportServiceLocation.do?page=SERVICE.LOCATION&pid=cn_gnb_support_location_100623">维修网络</a></li>
+				<li id="landy6_3"><a href="http://www.samsung.com/cn/support/howtoguide/supportHowToGuideMain.do?pid=cn_gnb_support_howtoguide_100623">操作指南</a></li>				
+			</ul>
+			<ul style="padding-bottom:7px">
+				<li id="landy6_1"><a href="http://www.samsung.com/cn/support/download/supportDownloadMain.do?pid=cn_gnb_support_download_100623">下载中心</a></li>
+				<li id="landy6_6"><a href="http://www.samsung.com/cn/support/repair/supportRepairSelfTracking.do?page=REPAIR.TRACKING&pid=cn_gnb_support_repair_100623">维修记录查询</a></li>
+				<li id="landy6_9"><a href="http://www.samsung.com/cn/support/DealerLocatorMap/DealerLocatorMap.html?pid=cn_gnb_support_DealerLocatorMap_100623">专卖网络</a></li>
+				<li id="landy6_10"><a href="http://www.samsung.com/cn/support/troubleshootingguides/supportTroubleShootingGuidesMain.do?pid=cn_gnb_support_troubleshootingguides_100713">疑难解答</a></li>
+			</ul>
+			<ul>
+				<li id="landy6_8"><a href="http://www.samsung.com/cn/support/servicepolicy/serviceIntroduction.do?page=SERVICE.INTRODUCTION&pid=cn_gnb_support_servicepolicy_100623">服务简介</a></li>
+				<li id="landy6_5"><a href="http://www.samsung.com/cn/support/online/supportOnlineServiceRequest.do?page=SERVICE.REQUEST&pid=cn_gnb_support_online_100623">安装维修申请</a></li>				
+				<li id="landy6_4"><a href="http://www.samsung.com/cn/support/newsalert/supportNewsAlertMain.do?pid=cn_gnb_support_newsalert_100623">服务新闻与公告</a></li>
+			</ul>
+		</div>
+		<div class="bgimg21" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+	
+	<div id="subLayer7" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer7');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1"><div style="cursor: pointer;z-index:100; margin:15px 0 0 330px; position:absolute" onclick="document.getElementById('subLayer7').style.display='none';"><img src="/cn/p2images/main/close.gif"/></div></div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy10_1" href="http://photo.samsung.com.cn" target="_blank">三星影像社区</a></li>
+				<li><a id="landy10_3" href="http://video.samsung.com.cn/" target="_blank">三星视频平台</a></li>
+				<li style="margin-right:0"><a id="landy10_2" href="http://music.samsung.com.cn/" target="_blank">三星音乐平台</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2">&nbsp;</div>
+	</div>
+	
+	<div id="subLayer8" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer8');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_text_100908 clearfix">
+					<ul style="padding-bottom:15px">
+				<li id="landy72_1"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=5">商用显示器</a></li>
+				<li id="landy72_2"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=7">商用笔记本</a></li>
+				<li id="landy72_3"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=9">商用电视</a></li>
+			</ul>
+			<ul style="padding-bottom:9px">
+				<li id="landy72_4"><a href="http://www.samsung.com.cn/b2b/projects/solution.aspx">解决方案</a></li>
+				<li id="landy72_5"><a href="http://www.samsung.com.cn/b2b/projects/case.aspx">成功案例</a></li>
+				<li id="landy72_6"><a href="http://www.samsung.com.cn/b2b/service/policy.aspx">服务中心</a></li>
+			</ul>
+			<ul>
+				<li id="landy72_7"><a href="http://www.samsung.com.cn/b2b/partner/league.aspx">合作加盟</a></li>
+				<li id="landy72_8"><a href="http://www.samsung.com.cn/b2b/about/intro.aspx">关于三星商用</a></li>				
+			</ul>
+		</div>
+		<div class="bgimg2" onmouseout="hideGnbsub();">&nbsp;</div>
+</div>
+</div>
+
+<div id="menuBussiness">
+	<div class="gnb_menu">
+		<ul>
+			<li class="business1" onmouseover="viewGnbsub('subLayer21');"><a href="#" onclick="return false;" onfocus="viewGnbsub('subLayer21');">商用产品</a></li>
+			<li class="business2" onmouseover="viewGnbsub('subLayer22');"><a href="#" onclick="return false;" onfocus="viewGnbsub('subLayer22');">元器件</a></li>
+			<li class="business3" onmouseover="viewGnbsub('subLayer23');"><a href="#" onclick="return false;" onfocus="viewGnbsub('subLayer23');">系统与解决方案</a></li>
+			<li class="exception3" onmouseover="hideGnbsub();"><a href="/cn/index.html">个人消费产品</a></li>
+			<li class="exception2" onmouseover="viewGnbsub('subLayer24');"><a href="/cn/support/main/supportMain.do?pid=cn_gnb_support_main_100623" onclick="return false;" onfocus="viewGnbsub('subLayer24');">服务中心</a></li>
+			<li class="exception4" onmouseover="viewGnbsub('subLayer25');"><a href="http://photo.samsung.com.cn" target="_blank" onclick="return false;" onfocus="viewGnbsub('subLayer25');">三星纷享</a></li>
+		</ul>
+	</div>
+	<div id="subLayer21" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer21');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_text_100908 clearfix">
+					<ul style="padding-bottom:15px">
+				<li id="landy7_1"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=5">商用显示器</a></li>
+				<li id="landy7_2"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=7">商用笔记本</a></li>
+				<li id="landy7_3"><a href="http://www.samsung.com.cn/b2b/product/product_list.aspx?seccatid=9">商用电视</a></li>
+			</ul>
+			<ul style="padding-bottom:9px">
+				<li id="landy7_4"><a href="http://www.samsung.com.cn/b2b/projects/solution.aspx">解决方案</a></li>
+				<li id="landy7_5"><a href="http://www.samsung.com.cn/b2b/projects/case.aspx">成功案例</a></li>
+				<li id="landy7_6"><a href="http://www.samsung.com.cn/b2b/service/policy.aspx">服务中心</a></li>
+			</ul>
+			<ul>
+				<li id="landy7_7"><a href="http://www.samsung.com.cn/b2b/partner/league.aspx">合作加盟</a></li>
+				<li id="landy7_8"><a href="http://www.samsung.com.cn/b2b/about/intro.aspx">关于三星商用</a></li>				
+			</ul>
+		</div>
+		<div class="bgimg2" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+
+	<div id="subLayer22" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer22');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_text clearfix">
+					<ul>
+						<li id="landy8_1"><a href="/cn/business/semiconductor/index.html">半导体</a></li>
+						<li id="landy8_3"><a href="/cn/business/compressor/index.html">压缩机</a></li>						
+					</ul>
+					<ul>
+						<li id="landy8_4"><a href="/cn/business/storage/index.html">存储设备</a></li>
+						<li id="landy8_5"><a href="/cn/business/fiberoptics/index.html">光通信</a></li>
+					</ul>
+		</div>
+		<div class="bgimg2" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+
+	<div id="subLayer23" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer23');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1">&nbsp;</div>
+		<div class="list_text clearfix">
+					<ul>
+						<li id="landy8_6"><a href="/cn/business/settopbox/index.html">机顶盒</a></li>
+						<li id="landy8_7"><a href="/cn/business/telecommunication/index.html">通信系统</a></li>
+					</ul>
+					<ul>
+						<!--<li id="landy8_8"><a href="/cn/business/telecommunication/index.html">监控系统</a></li>-->
+						<!-- <li id="landy9_1"><a target="_blank" href="http://support-cn.samsung.com/hospitality/">酒店电视</a></li> -->
+						<li id="landy9_2"><a target="_blank" href="http://support-cn.samsung.com/dvm/">中央空调</a></li>
+					</ul>
+		</div>
+		<div class="bgimg2" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+
+
+		<div id="subLayer24" class="clearfix" onmouseover="viewGnbsub('subLayer24');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg11"><div style="cursor: pointer;z-index:100; margin:15px 0 0 315px; position:absolute" onclick="document.getElementById('subLayer24').style.display='none';"><img src="/cn/p2images/main/close.gif"/></div></div>
+		<div class="list_text_100823 clearfix">
+			<ul style="padding-bottom:14px">
+				<li id="landy6_2a"><a href="http://www.samsung.com/cn/support/faqs/supportFaqsMain.do?pid=cn_gnb_support_faqs_100623">常见问题解答</a></li>
+				<li id="landy6_7a"><a href="http://www.samsung.com/cn/support/location/supportServiceLocation.do?page=SERVICE.LOCATION&pid=cn_gnb_support_location_100623">维修网络</a></li>
+				<li id="landy6_3a"><a href="http://www.samsung.com/cn/support/howtoguide/supportHowToGuideMain.do?pid=cn_gnb_support_howtoguide_100623">操作指南</a></li>				
+			</ul>
+			<ul style="padding-bottom:7px">
+				<li id="landy6_1a"><a href="http://www.samsung.com/cn/support/download/supportDownloadMain.do?pid=cn_gnb_support_download_100623">下载中心</a></li>
+				<li id="landy6_6a"><a href="http://www.samsung.com/cn/support/repair/supportRepairSelfTracking.do?page=REPAIR.TRACKING&pid=cn_gnb_support_repair_100623">维修记录查询</a></li>
+				<li id="landy6_9a"><a href="http://www.samsung.com/cn/support/DealerLocatorMap/DealerLocatorMap.html?pid=cn_gnb_support_DealerLocatorMap_100623">专卖网络</a></li>
+				<li id="landy6_10a"><a href="http://www.samsung.com/cn/support/troubleshootingguides/supportTroubleShootingGuidesMain.do?pid=cn_gnb_support_troubleshootingguides_100713">疑难解答</a></li>
+			</ul>
+			<ul>
+				<li id="landy6_8a"><a href="http://www.samsung.com/cn/support/servicepolicy/serviceIntroduction.do?page=SERVICE.INTRODUCTION&pid=cn_gnb_support_servicepolicy_100623">服务简介</a></li>
+				<li id="landy6_5a"><a href="http://www.samsung.com/cn/support/online/supportOnlineServiceRequest.do?page=SERVICE.REQUEST&pid=cn_gnb_support_online_100623">安装维修申请</a></li>				
+				<li id="landy6_4a"><a href="http://www.samsung.com/cn/support/newsalert/supportNewsAlertMain.do?pid=cn_gnb_support_newsalert_100623">服务新闻与公告</a></li>
+			</ul>
+		</div>
+		<div class="bgimg21" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+	
+	<div id="subLayer25" class="clearfix sub_layer" onmouseover="viewGnbsub('subLayer25');" onmouseout="hideGnbsub();">
+		<div class="arrow"><img src="/cn/p2images/common/bg_gnb_layer_arrow.gif" alt="" /></div>
+		<div class="bgimg1"><div style="cursor: pointer;z-index:100; margin:15px 0 0 330px; position:absolute" onclick="document.getElementById('subLayer25').style.display='none';"><img src="/cn/p2images/main/close.gif"/></div></div>
+		<div class="list_thumbnail">
+			<ul>
+				<li><a id="landy10_1" href="http://photo.samsung.com.cn" target="_blank">三星影像社区</a></li>
+				<li><a id="landy10_3" href="http://video.samsung.com.cn/" target="_blank">三星视频平台</a></li>
+				<li style="margin-right:0"><a id="landy10_2" href="http://music.samsung.com.cn/" target="_blank">三星音乐平台</a></li>
+			</ul>
+		</div>
+		<div class="bgimg2" onmouseout="hideGnbsub();">&nbsp;</div>
+	</div>
+</div>
+
+				</div>
+			</div>
+			
+			<script type="text/javascript">
+			//<![CDATA[
+				document.domain = "samsung.com";
+				
+				function viewGnbsub(layerId){
+					if (document.getElementById('business')) {
+						var sublayer_length = 5;
+						var divId = "subLayer2";
+					} else {
+						var sublayer_length = 8;
+						var divId = "subLayer";
+					}
+					
+					for(var i=1;i<=sublayer_length;i++){
+						if(layerId==divId+i) {
+							document.getElementById(divId+i).style.display = "block";
+						} else {
+							document.getElementById(divId+i).style.display = "none";
+						}
+					}
+				}
+				
+				function hideGnbsub(layerId){
+					if (!document.getElementById('menuDefault') | !document.getElementById('menuBussiness')) return false;
+					
+					if (document.getElementById('business')) {
+						var sublayer_length = 5;
+						var divId = "subLayer2";
+					} else {
+						var sublayer_length = 8;
+						var divId = "subLayer";
+					}
+					for(var i=1;i<=sublayer_length;i++){
+						document.getElementById(divId+i).style.display = "none";
+					}
+				}
+				if (document.getElementById('business')){
+					document.getElementById('menuDefault').style.display='none';
+					document.getElementById('menuBussiness').style.display='block';
+				} else {
+					document.getElementById('menuBussiness').style.display='none';
+					document.getElementById('menuDefault').style.display='block';
+				}
+				
+				function logout() {
+					deleteCookie("prof_country", "/", document.domain);
+					deleteCookie("prof_id", "/", document.domain);
+					deleteCookie("prof_prolist", "/", document.domain);
+					
+					deleteCookie("bvdisplaycode", "/", "");
+					deleteCookie("bvproductid", "/", "");
+					deleteCookie("bvpage", "/", "");
+					deleteCookie("bvcontenttype", "/", "");
+					deleteCookie("bvauthenticateuser", "/", "");
+					
+					deleteCookie("bzv_url", "/", "");
+					deleteCookie("auth_flag", "/", "");
+					
+					//window.location.reload();
+					window.location.href = document.URL;
+				}
+				
+				function setCookieEx(cookieName, cookieValue, expireDate) {
+					var today = new Date();
+					today.setDate(today.getDate() + parseInt(expireDate));
+					document.cookie = cookieName + "=" + escape(cookieValue) + "; path=/; expires=" + today.toGMTString() + ";";
+				}
+			//]]>
+			</script>
+			
+			<script type="text/javascript">
+			//<![CDATA[
+				var TRANSPARENCY_PROPERTY_ENABLE = 1;
+				var TRANSPARENCY_PROPERTY_DISABLE = 2;
+				var TRANSPARENCY_PROPERTY_IS_DISABLE = 3;
+				var transparencyVetoableChangeListener = [];
+				var transparency_debugAreaId = null;
+				function transparency_addVetoableChangeListener(vetoableChangeListener) {
+					transparencyVetoableChangeListener[transparencyVetoableChangeListener.length] = vetoableChangeListener;
+				}
+				
+				function transparency_enable() {
+					document.getElementById('visualsearch_transparency').style.display='block';
+					for(var i=0; i<transparencyVetoableChangeListener.length; i++) {
+						transparencyVetoableChangeListener[i](TRANSPARENCY_PROPERTY_ENABLE);
+					}
+				}
+				
+				function transparency_disable() {
+					for(var i=0; i<transparencyVetoableChangeListener.length; i++) {
+						if(!transparencyVetoableChangeListener[i](TRANSPARENCY_PROPERTY_IS_DISABLE)) {
+							if(transparency_debugAreaId != null) {
+								var message = "" + transparencyVetoableChangeListener[i] + ": veto";
+								transparency_debugAreaId.value += message + "\n";
+							}
+							return;
+						}
+					}
+				
+					document.getElementById('visualsearch_transparency').style.display='none';
+					for(var i=0; i<transparencyVetoableChangeListener.length; i++) {
+						transparencyVetoableChangeListener[i](TRANSPARENCY_PROPERTY_DISABLE);
+					}	
+				}
+				
+				function transparency_isEnable() {
+					if(document.getElementById('visualsearch_transparency').style.display == 'block')
+						return true;
+					return false;
+				}
+			//]]>
+			</script>
+			
+			<script type="text/javascript">
+			//<![CDATA[
+				function showTellaFriend(taf_typ_cd, arg1, arg2, arg3, arg4, arg5) {
+					var iframeControl = document.getElementById("tellafriendIframe");
+					var dockIframeControl = document.getElementById("dockTellafriendIframe");
+					var iframeUrl = "/cn/function/tellafriend/tellafriend.do";
+					
+					if (taf_typ_cd == "AS") {
+						iframeUrl += "?taf_typ_cd=" + taf_typ_cd;
+						iframeUrl += "&mailTitle=" + arg1;
+						iframeUrl += "&pagelink=" + encodeURIComponent(document.location);
+						iframeControl.src = iframeUrl;
+						showTellaFriendLayer("on", "tellaFriend");
+					} else if (taf_typ_cd == "CP") {
+						iframeUrl += "?taf_typ_cd=" + taf_typ_cd;
+						iframeUrl += "&group=" + arg1 + "&type=" + arg2 + "&model_cd=" + arg3 + "&display_name=" + escape(arg4);
+						if (arg5 == "") {
+							iframeUrl += "&pagelink=" + encodeURIComponent(document.location);
+							iframeControl.src = iframeUrl;
+							showTellaFriendLayer("on", "tellaFriend");
+						} else {
+							iframeUrl += "&pagelink=" + encodeURIComponent(arg5);
+							dockIframeControl.src = iframeUrl;
+							viewEmailToFriend("on");
+						}
+					}
+				}
+				
+				function showTellaFriendLayer(value,targetid){
+					if (value=='on') {
+						document.getElementById('visualsearch_transparency').style.display='block';
+						if(document.getElementById(targetid)) document.getElementById(targetid).style.display='block';
+						document.getElementById("wrap").setAttribute("whereEmail",'content');
+					} else {
+						if(document.getElementById(targetid)) document.getElementById(targetid).style.display='none';
+						document.getElementById('visualsearch_transparency').style.display='none';
+					}
+				}
+				
+				function closeEmailLayer() {
+					var a = document.getElementById("wrap").getAttribute("whereEmail");
+					if (a=="dock") viewEmailToFriend('off');
+					else showTellaFriendLayer('off','tellaFriend');
+				
+				}
+			//]]>
+			</script>
+			<div class="tellafriend" id="tellaFriend">
+				<div class="emailtofriend_layer">
+					<div class="btn_close">
+						<a href="#" onclick="closeEmailLayer(); return false;"><img src="/cn/p2images/common/btn_x5.gif" alt="close" /></a>
+					</div>
+					<div class="dock_title">
+						<img src="/cn/p2images/title/title_dock_emailtofriend.gif" alt="Email to a friend" /><br />
+					</div>
+					<div class="mail_frame">
+						<iframe id="tellafriendIframe" src="about:blank" width="861px" height="360px" frameborder="0" scrolling="no"></iframe>
+					</div>
+				</div>
+			</div>
+
+			
+			<!-- JavaScript -->
+		
+		<script type="text/javascript" src="/cn/flash/p2main/js/swfobject.js"></script>
+		<script type="text/javascript" src="/cn/flash/p2main/js/swffit.js"></script>
+		<script type="text/javascript" src="/cn/flash/p2main/js/AC_OETags.js"></script>
+		<script type="text/javascript" src="/cn/flash/p2main/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/cn/flash/p2main/js/jcarousellite_1.0.1.pack.js"></script>
+		<script type="text/javascript" src="/cn/flash/p2main/js/homepage.js"></script>
+		<script type="text/javascript" src="/cn/scripts/p2control/iepngfix_tilebg.js"></script>
+        <script type="text/javascript" src="/cn/flash/p2main/js/fromflash.js"></script>
+		<!--[if IE 6]>
+		<script type="text/javascript" src="/cn/scripts/p2control/fixed.js"></script>
+		<![endif]-->
+		<div id="flashcontent1" align="center"></div>
+			<script type="text/javascript">
+			// Embed the Flash
+			var flashvars = {config_file:"/cn/flash/p2main/xml/config.xml"};
+			var params = {wmode:"opaque", allowScriptAccess:"always"};
+			var attributes = {};
+			swfobject.embedSWF("/cn/flash/p2main/main.swf", "main_promo", "100%", "100%", "9.0.0", "/cn/flash/p2main/js/expressInstall.swf", flashvars, params, attributes);
+			// Set the Flash's minimum size
+			swffit.fit("main_promo",962,768);
+			// If a user does not have the correct Flash version, send them to the low bandwidth site
+			if (!DetectFlashVer(9,0,0) && (getCookie("PreferBandwidth") != "Low")) {
+				setCookieEx("PreferBandwidth", "Low", 499);
+				window.location.reload();
+			}
+			function thisMovie(movieName) {
+				if (navigator.appName.indexOf("Microsoft") != -1) {
+					return window[movieName];
+				} else {
+					return document[movieName];
+				}
+			}
+		</script>
+		</div>
+		<div id="content">
+			<div id="main_promo">
+			<div style="padding-top:300px;text-align:center">
+					<a href="http://www.adobe.com/go/getflashplayer" target="_blank">
+							<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+					</a>
+			</div>
+	</div>
+			<div id="wrap" style="position:absolute;left:0;top:0;"></div>
+		</div>
+		<!-- Secondary promo area -->
+		<div id="sp_content">
+			<div id="secondary_promo">
+				<div class="col_962">
+					<div id="secondary_boxes">
+						<ul id="secondary_boxes_ul">
+							<!-- row 1  -->
+							<li><a href="/cn/consumer/home-appliances/air-cleaner/air-cleaner/SA600CPSSEC/index.idx?pagetype=prd_detail&returnurl=&pid=cn_home_subbanner1_SA600_110107" target="_parent"><img src="/cn/flash/p2main/images/SA600_110107.png" width="224" height="123" alt="空气除菌技术，保护家人健康" /></a></li>
+							<li><a href="http://support-cn.samsung.com/campaign/samsungmp3haoli/201012?pid=cn_home_subbanner2_mp2_101227" target="_blank"><img src="/cn/flash/p2main/images/mp3_110106.png" width="224" height="123" alt="恭贺新禧，畅赢好礼" /></a></li>
+							<li><a href="http://support-cn.samsung.com/campaign/monitor/201009/projector/?pid=cn_home_subbanner3_monitor_101126" target="_blank"><img src="/cn/flash/p2main/images/project_110106.png" width="224" height="123" alt="三星投影机 自有我色彩" /></a></li>
+							<li><a href="http://support-cn.samsung.com/campaign/televisions/201011?pid=cn_home_subbanner4_televisions_101122" target="_blank"><img src="/cn/flash/p2main/images/3d_tv_110106.png" width="224" height="123" alt="电视“星”控族，悬赏征集！" /></a></li>
+							
+							
+							
+										
+							<!-- row 2  -->
+							
+							
+							
+						</ul>
+					</div>
+					<div id="sb_controls">
+						<div id="jc"></div>
+							<!--
+							<a href="#" class="sb_page" id="sb_pg4"></a>
+							<a href="#" class="sb_page" id="sb_pg3"></a> 
+							<a href="#" class="sb_page" id="sb_pg2"></a>-->
+							<a href="#" class="sb_page sb_sel" id="sb_pg1"></a>
+							<div class="clear"> </div>
+					</div>
+					<div id="footer" class="clearfix">
+						<style type="text/css">
+*{margin:0; padding:0;}
+#RightAD_detail_type{position:absolute;z-index:9999;right:0;width:99px;height:246px;}
+.srollbanner{}
+.srollbanner a{overflow:hidden; display:block;width:99px; height:118px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_type01.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+.srollbanner02{}
+.srollbanner02 a{overflow:hidden; display:block;width:99px; height:93px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_type02.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+.srollclose{}
+.srollclose a{overflow:hidden; display:block;width:99px; height:35px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_type_close.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+
+#RightAD_detail{position:absolute;z-index:9999;0;width:98px;height:239px;}
+.srollbanner2{}
+.srollbanner2 a{overflow:hidden; display:block;width:98px; height:118px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_detail01.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+.srollbanner202{}
+.srollbanner202 a{overflow:hidden; display:block;width:98px; height:121px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_detail02.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+.srollclose2{}
+.srollclose2 a{overflow:hidden; display:block;width:98px; height:35px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_detail_close.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+
+#RightAD_detail_acc{position:absolute;z-index:9999;0;width:98px;height:239px;}
+.srollbanner3{}
+.srollbanner3 a{overflow:hidden; display:block;width:98px; height:122px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_acc.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+.srollclose3{}
+.srollclose3 a{overflow:hidden; display:block;width:98px; height:35px;text-indent:-2000px;background:url('/cn/p2images/banner/banner_acc_close.png') no-repeat;behavior:url("/cn/scripts/p2control/iepngfix.htc");cursor:pointer;}
+</style>
+
+
+
+
+		<script type="text/javascript" src="/cn/flex/script.js"></script>
+		<script type='text/javascript'>
+		//<![CDATA[
+			function setCookieEx(cookieName, cookieValue, expireDate)
+			{
+				var today = new Date();
+				today.setDate(today.getDate() + parseInt(expireDate));
+				document.cookie = cookieName + "=" + escape(cookieValue) + "; path=/; expires=" + today.toGMTString() + ";";
+			}
+		
+			function goLowBandwidth()
+			{
+				var domain = "";
+				setCookieEx("PreferBandwidth", "Low", 499);
+				document.location.href="index_low.html";
+			}
+		
+			function goHighBandwidth()
+			{
+				setCookieEx("PreferBandwidth", "High", 499);
+				window.location.reload();
+			}
+		//]]>
+		</script>
+		
+
+		
+		<!-- Highband -->
+		<div class="custom clearfix" id="footer_highband" style="display:none;">
+			<div class="country"><a href="/cn/function/ipredirection/ipredirectionLocalList.do"><img src="/cn/p2images/common/icon_flag_chn.gif" border="0" alt="" class="flag" />中国 / 简体中文</a></div>
+			<div class="lowband"><a href="javascript:goLowBandwidth()">低带宽版本</a></div>
+			<div class="familySwf" id="flashcontent2">
+			<script type="text/javascript"> 
+  var fo = new FlashObject("/cn/flash/main_new/familysite.swf", "footFlash", "452", "23", "8", ""); 
+  fo.addVariable("xml_url", "/cn/flash/main_new/xml/config_bottomFlash.xml");   
+  fo.addParam("wmode", "transparent"); 
+  fo.addParam("salign", "t"); 
+  fo.write("flashcontent2"); 
+ </script>
+			<!--
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="452" height="23" id="footFlash" flashvars=“config_file=/cn/flash/main_new/xml/config_bottomFlash.xml”>
+					<param name="movie" value="/cn/flash/main_new/familysite.swf"/>
+					<param name="quality" value="high" />
+					<param name="wmode" value="transparent"/>
+					<param name="flashvars" value="xml_url=/cn/flash/main_new/xml/config_bottomFlash.xml"/>
+					<embed src="/cn/flash/main_new/familysite.swf" wmode="transparent" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="452" height="23" id="footFlash"></embed>
+				</object>
+				-->
+			</div>
+			<div class="interaction">
+				<div id="feedback_button1" style="display:none" name="feedback_button1"><a href="javascript:feedbackPopup('no','400','560');" class="feedback">反馈</a></div>
+				<a href="/cn/mysamsung/account/myssMyAccount.do?chk=Y&cn_footer_familysite_MyAccount_20100623" class="newsletter">申请快报</a>
+				<a href="/cn/aboutsamsung/rss/rssFeedList.do?cn_footer_familysite_rss_20100623" class="rss">RSS</a>
+			</div>
+			
+		</div>
+		
+		<!-- Lowband -->
+		<div class="custom clearfix" id="footer_lowband" style="display:none;">
+			<div class="country"><a href="/cn/function/ipredirection/ipredirectionLocalList.do">中国 / 简体中文</a></div>
+			<div class="lowband"><a href="javascript:goHighBandwidth()">高带宽版本</a></div>
+			<div class="interaction">
+				<div id="feedback_button2" style="display:none" name="feedback_button2"><a href="javascript:feedbackPopup('no','400','560');" class="feedback">反馈</a></div>
+				<a href="/cn/mysamsung/account/myssMyAccount.do?chk=Y&cn_footer_familysite_MyAccount_20100623" class="newsletter">申请快报</a>
+				<a href="/cn/aboutsamsung/rss/rssFeedList.do?cn_footer_familysite_rss_20100623" class="rss">RSS</a>
+			</div>
+		</div>
+		
+		<script type="text/javascript">
+		//<![CDATA[
+			//Footer Low,High
+			if (getCookie("PreferBandwidth") == "Low")
+				viewlayer("footer_lowband", "");
+			else
+				viewlayer("footer_highband", "");
+				
+ 			//layer close
+ 			function closeBox(id) {document.getElementById(id).style.display = "none";} 				
+				
+		//]]>
+		</script>
+		
+		<div class="fnb clearfix">
+ <script type="text/javascript">
+	function scpop(){
+        document.getElementById("RightAD_detail").style.top=(document.documentElement.scrollTop+(document.documentElement.clientHeight-document.getElementById("RightAD_detail").offsetHeight)/2)+"px";
+        document.getElementById("RightAD_detail").style.left=(document.documentElement.scrollLeft+document.documentElement.clientWidth-document.getElementById("RightAD_detail").offsetWidth)-"20"+"px";
+    }
+</script> 
+
+  <div id="RightAD_detail" style="display:none">
+    <div class="srollbanner2" id="srollbanner2"><a href="" target="_blank" id="v_buyonline_detail">onlinebuy</a></div>
+    <div class="srollbanner202" id="srollbanner202"><a href="#" target="_blank" id="v_salelocation">salelocation</a></div>
+    <div class="srollclose2"><a href="#" onclick="javascript:document.getElementById('RightAD_detail').style.display='none';">close</a></div>
+  </div>
+
+ <script type="text/javascript">
+function scradright(){
+	document.getElementById("RightAD_detail_acc").style.top=(document.documentElement.scrollTop+(document.documentElement.clientHeight-document.getElementById("RightAD_detail_acc").offsetHeight)/2)+"px";
+        document.getElementById("RightAD_detail_acc").style.left=(document.documentElement.scrollLeft+document.documentElement.clientWidth-document.getElementById("RightAD_detail_acc").offsetWidth)-"20"+"px";
+} 
+</script> 
+  <div id="RightAD_detail_acc" style="display:none">
+    <div class="srollbanner3"><a href="" target="_blank" id="v_buyonline_acc">onlinebuy</a></div>
+    <div class="srollclose3"><a href="#" onclick="javascript:document.getElementById('RightAD_detail_acc').style.display='none';">close</a></div>
+  </div>
+			<div class="links">
+				<a href="/cn/aboutsamsung/corporateprofile/affiliatedcompanies.html">附属企业</a>
+				<a href="/cn/info/privacy.html">隐私保密声明</a>
+				<a href="/cn/info/legal.html">相关法律</a>
+				<a href="/cn/info/contactus.html">联系我们</a>
+				<a href="/cn/info/sitemap.html">网站地图</a>
+				<a onclick="bookmarkit();" href="#" class="last">加为收藏</a>
+				<!--<a href="http://support-cn.samsung.com/onlinesurvey/20100126/index.aspx" class="last" target="_blank"><img src="/cn/p2images/common/poll.png" alt="问卷调查" align="absmiddle"/></a>-->
+			</div>
+			<address class="copyright">&copy; 1995-2011 三星（中国）投资有限公司 版权所有</address>
+			<div class="links" style="float:right; margin:0 10px 0 263px; display:inline;"><img id="landy_cpr" src="/cn/p2images/landy/common_cpr_100113.gif" usemap="#common_cpr" style="float:left;" align="absmiddle"/><div style="margin-top:8px; width:155px;*width:115px"><a target="_blank" href="http://www.miibeian.gov.cn/" class="last">京ICP备05068163号</a></div></div><map name="common_cpr">
+				<area target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001082100323" coords="0,0,35,42" shape="rect"/>
+			</map>
+		</div>
+	
+	<!-- layer Start -->
+		<div id="umpc_genuine" class="errorbox_large" style="display: none;">
+			<div class="top"><a href="#" onclick="closeBox('umpc_genuine'); return false;"><img src="/cn/p2images/common/btn_x.gif" border="0" alt="" /></a></div>
+			<div class="middle normal">
+				正版Windows® 软件由 Microsoft发布， Microsoft或授权许可方对该软件提供许可和支持。使用正版软件您可免受盗版软件带来的风险，还可享受特殊好处，获得良好的使用体验并使您的期望获得满足。要了解相关详细信息，请访问<a href="http://www.microsoft.com/genuine/" target="_blank" class="pointlink" onclick="viewlayer('umpc_genuine','off')">www.microsoft.com/genuine</a>。
+			</div>
+			<div class="bottom"></div>
+		</div>
+	<!-- layer End -->
+			
+<div class="layer_div_us_biz" id="visit_layer"> 
+	<div class="layer_div_01_k_us">
+		<div class="layer_close_k"><a href="#" onclick="viewlayer('visit_layer','off')"><img src="/cn/images/public/btn_layer_close.gif" alt="close" /></a></div>
+		<div class="cont1">
+			<form name="visitlink" action="">
+				<div class="us_biz_visit" style="height:30px">
+					您正在进入三星全球网站。
+				</div>
+				<div class="btn_pop_center">
+					<a href="#" onclick="movepage_layer2('visit_layer');"><img src="/cn/images/common/btn_ok.gif" alt="ok" style="margin:0 0 0 45px;float:left"/></a>
+				</div>  
+			</form>  
+		</div>
+	</div>
+</div>
+
+
+
+<!--menu_flash_onloader();-->
+<!-- Omniture Log Script -->
+	<!-- <script language="JavaScript" src="/cn/scripts/common/s_code.js"></script>-->
+	<!-- <script language="JavaScript" src="/cn/scripts/common/s_code_eng.js"></script>-->
+	<script type="text/javascript" src="/public/scripts/common/s_code_en.js"></script>
+	<script type="text/javascript">
+	 //<![CDATA[
+	      try {
+	      var sitecd = getSiteCode();
+	          var taginfo = getTextNode("pathindicatorENG");
+	           if ( taginfo == false) {
+	               tagURL(sitecd);
+	           } else { 
+	               tagPathindicator(sitecd,"pathindicatorENG"); 
+	           }
+	       }catch (e) {
+	        }
+	     //]]>
+	</script>
+    
+<script type="text/javascript">
+//<![CDATA[
+
+	// Footer View
+	if (getCookie("PreferBandwidt;h") == "Low")
+	{
+		viewlayer("footer_lowband","on");
+		if (document.getElementById("content"))
+			document.getElementById("content").className='content_lowband';
+	}
+	else
+		viewlayer("footer_highband","on");
+
+
+	function surveyGetCookie(name) {
+		var prefix = name + "=";
+		var cookieStartIndex = document.cookie.indexOf(prefix);
+
+		if (cookieStartIndex == -1)
+			return null;
+
+		var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex);
+		if (cookieEndIndex == -1)
+			cookieEndIndex = document.cookie.length;
+
+		return unescape(document.cookie.substring(cookieStartIndex, cookieEndIndex));
+	}
+//]]>
+</script>
+<script type="text/javascript">
+function scall_member(){
+    scradright();
+    scpop();
+}
+
+window.onscroll=scall_member;
+window.onresize=scall_member;
+window.onload=scall_member;
+
+            function GetRequest(){
+                var url = location.search; //获取url中"?"符后的字串
+                var theRequest = new Object();
+                if (url.indexOf("?") != -1) {
+                    var str = url.substr(1);
+                    strs = str.split("&");
+                    for (var i = 0; i < strs.length; i++) {
+                        theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+                    }
+                }
+                return theRequest;
+            }
+            
+			var v_url = window.location.href;
+			function getProductType(){
+				if(v_url.indexOf("mobile-phones") != -1){
+					return {prd_type: "mobile-phones", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=2"};
+				}else if(v_url.indexOf("televisions") != -1){
+					return {prd_type: "televisions", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=70"};
+				}else if(v_url.indexOf("cameras") != -1){
+					return {prd_type: "cameras", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=21"};
+				}else if(v_url.indexOf("camcorders") != -1){
+					return {prd_type: "camcorders", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=22"};
+				}else if(v_url.indexOf("photo-frame") != -1){
+					return {prd_type: "photo-frame", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23"};
+				}else if(v_url.indexOf("home-theater") != -1){
+					return {prd_type: "home-theater", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=24"};
+				}else if(v_url.indexOf("mp3-players") != -1){
+					return {prd_type: "mp3-players", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=26"};
+				}else if(v_url.indexOf("home-theater-projector") != -1){
+					return {prd_type: "home-theater-projector", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23"};
+				}else if(v_url.indexOf("voice-pen") != -1){
+					return {prd_type: "voice-pen", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=29"};
+				}else if(v_url.indexOf("ultra-mobile-pc") != -1){
+					return {prd_type: "ultra-mobile-pc", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8"};
+				}else if(v_url.indexOf("printers-multifunction") != -1){
+					return {prd_type: "printers-multifunction", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=31"};
+				}else if(v_url.indexOf("monitors") != -1){
+					return {prd_type: "monitors", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13"};
+				}else if(v_url.indexOf("data-projectors") != -1){
+					return {prd_type: "data-projectors", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23"};
+				}else if(v_url.indexOf("optical-disc-drives") != -1){
+					return {prd_type: "optical-disc-drives", url: ""};
+				}else if(v_url.indexOf("hard-disk-drives") != -1){
+					return {prd_type: "hard-disk-drives", url: ""};
+				}else if(v_url.indexOf("refrigerators") != -1){
+					return {prd_type: "refrigerators", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43"};
+				}else if(v_url.indexOf("washers-dryers") != -1){
+					return {prd_type: "washers-dryers", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=47"};
+				}else if(v_url.indexOf("air-conditioners") != -1){
+					return {prd_type: "air-conditioners", url: "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=50"};
+				}
+			}
+			function getTypeURL(){
+				if(v_url == "http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=2";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/televisions/televisions/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=70";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/cameras/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=21";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/camcorders/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=22";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/photo-frame/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/home-theater/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/yinpinchanpin/jiatingyingyuan/c24.html";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/mp3-players/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=26";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/home-theater-projector/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/voice-pen/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=29";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=31";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/data-projectors/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/optical-disc-drives/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_main.action";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/hard-disk-drives/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_main.action";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/refrigerators/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/washers-dryers/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=47";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/air-conditioners/index.idx?pagetype=type_p2&"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=50";
+				}			
+			}
+			function getSubTypeURL(){
+				if(v_url == "http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/2g/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=2";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/3g/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=6";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/double-sim-card/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=73";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/mobile-phone-accessories/index.idx?pagetype=accsubtype"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=54";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/televisions/televisions/led-tv/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=36";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/televisions/televisions/lcd-tv/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=40";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/televisions/televisions/plasma-tv/index.idx?pagetype=subtype_p2"){
+					return "";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/cameras/nx-series/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=21";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/cameras/compact-camera/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=21";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/camcorders/digital-memory/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=22";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/camcorders/hd-camcorder/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=22";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/photo-frame/10inch-photo-frame/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/photo-frame/8inch-photo-frame/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/photo-frame/photo-frame-accessories/index.idx?pagetype=accsubtype"){
+					return "";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/photo-frame/7inch-photo-frame/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=23";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/home-theater/home-theater-systems/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/yinpinchanpin/jiatingyingyuan/c24.html";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/home-theater/blu-dvd/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/yinpinchanpin/jiatingyingyuan/c24.html";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/mp3-players/mp3-players/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=26";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/digital-video/mp3-players/mp4-players/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=26";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/everyday/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/performance/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/thin-light/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/business/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/netbook/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/r-series/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/x-series/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8"
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/q-series/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/ultra-mobile-pc/p-series/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=8";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/monochrome-laser-printers/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=31";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/color-laser-printers/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=31";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/monochrome-laser-multifunction-printers-faxes/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=32";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/color-laser-multifunction-printers-faxes/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=32";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/inkjet/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=33";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/printers-multifunction/supplies-accessories/index.idx?pagetype=accsubtype"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=34";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/notebook-companion/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/gaming/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/premium/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/modern/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/luxury/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/professional/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/computers-office/monitors/economic/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=13";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/refrigerators/side-by-side/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/refrigerators/bottom-freezer/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/refrigerators/twodoor/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/refrigerators/others/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=43";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/washers-dryers/washers/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=47";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/washers-dryers/top-loader/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=47";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/washers-dryers/others/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=47";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/air-conditioners/floor-standing/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=50";
+				}else if(v_url == "http://www.samsung.com/cn/consumer/home-appliances/air-conditioners/wall-mount/index.idx?pagetype=subtype_p2"){
+					return "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=50";
+				}
+			}
+            var Request = new Object();
+            
+            Request = GetRequest();
+            var pagetype = Request['pagetype'];
+            var subsubtype = Request['subsubtype'];
+			
+			var banner_type_buy = "buyonline";
+			var banner_type_download = "download";
+			var banner_type_salesloc = "dealerlocator";
+			
+			var v_url_buyonline = "";
+			var v_url_salesloc = "http://www.samsung.com/cn/support/DealerLocatorMap/DealerLocatorMap.html";
+			var v_url_download = "http://xiazai.samsungmobile.com.cn/index.jsp";
+			
+//			命名：cn_产品类型_页面类型_floatingbanner_banner类型_型号/sub type名称
+			//var pd_type = v_url.substring(0,v_url.indexOf("index.idx") - 1).substring(v_url.substring(0,v_url.indexOf("index.idx") - 1).lastIndexOf("/") + 1, v_url.substring(0,v_url.indexOf("index.idx") - 1).length);
+			var pd_type = v_url.substring(0,v_url.substring(0,v_url.indexOf("index.idx")).lastIndexOf("/") + 1);
+			var arr;
+			if(pagetype == "prd_detail"){
+				document.getElementById("RightAD_detail").style.display = "block";
+				var prd_type = getProductType().prd_type;
+				var page_type = "detail";
+				var v_model_name = pd_type;
+
+				arr = v_model_name.split("/");
+				v_model_name = arr[arr.length - 3] + "-" + arr[arr.length - 2];
+
+				var v_url_buyonline = document.getElementById("cn_buyonline").value;
+				var v_url_salesloc_value = document.getElementById("cn_saleslocation").value;
+				
+				if(v_url_buyonline == "" || v_url_buyonline == null){
+					v_url_buyonline = getProductType().url;
+				}
+				
+				var v_pid_buy = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_buy + "_" + v_model_name;;
+				var v_pid_salesloc = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_salesloc + "_" + v_model_name;;
+
+				if(v_url_buyonline == ""){
+					v_url_buyonline = "#";
+				}else{
+					v_url_buyonline = "/cn/redirect/rightbannergoodsleep.html?r_url=" +  v_url_buyonline + "&pid=" + v_pid_buy;
+				}
+				if(v_url_salesloc_value == ""){
+					v_url_salesloc = v_url_salesloc + "?pid=" + v_pid_salesloc;
+				}else{
+					v_url_salesloc = v_url_salesloc_value + "&pid=" + v_pid_salesloc;
+				}
+				
+								
+				document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_online.png')";
+				document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_sale.png')";
+
+				$("#v_buyonline_detail").attr("href",v_url_buyonline);
+				$("#v_salelocation").attr("href",v_url_salesloc);
+				
+			}else{
+				if(pagetype == "type_p2"){
+
+					document.getElementById("RightAD_detail").style.display = "block";
+					var prd_type = getProductType().prd_type;
+					var page_type = "type";
+					
+					v_url_buyonline = getTypeURL();
+					
+					var v_pid_download = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_download;
+					var v_pid_buy = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_buy;
+					var v_pid_salesloc = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_salesloc;
+					
+					v_url_download = "/cn/redirect/rightbannergoodsleep.html?r_url=" + v_url_download + "&pid=" + v_pid_download;
+
+					if(v_url_buyonline == ""){
+						v_url_buyonline = "#";
+					}else{
+						v_url_buyonline = "/cn/redirect/rightbannergoodsleep.html?r_url=" +  v_url_buyonline + "&pid=" + v_pid_buy;
+					}
+
+					v_url_salesloc = v_url_salesloc + "?pid=" + v_pid_salesloc;
+
+					if(v_url.indexOf("mobile-phones") != -1){
+						document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_freedown.png')";
+						document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_online.png')";
+
+						$("#v_buyonline_detail").attr("href",v_url_download);
+						$("#v_salelocation").attr("href",v_url_buyonline);
+						
+					}else{
+						document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_online.png')";
+						document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_sale.png')";
+
+						$("#v_buyonline_detail").attr("href",v_url_buyonline);
+						$("#v_salelocation").attr("href",v_url_salesloc);
+					}					
+ 				}else if(pagetype == "subtype_p2"){
+					document.getElementById("RightAD_detail").style.display = "block";
+					var prd_type = getProductType().prd_type;
+					var page_type = "subtype";
+					var sub_type = v_url.substring(0,v_url.indexOf("index.idx") - 1).substring(v_url.substring(0,v_url.indexOf("index.idx") - 1).lastIndexOf("/") + 1, v_url.substring(0,v_url.indexOf("index.idx") - 1).length);
+					
+					v_url_buyonline = getSubTypeURL();
+					
+					var v_pid_download = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_download + "_" + sub_type;
+					var v_pid_buy = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_buy + "_" + sub_type;
+					var v_pid_salesloc = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_salesloc + "_" + sub_type;
+					
+					v_url_download = "/cn/redirect/rightbannergoodsleep.html?r_url=" + v_url_download + "&pid=" + v_pid_download;
+
+					if(v_url_buyonline == ""){
+						v_url_buyonline = "#";
+					}else{
+						v_url_buyonline = "/cn/redirect/rightbannergoodsleep.html?r_url=" +  v_url_buyonline + "&pid=" + v_pid_buy;
+					}
+
+					v_url_salesloc = v_url_salesloc + "?pid=" + v_pid_salesloc;
+					
+					if(v_url.indexOf("mobile-phones") != -1){
+						document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_freedown.png')";
+						document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_online.png')";
+
+						$("#v_buyonline_detail").attr("href",v_url_download);
+						$("#v_salelocation").attr("href",v_url_buyonline);
+					}else{
+						document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_online.png')";
+						document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_sale.png')";
+
+						$("#v_buyonline_detail").attr("href",v_url_buyonline);
+						$("#v_salelocation").attr("href",v_url_salesloc);
+					}
+
+				}else if(pagetype == "accsubtype"){
+					document.getElementById("RightAD_detail").style.display = "block";
+					var prd_type = getProductType().prd_type;
+					var page_type = "subtype";					
+
+					var v_pid_download = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_download;
+					var v_pid_buy = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_buy;					
+
+					v_url_download = "/cn/redirect/rightbannergoodsleep.html?r_url=" + v_url_download + "&pid=" + v_pid_download;
+
+					document.getElementById("v_buyonline_detail").style.background = "url('/cn/p2images/banner/banner_up_freedown.png')";
+					document.getElementById("v_salelocation").style.background = "url('/cn/p2images/banner/banner_down_online.png')";
+
+					if(v_url.indexOf("mobile-phones") != -1){
+						v_url_buyonline = "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=54";				
+					}else if(v_url.indexOf("televisions") != -1){
+						v_url_buyonline = "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=70";
+					}
+
+					v_url_buyonline = "/cn/redirect/rightbannergoodsleep.html?r_url=" +  v_url_buyonline + "&pid=" + v_pid_buy;
+					
+					$("#v_buyonline_detail").attr("href",v_url_download);
+					$("#v_salelocation").attr("href",v_url_buyonline);
+				}else if(pagetype == "acc_detail"){
+					document.getElementById("RightAD_detail_acc").style.display = "block";
+					var prd_type = getProductType().prd_type;
+					var page_type = "detail";
+					var v_model_name = pd_type;
+
+					arr = v_model_name.split("/");
+					v_model_name = arr[arr.length - 3] + "-" + arr[arr.length - 2];
+
+					var v_pid_buy = "cn_" + prd_type + "_" + page_type + "_floatingbanner_" + banner_type_buy + "_" + v_model_name;
+					if(v_url.indexOf("mobile-phones") != -1){
+						v_url_buyonline = "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=54";				
+					}else if(v_url.indexOf("televisions") != -1){
+						v_url_buyonline = "http://www.samsungshop.com.cn/front_secondMain.action?goodscat.id=70";
+					}
+					
+					v_url_buyonline = "/cn/redirect/rightbannergoodsleep.html?r_url=" +  v_url_buyonline + "&pid=" + v_pid_buy;
+					$("#v_buyonline_acc").attr("href",v_url_buyonline);
+				}
+			}
+</script>
+<script type="text/javascript">
+ function bookmarkit(){
+                switch (getOs()) {
+                    case 1:
+                        window.external.addFavorite('http://www.samsung.com/cn/', '中国三星电子 - 做中国人民喜爱的企业，贡献于中国社会的企业');
+                        break;
+                    case 2:
+                        window.sidebar.addPanel('中国三星电子 - 做中国人民喜爱的企业，贡献于中国社会的企业', 'http://www.samsung.com/cn/', "");
+                        break;
+                    case 0:
+                        break;
+                }
+}
+            function getOs(){
+                if (navigator.userAgent.indexOf("MSIE") > 0) 
+                    return 1;
+                if (isFirefox = navigator.userAgent.indexOf("Firefox") > 0) 
+                    return 2;
+                if (isSafari = navigator.userAgent.indexOf("Safari") > 0) 
+                    return 3;
+                if (isCamino = navigator.userAgent.indexOf("Camino") > 0) 
+                    return 4;
+                if (isMozilla = navigator.userAgent.indexOf("Gecko/") > 0) 
+                    return 5;
+                return 0;
+            }
+               
+</script>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
+
+
+
+
+
+
+
+<!-- Visual Search Layer -->
+<div id="visualsearch_transparency" style="display:none">&nbsp;</div>
+<div id="visualsearch_close_sub" style="display:none">
+	<div class="closebox"><div class="close"><a href="javascript:findquick_none('all');">关闭</a></div></div>
+</div>
+<div id="visualsearch_result" style="display:none"></div>
+
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/spt.js" type="text/javascript"></script>
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/trans.js" type="text/javascript"></script>
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/bl.js" type="text/javascript"></script>
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/qs2.js" type="text/javascript"></script>
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/form.js" type="text/javascript"></script>
+
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/qvs.js" type="text/javascript"></script>
+
+
+<script language="javascript" src="/cn/scripts/p2control/espsearch/vsib2.js" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript">var sqs = null; var sqs2 = null;</script>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function __isLowPreferBandwidth() {
+	if(getCookie("PreferBandwidth") == "Low")
+		return true;
+	return false;
+}
+           
+function findquick_searchResult() {
+	fnSearch();
+}
+
+function findquick_onclick() {
+
+}   
+           
+function getParentById(name) {
+	return document.getElementById(name);
+};
+
+function findquick_keyDown_checkValue(txt,event) {
+	//document.getElementById("completion_debug").value += "findquick_keyDown_checkValue(); \n";
+
+	if(txt=="搜索" && getParentById('layer_findquick_close').style.display != 'block') {
+		document.getElementById("visualsearch_inputitem").value = "";
+	}
+};
+
+function findquick_keyUp_checkValue(txt,event) {
+	if(txt=="搜索" && getParentById('layer_findquick_close').style.display != 'block') {
+		document.getElementById("visualsearch_inputitem").value = "";
+		txt = "";
+	}
+
+	if(txt.length > 0) {
+		getParentById('layer_findquick_close').style.display='block'; 
+		
+		if(!__isLowPreferBandwidth()) {
+			//getParentById('visualsearch_transparency').style.display='block'; 
+			if(!transparency_isEnable()){
+				transparency_enable();
+			}
+			if(document.getElementById("keyvisualimage"))
+				keyvisualAutoStop();
+
+			if(document.getElementById("main"))
+				thisMovie("main_promo").pause();
+		}
+		
+	} else {
+		getParentById('layer_findquick_close').style.display='none'; 
+		
+		if(!__isLowPreferBandwidth()) {
+			//getParentById('visualsearch_transparency').style.display='none'; 
+			if(transparency_isEnable()){
+				transparency_disable();
+			}
+
+			if(document.getElementById("keyvisualimage") && document.getElementById("header").getAttribute("isFirstAutoPlay")==1)
+				keyvisualAutoPlay();
+
+			if(document.getElementById("main"))
+				thisMovie("main_promo").resume();
+		}
+		
+	}
+};
+
+//function findTooltip(index) {
+var findTooltip = function(index) {
+	return document.getElementById("visualSearchTooltip_" + (index));
+};
+
+function initBodyValues() {
+	document.getElementById("visualsearch_inputitem").value = "搜索";
+	
+	//"visualsearch_result",
+
+	if(!__isLowPreferBandwidth()) {
+		sqs2 = new QueryVisualSuggester("/cn/function/espsearch/visualSearchResult.do" + "?keyword=",
+				document.getElementById("visualsearch_result"),
+				"visualsearch_inputitem");
+	
+		sqs2.setDebugAreaId(document.getElementById("completion_debug"));
+		sqs2.setSubmitFunc(fnSearch);
+		sqs2.setShowListenerFunc(showListener2);
+		sqs2.setCheckQueryFunc(checkQuery);
+		sqs2.setTooltipAbsolutePosition(true);
+	}
+
+
+	
+	
+	sqs = new QuerySuggester("/cn/function/espsearch/autoComplete.do" + "?c=querycompletions_cn&q=", //c=querycompletions_[sitecd]
+			document.getElementById("layer_findquick"),
+			"visualsearch_inputitem");
+	sqs.setDebugAreaId(document.getElementById("completion_debug"));
+
+	if(!__isLowPreferBandwidth()) {
+		sqs.setSubmitFunc(fnQuerySuggesterSubmit);
+	}
+
+
+	sqs.setMakeSuggestionsHtmlFunc(makeSuggestionsHtml);
+	sqs.setFindTooltipFunc(findTooltip);
+	sqs.setTooltipAbsolutePosition(true);
+	sqs.setUnexpectedKeywordClickCallbackFunc(fnClickRecenkKeyword);
+
+	
+	$('#visualsearch_inputitem').keypress(fnCheckEnter);
+
+	//click
+	$(window.document.body).click(function() {	
+		sqs.hide();
+	});
+
+	
+	if(!__isLowPreferBandwidth()) {
+		transparency_addVetoableChangeListener(visualsearch_vetoableChangeListener);
+	}
+	
+};
+
+function visualsearch_vetoableChangeListener(state) {
+	if(state == 3) {
+		/*if(document.getElementById("visualsearch_inputitem").value.length < 1 ||
+				document.getElementById("visualsearch_inputitem").value == "搜索") {
+			return true
+		}
+		return false;*/
+		if(getParentById('layer_findquick_close').style.display == 'block') {
+			return false;
+		}
+	}
+	return true;
+}
+
+//add event observe
+$(window).load(function() {
+	initBodyValues();
+	document.getElementById("visualsearch_inputitem").disabled = "";
+});
+
+//]]>
+</script>
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function findquick_none(all) {
+	document.getElementById("visualsearch_inputitem").value = "搜索";
+
+	sqs.hide();
+	
+	if(!__isLowPreferBandwidth()) {
+		sqs2.hide();
+	}
+	
+
+	if(all=="all") {
+		getParentById('layer_findquick_close').style.display='none'; 
+		
+		if(!__isLowPreferBandwidth()) {
+			//getParentById('visualsearch_transparency').style.display='none'; 
+			transparency_disable();
+
+			if(document.getElementById("keyvisualimage") && document.getElementById("header").getAttribute("isFirstAutoPlay")==1)
+				keyvisualAutoPlay();
+
+			if(document.getElementById("main"))
+				thisMovie("main_promo").resume();
+		}
+		
+	}
+};
+
+function findquick_pagenavigation(query, pageNo) {
+	sqs2.pageNavigation(query, pageNo);
+}
+
+function findquick_viewDetail(num) {
+	var ArrayX = new Array();
+	var ArrayY = new Array();
+	ArrayX = [165,334,503,261,430,165,334,503,261,430];
+	ArrayY = [34,34,34,34,34,203,203,203,203,203];
+
+	/*for(var i=0; i<10; i++) {
+		if(getParentById("visualsearch_resultlayer" + i)) {
+			getParentById("visualsearch_resultlayer" + i).style.display="none";
+		}
+	}*/
+	getParentById("visualsearch_resultlayer" + num).style.display="block";
+	getParentById("visualsearch_resultlayer" + num).style.left = ArrayX[num]+"px";
+	getParentById("visualsearch_resultlayer" + num).style.top = (ArrayY[num]-40)+"px";
+}
+//]]>
+</script>
+
+<form id="frmSubmit" name="frmSubmit" method="get" target="_parent" action="/cn/function/search/espsearchResult.do"></form>
+<!-- // Visual Search Layer -->
+
+		<script language="javascript">
+function getCookie(name)
+{
+	var search = name + "="
+	if(document.cookie.length > 0) {
+	    offset = document.cookie.indexOf(search)
+	    if(offset != -1){
+	      offset += search.length
+	      end = document.cookie.indexOf(";", offset)
+	      if(end == -1)
+	        end = document.cookie.length
+	    return document.cookie.substring(offset, end)
+	    }
+	}
+    	return "";
+}
+/*function openPopup() 
+{
+	var eventCookie=getCookie("main");
+	if (eventCookie != "no")
+	{	
+		var URL ="/cn/pop/20100430/popup.html";
+		var status = "toolbar=no,directories=no,scrollbars=no,resizable=no,status=no,menubar=no, width= 450, height= 529, top=0,left=0"; 
+		window.open(URL,"windowname",status)
+    }
+
+}
+openPopup()*/
+</script>
+		
+				<script type="text/javaScript">
+				if (getCookie("PreferBandwidth") == "Low")
+				{
+					document.location.href="index_low.html";
+				}
+
+			
+			//if (getCookie("popped")=="")
+			//{
+				//var newwin=window.open('/cn/pop/20090318/index.htm','中国三星电子','height=437,width=484,top=0,left=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no, status=no');
+			//}
+		</script>
+		
+		
+		<iframe src="http://support-cn.samsung.com/support/getregion.aspx" style="width:0px; height:0px;" frameborder="0"></iframe>
+<script language="javascript">
+function getCookie(name)
+{
+	var search = name + "="
+	if(document.cookie.length > 0) {
+	    offset = document.cookie.indexOf(search)
+	    if(offset != -1){
+	      offset += search.length
+	      end = document.cookie.indexOf(";", offset)
+	      if(end == -1)
+	        end = document.cookie.length
+	    return document.cookie.substring(offset, end)
+	    }
+	}
+    	return "";
+}
+function openPopup() 
+{
+	
+	var eventCookie=getCookie("index");
+	if (eventCookie != "no")
+	{	
+		var URL ="/cn/pop/20101220/index.htm"; 
+		var status = "toolbar=no,directories=no,scrollbars=no,resizable=no,status=no,menubar=no, width= 500, height= 530, top=0,left=0"; 
+		if(IsPop()){
+			window.open(URL,"windowname",status)
+		}
+    }
+}
+function IsPop(){
+	//var flag = true;
+	//	var date = new Date();
+	//	var month = date.getMonth();
+	//	var day = date.getDate();
+	//	//alert(month+"-"+day);
+	//	if(month==9&&day>=11){
+	//		flag = false;
+	//	}
+	//	return flag;
+	
+	var flag = false;
+	var date = new Date();
+	var year = date.getYear();
+	var month = date.getMonth();
+	var day = date.getDate();
+	var hour = date.getHours();
+	var flagDate = new Date(2011,0,4,00);
+	//alert(year+"-"+month+"-"+day+"-"+hour);
+	if(date<flagDate){
+		flag = true;
+	}
+   return flag;	
+}
+openPopup()
+</script>
+	</body>
+</html>

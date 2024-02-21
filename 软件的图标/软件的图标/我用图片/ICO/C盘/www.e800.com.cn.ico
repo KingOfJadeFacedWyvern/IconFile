@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="gb2312">
+<head>
+<title>404 查不到该页面 e800首页_take IT easy（IT资讯、IT产品、IT商城、IT生活）</title>
+<meta name="description" content="e800，国内最具活力的IT门户网站，涵盖IT资讯，IT产品，IT商城，IT生活等内容，以IT产业及其从业人员为核心，在满足专业资讯和服务需求的基础上，力求将IT的外延扩展，为广大IT边缘用户提供更加多元化的服务。" />
+<meta name="keywords" content="IT,IT资讯,IT产品,IT商城,IT生活,产品库,新闻,硬件,软件,商城,游戏,娱乐,厂商,行业,门户,评测,信息,服务,IT时讯,CIO/CTO,解决方案,通信,技术,开发者,Java,.Net,数据库,移动嵌入,产品,企业软件,Linux,服务器,网络设备,专业存储,信息安全,商业系统,无线网络" />
+<meta name="robots" content="index,follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+<link href="http://static.e800.com.cn/service/css/public.css" rel="stylesheet" type="text/css" />
+<link href="http://static.e800.com.cn/service/css/globalnav.css" rel="stylesheet" type="text/css" />
+<link href="http://static.e800.com.cn/default/home.css" rel="stylesheet" type="text/css" />
+<link href="http://static.e800.com.cn/default/Carousel.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!-- 导航 -->
+<div class="HomeNavE">
+			<div class="uAlogBox">
+					<div class="loginR">
+						
+						<form name="loginForm" id="loginForm" action="http://passport.e800.com.cn/logincheck" target="_self" method="post">
+								用户名：<input type="text" name="code"> 密码：<input type="password" name="passwd"> <input type="submit" class="lonsub" value="登 录"><a href="http://passport.e800.com.cn/reg">注册</a>
+								</form>
+								
+							
+					</div>
+					<div class="linkR">
+					
+					</div>
+			</div>
+			<div class="uAlogoBox">
+				<!-- logo --->
+					<div class="LogoBox">
+						<ul class="mainLogo"><a href=""><img src="http://img1.e800.com.cn/home/logo_home.gif" alt=""/></a></ul>
+						<ul class="OLogo">
+							<a href="http://news.e800.com.cn"><img src="http://img1.e800.com.cn/home/logo_home1.gif" alt=""/></a>
+							<a href="http://tech.e800.com.cn"><img src="http://img1.e800.com.cn/home/logo_home2.gif" alt=""/></a>
+							<a href="http://service.e800.com.cn"><img src="http://img1.e800.com.cn/home/logo_home3.gif" alt=""/></a>
+							<a href="http://industry.e800.com.cn"><img src="http://img1.e800.com.cn/home/logo_home5.gif" alt=""/></a>
+							</ul>
+						</div>
+						<!-- search --->
+						<div class="SearchTech">
+									<form name="searchForm" method="get" action="http://search.e800.com.cn/search" onSubmit="javascript:return SearchCheck();">
+									<div class="SearchBox">
+											<img src="http://img1.e800.com.cn/home/navsearch2.gif" align="absmiddle"/>&nbsp;e800搜索
+											<input type="text" name="keyword" class="seasubText">
+											<select name="searchDomain">
+												<option value="0">全部</option>
+												<option value="28">IT时讯</option>
+												<optgroup label="技术客">
+												<option value="30">JAVA</option>
+												<option value="31">.NET</option>
+												<option value="33">数据库</option>
+												<option value="34">操作系统</option>
+												<option value="32">C++</option>
+												<option value="36">移动嵌入</option>
+												</optgroup>
+												<optgroup label="IT厂商">
+												<option value="39">服务器</option>
+												<option value="40">存储</option>
+												<option value="41">网络</option>
+												<option value="42">IT采购</option>
+												<option value="43">企业软件</option>
+												<option value="48">信息安全</option>
+												<option value="49">SOA</option>
+												<option value="52">解决方案</option>
+												<option value="53">绿色IT</option>
+												<option value="56">Cognos</option>
+												</optgroup>
+												<optgroup label="行业用户">
+												<option value="59">中小企业</option>
+												<option value="58">大型企业</option>
+												<option value="61">政府</option>
+												<option value="64">电信</option>
+												</optgroup>
+											</select>
+											<input type="submit" value="搜索" class="lonsub">
+									</div></form>
+									<div class="TechBox">
+										<ul class="ul1"></ul>
+										<ul class="ul2">
+											<li class="li1"><img src="http://img1.e800.com.cn/home/icon36.gif" alt="技术专家"/></li>
+		
+											<li class="li2"><a href="http://space.e800.com.cn/jogey005" class="headBg"><img src="http://img2.e800.com.cn/user/logo/418576.jpg" width="37" height="27" alt="" align="left"/></a><a href="http://space.e800.com.cn/jogey005">我不是盗贼</a></li>
+												
+											<li class="li2"><a href="http://space.e800.com.cn/gaofeifei" class="headBg"><img src="http://img2.e800.com.cn/user/logo/418579.jpg" width="37" height="27" alt="" align="left"/></a><a href="http://space.e800.com.cn/gaofeifei">飞飞</a></li>
+												
+											<li class="li2li3"><a href="http://space.e800.com.cn/victor2" class="headBg"><img src="http://img2.e800.com.cn/user/logo/419844.jpg" width="37" height="27" alt="" align="left"/></a><a href="http://space.e800.com.cn/victor2">xiaolin</a></li>
+																							
+											</ul>
+										<ul class="ul3"></ul>
+									</div>
+							</div>
+				</div>
+</div>
+<div class="HomeNavE">
+	<div class="NavMenuAllA"></div>
+	<div class="NavMenuAll">
+		<ul>
+				<li class="liTile"><a href="http://news.e800.com.cn" title="IT时讯首页"><b><span>IT时讯首页</span>IT时讯首页</b></a></li>
+				<li><a href="http://news.e800.com.cn/list/390_1_1_1.html" title="新闻第一时"><span>新闻第一时</span>新闻第一时</a></li>
+				<li><a href="http://news.e800.com.cn/list/168_1_1_1.html" title="国内IT"><span>国内IT</span>国内IT</a></li>
+				<li><a href="http://news.e800.com.cn/list/169_1_1_1.html" title="国际IT"><span>国际IT</span>国际IT</a></li>
+				<li><a href="http://news.e800.com.cn/list/170_1_1_1.html" title="厂商动态"><span>厂商动态</span>厂商动态</a></li>
+				<li><a href="http://news.e800.com.cn/list/171_1_1_1.html" title="IT人物"><span>IT人物</span>IT人物</a></li>
+				<li class="liNoBg"><a href="http://news.e800.com.cn/list/391_1_1_1.html" title="深度报道"><span>深度报道</span>深度报道</a></li>
+			</ul>
+		<ul class="ulS"><li class="liTile"><a href="http://tech.e800.com.cn" title="技术客首页"><b><span>技术客首页</span>技术客首页</b></a></li>
+				<li><a href="http://java.e800.com.cn" title="JAVA"><span>JAVA</span>JAVA</a></li>
+				<li><a href="http://dotnet.e800.com.cn" title=".NET"><span>.NET</span>.NET</a></li>
+				<li><a href="http://database.e800.com.cn" title="数据库"><span>数据库</span>数据库</a></li>
+				<li><a href="http://os.e800.com.cn" title="操作系统"><span>操作系统</span>操作系统</a></li>
+				<li><a href="http://cplus.e800.com.cn" title="C++"><span>C++</span>C++</a></li>
+				<li><a href="http://embed.e800.com.cn" title="移动嵌入"><span>移动嵌入</span>移动嵌入</a></li>
+				<li><a href="http://tech.e800.com.cn/alllist/35_1_1_1.html" title="WEB开发"><span>WEB开发</span>WEB开发</a></li>
+				<li><a href="http://tech.e800.com.cn/alllist/37_1_1_1.html" title="软件工程"><span>软件工程</span>软件工程</a></li>
+				<li class="liNoBg"><a href="http://embed.e800.com.cn/winembedded/" title="微软嵌入开发" style="font-weight:100;color:red;">微软嵌入开发</a></li>			
+			</ul>
+			<ul class="ulT"><li class="liTile"><a href="http://service.e800.com.cn" title="IT服务商首页"><b><span>IT服务商首页</span>IT服务商首页</b></a></li>
+				<li><a href="http://server.e800.com.cn" title="服务器"><span>服务器</span>服务器</a></li>
+				<li><a href="http://storage.e800.com.cn" title="存储"><span>存储</span>存储</a></li>
+				<li><a href="http://network.e800.com.cn" title="网络"><span>网络</span>网络</a></li>
+				<li><a href="http://business.e800.com.cn" title="IT采购"><span>IT采购</span>IT采购</a></li>
+				<li><a href="http://software.e800.com.cn" title="企业软件"><span>企业软件</span>企业软件</a></li>
+				<li><a href="http://security.e800.com.cn" title="信息安全"><span>信息安全</span>信息安全</a></li>
+				<li><a href="http://soa.e800.com.cn" title="SOA"><span>SOA</span>SOA</a></li>
+				<li><a href="http://solution.e800.com.cn" title="解决方案"><span>解决方案</span>解决方案</a></li>
+				<li><a href="http://gv.e800.com.cn" title="绿色IT"><span>绿色IT</span>绿色IT</a></li>
+				<li class="liNoBg"><a href="http://cognos.e800.com.cn" title="Cognos"><span>Cognos</span>Cognos</a></li>
+			</ul>
+			<ul class="ulW"><li class="liTile"><a href="http://industry.e800.com.cn" title="行业用户首页"><b><span>行业用户首页</span>行业用户首页</b></a></li>
+				<li><a href="http://smallbiz.e800.com.cn/" title="中小企业"><span>中小企业</span>中小企业</a></li>
+				<li><a href="http://largebiz.e800.com.cn/" title="大型企业"><span>大型企业</span>大型企业</a></li>
+				<li><a href="http://gov.e800.com.cn/" title="政府"><span>政府</span>政府</a></li>
+				<li><a href="http://telecom.e800.com.cn/" title="电信"><span>电信</span>电信</a></li>
+				<li class="liw30"><a href="http://largebiz.e800.com.cn/alllist/361,362,363,364.html" title="能源"><span>能源</span>能源</a></li>
+				<li class="liw30"><a href="http://largebiz.e800.com.cn/alllist/365,366,367,368.html" title="医疗"><span>医疗</span>医疗</a></li>
+				<li class="liw30"><a href="http://largebiz.e800.com.cn/alllist/369,370,371,372.html" title="电力"><span>电力</span>电力</a></li>
+				<li class="liw30"><a href="http://smallbiz.e800.com.cn/alllist/345,346,347,357.html" title="服务"><span>服务</span>服务</a></li>
+				<li class="liw30"><a href="http://smallbiz.e800.com.cn/alllist/348,349,350,358.html" title="电子"><span>电子</span>电子</a></li>		
+				<li class="liw35"><a href="http://smallbiz.e800.com.cn/alllist/351,352,353,359.html" title="制造业"><span>制造业</span>制造业</a></li>	
+				<li class="liw35"><a href="http://smallbiz.e800.com.cn/alllist/354,355,356,360.html" title="跨行业"><span>跨行业</span>跨行业</a></li>	
+			</ul>			
+</div>
+<div class="NavMenuAllB"></div>
+</div>  
+<div class="clear"></div>
+<div class="ContentA Mtop1">
+		<img src="http://img1.e800.com.cn/home/404.jpg">
+</div>
+<div class="ContentA Mtop1" style="width:500px;text-align:left;font-size:16px">
+		<p>-> 你所查看的页面无法浏览或已经不存在</p>
+		<p>-> 输入的地址不正确</p>
+		<p><a href="javascript:window.history.go(-1);">返回上一页</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.e800.com.cn/">回首页</a></p>
+</div>
+<div class="clear"></div>		
+
+<!-- foot -->	
+<div id="foot"><ul>
+<li class="La"><img src="http://img1.e800.com.cn/default/biaoshi.gif"/>
+</li>
+<li class="Lb">Copyright&copy; 2002-2009北京亿八佰电子商务有限公司 版权所有，未经许可不得转载<br/>
+联系: <a href="mailto:webmaster@e800.com.cn">webmaster@e800.com.cn</a> 电话: (8610)65530088 京ICP证040593号<li>
+</ul>
+</div>
+</body>
+</html>
+<!--Processing OK-->

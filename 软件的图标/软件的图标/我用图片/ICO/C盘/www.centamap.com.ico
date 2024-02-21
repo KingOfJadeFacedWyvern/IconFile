@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<script>
+	// Get the url typed in by the user
+	var url = unescape(document.location.href);
+	var arrinfo = url.split("/");
+	var alias = arrinfo[arrinfo.length-1];
+	var ck = arrinfo[arrinfo.length-2];
+
+	var arrinfo = alias.split(" ");
+	/*
+	alias = "";
+	for( i=0; i<arrinfo.length; i++){
+		alias += arrinfo[i];
+	}
+	*/
+	if(ck == "list"){
+		ck = "glist";
+	}
+	else if(ck == "tran"){
+		ck = "gtran1";
+	}
+	else{
+		ck = "gbase";
+	}
+
+	//redirect to an aspx page query the database
+	if(alias != ''){
+		document.location.href = "/gc/home.aspx?ref=alias&ck="+ ck + "&alias=" + escape(alias);
+	}
+	else{
+		document.location.href = "/gc/home.aspx?ref=alias&ck="+ ck;
+	}
+</script>

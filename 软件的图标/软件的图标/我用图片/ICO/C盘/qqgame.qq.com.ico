@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script src="http://ossweb-img.qq.com/images/js/pagespeed/page_speed.js?name=comm&rate=10"></script><head>
+<!-- 设计：eastzhang | 重构：dgguo | 创建：20100422 | 更新：20100423 | 团队博客：http://www.tgideas.com -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="robots" content="all" />
+<meta name="Copyright" content="Copyright (c) 2006-2010 TENCNET" />
+<title>腾讯游戏温馨提示</title>
+<style type="text/css" media="screen">
+body,ul,h1,h2,p { margin: 0; padding: 0;}
+body { font: normal 12px Tahoma; background: #F5F6F7;}
+ul { list-style: none;}
+a { text-decoration: none;}
+a:hover { text-decoration: underline;}
+.wp,.try li { background: url(http://ossweb-img.qq.com/images/web/failure/bg.png) no-repeat;}
+.wp { width: 500px; height: 250px; padding: 5px; position: absolute; left: 50%; top: 50%; margin: -150px 0 0 -255px;}
+h1,h2 { height: 0; overflow: hidden;}
+#cnt { height: 157px; padding: 87px 40px 0 40px ; border-width: 3px; border-style: solid;}
+.c1 { border-color: #B500FF;}
+.c2 { border-color: #000000;}
+.c3 { border-color: #62687E;}
+.c4 { border-color: #88503F;}
+.c5 { border-color: #900000;}
+.c6 { border-color: #0F8FAA;}
+.c7 { border-color: #FF8500;}
+.c8 { border-color: #41A03C;}
+.c9 { border-color: #FF7EA4;}
+.c10 { border-color: #571FB4;}
+.c11 { border-color: #296599;}
+.c12 { border-color: #0659A0;}
+.c13 { border-color: #03B9FB;}
+.c14 { border-color: #CA0000;}
+.c15 { border-color: #9A8558;}
+.try { border-top: 1px solid #CCCCCC;}
+.try p { height: 29px; line-height: 29px; padding: 18px 0 0 1px; color: #828282;}
+.try li { height: 27px; line-height: 27px; padding-left: 6px; background-position: -510px 0;}
+.try li a { font-size: 14px; color: #333333;}
+</style>
+</head>
+<body>
+<div class="wp">
+	<h1>腾讯游戏温馨提示</h1>
+	<div id="cnt" class="c2">
+		<h2>亲爱的用户，此页面暂时无法访问，请您稍后再试！</h2>
+		<div class="try">
+			<p>您可以选择访问：</p>
+			<ul>
+				<li><a href="http://game.qq.com/?ADTAG=IED.InnerCop.gameWeb.errPage">腾讯游戏首页</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+(function(){
+	var host=location.hostname.split("."),h=host[0],cnt=document.getElementById("cnt"),ul=cnt.getElementsByTagName("ul")[0];
+	if(host.length==4){
+		if(h=="app"||h=="game") h=host[1];
+	}
+	var jump=function(name,border){
+		ul.innerHTML='<li><a href="http://'+h+'.qq.com/?ADTAG=IED.InnerCop.gameWeb.errPage">'+name+'官网</a></li><li><a href="http://'+h+'.gamebbs.qq.com/?ADTAG=IED.InnerCop.gameWeb.errPage">'+name+'论坛</a></li>'+ul.innerHTML;
+		cnt.className="c"+border;
+	}
+	switch(h){
+		case "dnf":jump("地下城与勇士",2);break;
+		case "dm":jump("大明龙权",5);break;
+		case "cf":jump("穿越火线",3);break;
+		case "xx":jump("寻仙",4);break;
+		case "sg":jump("QQ三国",7);break;
+		case "ava":jump("战地之王",2);break;
+		case "xj":jump("QQ仙境",8);break;
+		case "hxsj":jump("QQ幻想世界",11);break;
+		case "qqxy":jump("QQ西游",10);break;
+		case "xxz":jump("QQ仙侠传",2);break;
+		case "ffo":jump("自由幻想",6);break;
+		case "qqzt":jump("绿色征途",8);break;
+		case "x5":jump("QQ炫舞",1);break;
+		case "speed":jump("QQ飞车",1);break;
+		case "qqtang":jump("QQ堂",1);break;
+		case "r2":jump("QQ音速",1);break;
+		case "sl":jump("丝路英雄",7);break;
+		case "zg":jump("烽火战国",5);break;
+		case "yxzc":jump("英雄之城",2);break;
+		case "hero":jump("三国英雄传",5);break;
+		case "pet":jump("宠物企鹅",9);break;
+		case "bear":jump("小熊梦工厂",9);break;
+		case "qqhx":jump("QQ华夏",2);break;
+		case "xy":jump("轩辕传奇",2);break;
+		case "yl":jump("御龙在天",2);break;
+		case "fs":jump("QQ封神记",12);break;
+		case "lol":jump("英雄联盟",12);break;
+		case "qqgame":jump("QQ游戏",13);break;
+		case "nba2k":jump("NBA2K OL",11);break;
+		case "roco":jump("洛克王国",7);break;
+		case "hero":jump("三国英雄传",14);break;
+		case "7":jump("七雄争霸",15);break;
+		default:break;
+	}
+})();
+</script>
+<script type="text/javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script type="text/javascript">
+if(typeof(pgvMain)=="function")pgvMain();
+</script>
+</body>
+</html><!--[if !IE]>|xGv00|346677c01e9e7a0671434168fb75a7f7<![endif]-->

@@ -1,0 +1,63 @@
+<HTML><HEAD><TITLE>错误提示页面</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Refresh" content="3; url=http://www.51cto.com" />
+<STYLE type=text/css>
+BODY { FONT-SIZE: 12px; FONT-FAMILY: Tahoma }
+TD { FONT-SIZE: 12px; FONT-FAMILY: Tahoma }
+A:link { COLOR: #636363; TEXT-DECORATION: none }
+A:visited { COLOR: #838383; TEXT-DECORATION: none }
+A:hover { COLOR: #a3a3a3; TEXT-DECORATION: underline }
+BODY { BACKGROUND-COLOR: #cccccc }
+</STYLE>
+</HEAD>
+
+<BODY style="TABLE-LAYOUT: fixed; WORD-BREAK: break-all" topMargin=10 marginwidth="10" marginheight="10">
+<TABLE height="95%" cellSpacing=0 cellPadding=0 width="100%" align=center 
+border=0>
+  <TBODY>
+  <TR vAlign=center align=middle>
+    <TD>
+      <TABLE width=468 border=0 align="center" cellPadding=0 cellSpacing=0 bgColor=#ffffff>
+        <TBODY>
+        <TR>
+          <TD width=20 background="http://images.51cto.com/images/rbox_1.gif" 
+height=20></TD>
+          <TD width=108 background="http://images.51cto.com/images/rbox_2.gif" 
+          height=20></TD>
+          <TD width=56><IMG height=20 src="http://images.51cto.com/404/images/rbox_ring.gif" 
+            width=56></TD>
+          <TD width=100 background="http://images.51cto.com/images/rbox_2.gif"></TD>
+          <TD width=56><IMG height=20 src="http://images.51cto.com/404/images/rbox_ring.gif" 
+            width=56></TD>
+          <TD width=108 background="http://images.51cto.com/images/rbox_2.gif"></TD>
+          <TD width=20 background="http://images.51cto.com/images/rbox_3.gif" 
+        height=20></TD></TR>
+        <TR>
+          <TD align=left background="http://images.51cto.com/images/rbox_4.gif" 
+          rowSpan=2></TD>
+          <TD align=middle bgColor=#eeeeee colSpan=5 height=50>
+            <P><strong>您要找的网页不存在<br>
+              <br>
+            </strong></P></TD>
+          <TD align=left background="http://images.51cto.com/images/rbox_6.gif" 
+          rowSpan=2></TD></TR>
+        <TR>
+          <TD align=left colSpan=5 height=80><br>
+            <P align=center>
+          
+            <P id=LID2>建议：</P>
+            <UL>
+              <LI id=list1>请检查您所输入地址的拼写。<BR>
+              <LI id=list2>3秒钟后转到 <A href="http://www.51cto.com" target="_self">51CTO.COM</A> 
+              主页，尝试查看其他内容。 
+              <LI id=list3>如仍有问题，请<a href="http://www.51cto.com/about/contactus.html" target="_self">与我们联系</a>。 </LI>
+            </UL>
+            <DIV align=right>www.51cto.com</DIV></TD></TR>
+        <TR>
+          <TD align=left background="http://images.51cto.com/images/rbox_7.gif" 
+          height=20></TD>
+          <TD align=left background="http://images.51cto.com/images/rbox_8.gif" colSpan=5 
+          height=20></TD>
+        <TD align=left background="http://images.51cto.com/images/rbox_9.gif" 
+          height=20></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+</BODY></HTML>

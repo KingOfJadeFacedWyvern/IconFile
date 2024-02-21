@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Enter a query to find downloads, support information, and other content on the Microsoft Web site." />
+    <title>Search Microsoft.com</title>
+    <link rel="SHORTCUT ICON" type="image/x-icon" href="http://www.microsoft.com/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/shared/templates/master/smcPage/mscom_search_core.css" />
+    <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/shared/templates/master/smcPage/ie.css" /><![endif]-->
+    <!--[if lt IE 5.5000]><link rel="stylesheet" type="text/css" href="/shared/templates/master/smcPage/ie5.css" /><![endif]-->
+    <style type="text/css">
+        .errmsg
+        {
+            margin: 80px 40px 180px 80px;
+        }
+        .errpglinks
+        {
+            margin: 0 40px 60px 80px;
+        }
+        .errmsg h3.titletxt
+        {
+            font-size: 1.4em;
+            margin-bottom: 8px;
+        }
+        .live_search_logo_sm
+        {
+            display: inline;
+            width: 61px;
+            height: 16px;
+            margin-left: 10px;
+        }
+        .logo_Copywrightimg
+        {
+            padding: 0 3px 0 0;
+            margin: 16px 0 0 8px;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapwrapper">
+        <div id="wrapper">
+            <div class="wrapper_in">
+                <div id="head">
+                    <div class="parent double1 cf">
+                        <div class="c1">
+                        </div>
+                        <div class="c2">
+                            <div class="hdr_abslnklst">
+                                <ul class="linklist9">
+                                    <li><span class="abstxt">United States</span></li><li class="first"><a href="http://go.microsoft.com/?linkid=5496737">
+                                        Change</a></li><li class="last"><a href="http://www.microsoft.com/library/toolbar/3.0/sitemap/en-us.mspx">
+                                            All Microsoft Sites</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top_outer">
+                    <div class="top_inner">
+                        <div class="top_center">
+                        </div>
+                    </div>
+                </div>
+                <div class="page_outer">
+                    <div class="page_inner">
+                        <div id="page">
+                            <div id="nav">
+                                <div class="parent double1 cf">
+                                    <div class="c1">
+                                        <div class="logoimg">
+                                            <img src="/shared/templates/master/smcPage/i/MSCOMSearchLogo.gif" width="218"
+                                                height="27" alt="Microsoft Search" /></div>
+                                    </div>
+                                    <div class="c2">
+                                        <div class="tdNavigationLinks">
+                                            <ul class="linklist1 cf">
+                                                <li><a class="first" href="Search.aspx">Search Home</a></li>
+                                                <li><a href="AdvancedSearch.aspx">Advanced Search</a></li>
+                                                <li><a href="Preference.aspx">Search Preferences</a></li>
+                                                <li><a href="Help.aspx" class="last">Search Help</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="content">
+                                <div id="subhead">
+                                </div>
+                                <div id="area1">
+                                    <div class="errmsg">
+                                        <div class="c1">
+                                            <h3 class="titletxt">
+                                                We are sorry, the page you requested cannot be found.</h3>
+                                            <p class="abstract">
+                                                Please try again, or use <a href="http://www.bing.com/?FORM=BMMENO">Bing</a> to
+                                                search the web now.</p>
+                                        </div>
+                                        <div class="liveform">
+                                            <form id="form404" action="http://www.bing.com/search" method="get" class="">
+                                            <div class="rslfrm cf" style="padding: 10px 0;">
+                                                <div class="d1" style="border-right: #8f98a5 1px solid; margin-top: 5px;">
+                                                    <input name="q" type="text" class="searchtextbox" id="txtNoQuery" value="" maxlength="1024"
+                                                        style="margin-right: .4em;" /></div>
+                                                <div class="d2">
+                                                    <input type="image" src="/shared/templates/master/smcPage/i/webbutton.gif"
+                                                        class="btnweb" value="Web" style="margin-top: 7px;" /><div class="live_search_logo_sm">
+                                                            <img src="/shared/templates/master/smcPage/i/BingLogo.gif" alt="Bing Logo" /><input
+                                                                type="hidden" name="FORM" value="BMMENO" /></div>
+                                                </div>
+                                            </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="subfoot">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="page_foot">
+                    <div class="page_foot_inner">
+                        <div id="foot">
+                            <div class="parent">
+                                <div class="c1">
+                                  <div class="footercopy cf"><div class="logo_Copywrighttext"><a href="http://go.microsoft.com/?linkid=5223980"><img width="92px" height="18px" alt="Microsoft" title="Microsoft" src="/shared/templates/master/smcPage/i/blank.gif" /></a><div class="abstract"><span>© 2010 Microsoft</span></div></div><div class="footerlinks"><ul class="linklist1"><li><a href="http://go.microsoft.com/?linkid=5230433">Contact Us</a></li><li><a href="http://go.microsoft.com/?linkid=5239523">Terms of Use</a></li><li><a href="http://go.microsoft.com/?linkid=5239395">Trademarks</a></li><li class="last"><a href="http://go.microsoft.com/?linkid=5239480">Privacy Statement</a></li></ul></div></div></div></div></div></div>
+</div></div></div>
+    </div>
+    <!--[if lt IE 7]><script type="text/javascript" src="/shared/templates/master/smcPage/ieminwidth.js"></script><![endif]-->
+</body>
+</html>

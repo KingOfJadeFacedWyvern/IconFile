@@ -1,0 +1,1124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="description" content="eNet硅谷动力下载频道是中国最大的免费软件下载站点。提供免费杀毒下载,网络软件下载,图像处理下载,影音播放下载,工具软件下载,小游戏下载,桌面下载,鼠标指针等免费,共享软件下载服务,同时提供原创软件下载发布。">
+<meta name="keywords" content="下载,软件下载,小游戏下载,免费软件下载,绿色软件下载,bt下载">
+<meta name="google-site-verification" content="VVj2tbMuf8tVci-mdDB6IpR3e1LDgoEzZUxLtgN1KQg" />
+<title>eNet下载频道-免费软件下载-绿色软件下载-工具软件下载-硅谷动力网站</title>
+<link href="/d_new/css/default.css" rel="stylesheet" type="text/css" />
+<link href="/d_new/css/index.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="content">
+   <style>
+.fra980{ width:980px; margin:0 auto}
+.fra980 *{ padding:0; margin:0; font:12px "宋体";}
+.fra980 a{ text-decoration:none; color:#000000}
+.fra980 img{ border:0;}
+.clear {clear:both;font-size:1px; width:1px; visibility: hidden; height:1px;margin:0px;padding:0px; line-height:1px;}
+.hearder{ width:978px; border:1px solid #CCDEF4;}
+.hearder .topnav{ background:url(http://www.enet.com.cn/home/v4/images/tophead.gif) repeat-x; width:976px; margin:1px 1px 0; height:88px; padding-top:12px; }
+.hearder .topnav .logo2{ float:left;margin:6px 0px 0 6px;display:inline}
+.hearder .topnav .topsub{ float:left; margin-left:4px; display:inline;}
+.hearder .topnav .topsub .tld{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat; width:33px; height:37px; padding:7px 0 0 8px; font-weight:bold; line-height:19px;margin-right:4px; float:left;}
+.hearder .topnav .topsub .tld a{ font-weight:bold; line-height:19px}
+.hearder .topnav .topsub .tr{ float:left; color:#666666; margin-top:7px; line-height:19px}
+.hearder .topnav .topsub .tr a{ color:#666}
+.hearder .topnav .dqdate{ float:left; color:#666; line-height:26px; height:26px; width:155px; text-align:center; margin:9px 0 0 8px; display:inline}
+.hearder .topnav .subnav{ float:left; width:798px; height:24px; border:1px solid #677693; background:#0F60AF; margin-top:10px; padding-left:10px}
+.hearder .topnav .subnav .sleft{ float:left; height:24px; line-height:24px; color: #fff; width:478px;}
+.sleft a{ color: #fff; display: inline; margin:0 2px}
+.sleft a:hover{ color:#fff}
+.hearder .topnav .subnav .sright{ float:left; margin-top:2px;}
+.sright input{ float:left;width:63px; height:20px; border:1px solid  #8298C1; padding:2px 0 2px 7px; margin-right:6px; color:#99999B }
+.sright .login{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat 0 -50px; width:38px; height:17px; float:left; padding-top:3px; text-align:center; color:#063B81; margin-right:6px}
+.sright .login a{ color:#063B81}
+.sright select{ width:66px; height:19px; float:left}
+.hearder .midnav{ width:978px; background:url(http://www.enet.com.cn/home/v4/images/topbg.gif) repeat-x; height:64px; background-color:#fff; padding:9px 0 0;border-top:1px solid #CCDEF4; }
+.hearder .midnav .cpsearch{ width:973px; height:27px;padding-left:5px; font-weight:bold;}
+.hearder .midnav .cpsearch .lg{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat -46px 0; width:28px; height:24px; float:left}
+.hearder .midnav .cpsearch .keywords{ float:left; width:116px; height:18px; margin-top:2px; line-height:18px; padding-left:14px}
+.hearder .midnav .cpsearch .cx{ height:27px; line-height:27px; font-weight:bold; float:left}
+.hearder .midnav .cpsearch .lb{ float:left; width:115px; height:23px; margin-top:2px}
+.hearder .midnav .cpsearch .brand{ float:left; width:98px; height:23px; margin-top:2px}
+.hearder .midnav .cpsearch .wznr{ float:left; width:115px; height:18px; margin-top:2px; line-height:18px;}
+.hearder .midnav .cplb{ margin:8px 0 0 16px; width:960px;}
+.hearder .midnav .cplb li{ float:left; margin-right:6px}
+.hearder .midnav .cplb li.fk{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat -46px -28px; width:62px; height:15px; text-align:center; padding-top:6px}
+.hearder .midnav .cplb li.bq{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat -46px -53px; width:63px; height:20px; text-align:center; padding-top:6px; text-align:center; font-weight:bold; color:#fff }
+.hearder .midnav .cplb li.bq a{font-weight:bold; color:#fff}
+.hearder .midnav .cplb li.jrcpk{font-weight:bold; width:70px;color:#033A8C; float:right; margin:2px 25px 0 0px; display:inline}
+.hearder .midnav .cplb li.jrcpk a{color:#033A8C;font-weight:bold;}
+.hearder .tjcon{ width:978px; height:76px}
+.hearder .tjcon .tjpb{ float:left; width:470px; margin-left:15px; display:inline}
+.hearder .tjcon .tjpb .tjpb_tit{ background:url(http://www.enet.com.cn/home/v4/images/headpic.jpg) no-repeat -111px -31px; width:29px; height:39px; padding:5px 10px; color:#434144; font-weight:bold; line-height:19px; float:left; margin:13px 8px 0 0}
+.hearder .tjcon .tjpb .tjtxt{ float:left; width:76px; color: #1D3A86; padding-left:6px; height:14px; margin:9px 0 2px;overflow:hidden}
+.hearder .tjcon .tjpb .tjtxt2{ float:left; width:96px; color: #1D3A86; padding-left:6px; height:14px; margin:9px 0 2px; overflow:hidden}
+.hearder .tjcon .tjpb .tjtxt a,.hearder .tjcon .tjpb .tjtxt2 a{color: #1D3A86;}
+.hearderbot{ border-top:1px solid #A8B3C5; border-bottom:1px solid #A8B3C5; width:980px; height:4px; background:#BFD5E2; overflow:hidden}
+</style>
+<div class="fra980">
+    <div class="hearder">
+      <div class="topnav">
+   <div class="logo2" ><a href="http://www.enet.com.cn/" target="_blank"><img src="http://www.enet.com.cn/home/v4/images/logo.jpg" /></a></div>
+   <div class="topsub">
+      <div class="tld"><a href="http://www.enet.com.cn/enews/" target="_blank">资讯中心</a></div>
+      <div class="tr"><a href="http://www.enet.com.cn/enews/internet.shtml" target="_blank">互联网</a> <a href="http://www.enet.com.cn/enews/tele.shtml" target="_blank">通信</a><br/><a href="http://www.enet.com.cn/enews/it.shtml" target="_blank">IT业界</a> <a href="http://discovery.enet.com.cn" target="_blank">科学</a></div>
+   </div>
+   <div class="topsub">
+      <div class="tld"><a href="http://www.enet.com.cn/edigi/" target="_blank">数码世界</a></div>
+      <div class="tr"><a href="http://www.enet.com.cn/emobile/" target="_blank">手机</a> <a href="http://www.enet.com.cn/notebook/" target="_blank">笔记本</a> <a href="http://www.enet.com.cn/dc/" target="_blank">DC·DV</a><br /> <a href="http://www.enet.com.cn/digitalhome/" target="_blank">家电</a> <a href="http://www.enet.com.cn/computer/" target="_blank">台式机</a> <a href="http://www.enet.com.cn/video" target="_blank">数码影音</a></div>
+   </div>
+   <div class="topsub">
+      <div class="tld"><a href="http://www.enet.com.cn/hardwares/" target="_blank">硬件DIY</a></div>
+      <div class="tr"><a href="http://www.enet.com.cn/cpu/" target="_blank">三大件</a>   <a href="http://www.enet.com.cn/motherboard">板卡</a><br/><a href="http://www.enet.com.cn/audio/" target="_blank">音频 </a> <a href="http://www.enet.com.cn/other/" target="_blank">外设</a> </div>
+   </div>
+   <div class="topsub">
+      <div class="tld"><a href="http://www.enet.com.cn/application" target="_blank">企业应用</a></div>
+      <div class="tr"><a href="http://www.enet.com.cn/server/" target="_blank">服务器</a>  <a href="http://www.enet.com.cn/oa/" target="_blank">办公</a>  <a href="http://www.enet.com.cn/esoftware/" target="_blank">软件</a><br/> <a href="http://www.enet.com.cn/cio/" target="_blank">CIO</a> <a href="http://www.enet.com.cn/networks/" target="_blank">网络通信</a>  <a href="http://www.enet.com.cn/security/" target="_blank">安全</a></div>
+   </div>
+   <div class="topsub">
+      <div class="tld"><a href="http://product.enet.com.cn/" target="_blank">产品大全</a></div>
+      <div class="tr"><a href="http://product.enet.com.cn/price/plist13.shtml" target="_blank">电脑硬件</a> <a href="http://product.enet.com.cn/price/plist4.shtml" target="_blank">整机</a><br/> <a href="http://product.enet.com.cn/price/plist31.shtml" target="_blank" target="_blank">消费数码</a> <a href="http://product.enet.com.cn/price/plist97.shtml" target="_blank">手机</a></div>
+   </div>
+   <div class="topsub">
+      <div class="tld"><a href="http://auto.enet.com.cn/" target="_blank">汽车中心</a></div>
+      <div class="tr"><a href="http://product.auto.enet.com.cn/" target="_blank">车型库</a> <a href="http://product.auto.enet.com.cn/picindex.shtml" target="_blank">图片库</a><br /><a href="http://auto.enet.com.cn/xwzx.shtml" target="_blank">新车</a> <a href="http://auto.enet.com.cn/articlelist/7495_7496_7497_7490_7491_7492_7493_7494-0-0-0-1.shtml" target="_blank">行情</a> <a href="http://auto.enet.com.cn/pcsj.shtml" target="_blank">试驾</a></div>
+   </div>
+   <div class="clear"></div>
+   <div class="dqdate">
+   <script language="javaScript" type="text/javaScript">     
+		eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('a h="";a i="";a j="";a k="";a 7="";a e="";c=l m();7=c.n();f=c.o()+1;g=c.p();d=c.q();e=(d>r)?d:s+d;9(7==0)8=" 星期日 ";b 9(7==1)8=" 星期一 ";b 9(7==2)8=" 星期二 ";b 9(7==3)8=" 星期三 ";b 9(7==4)8=" 星期四 ";b 9(7==5)8=" 星期五 ";b 9(7==6)8=" 星期六 ";t.u(e+"年"+f+"月"+g+"日 "+8);',31,31,'|||||||myweekday|weekday|if|var|else|mydate|myyear|year|mymonth|myday|day|month|ampm|ampmhour|new|Date|getDay|getMonth|getDate|getYear|200|1900|document|write'.split('|'),0,{}))
+	 </script>
+   </div>
+   <div class="subnav">
+     <div class="sleft"><a href="http://games.enet.com.cn/" target="_blank">游戏</a>│<a href="http://www.enet.com.cn/eschool/" target="_blank">学院</a>│<a href="http://www.enet.com.cn/printer/" target="_blank">打印</a>│<a href="http://www.enet.com.cn/storage/" target="_blank">存储</a>│<a href="http://www.enet.com.cn/projector/" target="_blank">投影</a>│<a href="http://www.enet.com.cn/elady" target="_blank">IT女性</a>│<a href="http://www.enet.com.cn/special" target="_blank">专题</a>│<a  href="http://pic.enet.com.cn" target="_blank">图片</a>│<a href="http://www.enet.com.cn/lab/" target="_blank">评测中心</a>│<a href="http://bbs.enet.com.cn/" target="_blank">论坛</a>│<a href="http://www.enet.com.cn/city/hn/" target="_blank">华南</a></div>
+     <div class="sright">
+     	<form id="eLogin1" name="eLogin1" action="http://pass.enet.com.cn/dispatcher.jsp" method="post" target="_blank">
+     		<input type="text" name="userid" value="用户名" onmouseover="this.focus()" onfocus="this.select()" onclick="this.value=''" /><input type="password" name="password" value="pwd" onmouseover="this.focus()" onfocus="this.select()" onclick="this.value=''" /><div class="login"><a href="javascript:;" onclick="dologin(eLogin1);">登录</a></div><div class="login"><a href="http://pass.enet.com.cn/regist.jsp" target="_blank">注册</a></div><select name="channel" class="bor_gray"><option value="pass" selected>通行证</option><option value="store">经销商</option></select>
+     	</form>
+     </div>
+   </div>
+</div>
+<script>
+function getzqliD(artdate,acolor){
+	var mydate;
+	var Day;
+	mydate=new Date(); 
+	var formtartdate="<font color="+acolor+">"+artdate+"</font>"
+	if (String(mydate.getDate()).length>1){
+		Day=mydate.getDate();
+	}else{
+		Day="0"+mydate.getDate()
+	}
+	mydate=Day+"";
+	if (String(mydate)==artdate){
+		document.write(formtartdate);
+	}else{
+		document.write(artdate);
+	}
+}
+</script>
+    <div class="clear"></div>
+  </div>
+</div>
+   <div class="blank8"></div>
+
+   <div class="fra">
+      <div class="enet752">
+	<div class="ad750 bor">
+		<iframe id="ewaretonglan" width=750 height=90 noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0></iframe>
+		<!--script type="text/javascript">
+<!--
+itop_client = 246;
+itop_slotid = 303;
+itop_width = 750;
+itop_height = 90;
+//-->
+</script-->
+<!--script type="text/javascript" src="http://s.itopnetworks.com/s.js"></script-->
+
+	</div>
+</div>
+      
+<div class="fra220 bor">
+	<div class="adtxt">
+  	<ul>
+	    <li><a href="http://hd.ql18.com.cn/hjyhd/index.html?s=2" target="_blank"><b>钱龙“双享”季 注册就送礼</b></a></li>
+	    <li><a href="/html/080572010080401.html" target="_blank">植物大战僵尸下载 中文绿色版</a></li>
+	    <li><a href="/html/010722006101102.html" target="_blank">360安全卫士下载 最新正式版</a></li>
+	    <li>迅雷下载：<a href="/html/010032005082501.html" target="_blank">迅雷5下载</a> <a href="/html/010032010101201.html" target="_blank">迅雷7下载</a></li>
+  	</ul>
+	</div>
+</div>
+   </div>
+   
+   <div class="fra">
+     <div class="area980 bor">
+        <script language="javascript" src="/includes/check.js"></script>
+<div class="d_logo"><img src="/d_new/images/d_logo.jpg" /></div>
+<div class="d_nav">
+  <div class="d_navL">
+    <div class="navcon">
+      <ul>
+        <li><a href="/php/clist.php?cid=1" target="_blank">网络工具</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=4" target="_blank">图像处理</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=5" target="_blank">多媒体工具</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=6" target="_blank">系统工具</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=7" target="_blank">文件管理</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=3" target="_blank">工具软件</a></li>
+        <li>|</li>
+        <li><a href="/php/clist.php?cid=2" target="_blank">服务器软件</a></li>
+        <li>|</li>
+        <li><a href="http://happy.enet.com.cn" target="_blank">欢乐下载</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/zhuanti/zt_qq/" target="_blank">QQ下载大全</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+    <div class="navcon font_white">
+      <ul>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=362" target="_blank">QQ下载</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=20" target="_blank">免费杀毒</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=72" target="_blank">网络安全</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=66" target="_blank">股票基金</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=5" target="_blank">网络加速</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=341" target="_blank">企业软件</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/subcategory.php?scid=339" target="_blank">彩票工具</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/index_game.shtml" target="_blank">单机游戏下载</a></li>
+        <li>|</li>
+        <li><a href="http://download.enet.com.cn/newest.php?pfid=0" target="_blank">查看最新更新</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="d_navR">
+    <div class="loginbg"><a href="http://download.enet.com.cn/eblog/">原创软件发布</a></div>
+    <div class="loginlink"><a href="http://pass.enet.com.cn/index_blog.jsp?forward=http%3A%2F%2Fdownload.enet.com.cn%2Feblog%2F">登录</a>&nbsp;&nbsp;<a href="http://pass.enet.com.cn/regist_blog.jsp?forward=http://download.enet.com.cn/eblog">注册</a></div>
+  </div>
+</div>
+<!--div class="d_searbg">
+  <div class="d_searinp">
+  	<form action="http://download.enet.com.cn/search.php" method="get" name="search" id="search" onsubmit="return searchcheck()">
+	    <input type="text" name="keyword" value="" class="s1" />
+	    <input type="submit" value="搜索" class="s2" />
+  	</form>
+  </div>
+  <div class="gjs3"><a href="/advanced_search.php" target="_blank">高级搜索</a></div>
+  <div class="hotkey"><span>热门关键字：</span>&nbsp;<a href="http://download.enet.com.cn/speed/toftp.php?fname=030202008072301" target="_blank">360杀毒软件</font></a>&nbsp;&nbsp;<a href="/speed/toftp.php?fname=070552009071501" target="_blank">有备数据保护专家</a>&nbsp;&nbsp;<a href="http://download.enet.com.cn/html/010662010010801.html" target="_blank">炒股必备免费下载</a>&nbsp;&nbsp;<a href="/speed/toftp.php?fname=040302008122301" target="_blank">美图秀秀</a></div>
+  <div class="swsy"><a href="javascript:void(null)" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://download.enet.com.cn/');return false" class="ind">设为首页</a> <a href="javascript:void(null)" onClick="window.external.AddFavorite('http://download.enet.com.cn/', '下载频道')">收藏本站</a></div>
+</div-->
+<div class="new_searbg">
+ <div class="new_sleft">
+  <div style="float:left;">
+  <form action="http://download.enet.com.cn/search.php" method="get" target="_blank" name="search" id="search" onsubmit="return searchcheck()">
+	    <input type="text" name="keyword" value="请在这里输入软件名称，请不要包含版本号" class="ns1" onclick="this.value=''" />
+	    <input type="submit" value="软件搜索" class="ns2" />
+  	</form>
+    </div>
+    <div class="tszt"><a href="/advanced_search.php" target="_blank">[高级搜索]</a></div>
+ </div>
+ <div class="new_sright"><a href="javascript:void(null)" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://download.enet.com.cn/');return false" class="ind">设为首页</a><a href="javascript:void(null)" onClick="window.external.AddFavorite('http://download.enet.com.cn/', '下载频道')">收藏本站</a><br /><a href="http://download.enet.com.cn/newest.php?pfid=0" target="_blank" class="ind">查看软件最新更新列表</a></div>
+ <div class="clear"></div>
+</div>
+
+
+     </div>
+   </div>
+  
+   <!--近期热点软件-->
+   <div class="fra">
+      <div class="darea214 bor mar8">
+  <div class="dtit"><b>近期热点软件</b> </div>
+  <div class="topbar">
+    <div class="topbar_bt"><a href="/subcategory.php?scid=20" target="_blank">杀毒软件下载</a></div>
+    <p><a href="http://download.enet.com.cn/speed/toftp.php?fname=030202008072301" target="_blank">360免费杀毒</a>　| <a href="http://download.enet.com.cn/html/030202009102103.html" target="_blank">瑞星杀毒软件</a> <br />
+       <a href="http://download.enet.com.cn/html/010722006121404.html" target="_blank">诺顿杀毒软件</a> | <a href="http://download.enet.com.cn/html/060512010122701.html" target="_blank">隐身侠永久免费版</a><br />
+       <a href="http://download.enet.com.cn/html/010722008112601.html" target="_blank">360 NOD32版</a>&nbsp; | <a href="http://download.enet.com.cn/html/030202001102906.html" target="_blank">Dr.Web大蜘蛛</a><br />
+       <a href="http://download.enet.com.cn/speed/toftp.php?fname=010662010010801" target="_blank"><b><font color="red">操盘手主力版免费 选股更精准</font></b></a></p>
+  </div>
+  <div class="topbar">
+    <div class="topbar_bt"><a href="/php/clist.php?cid=5" target="_blank">影音工具下载</a></div>
+    <p><a href="http://download.enet.com.cn/html/010012008011701.html" target="_blank"><font color="blue">呱呱视频聊天</font></a>| <a href="http://download.enet.com.cn/html/010142005061501.html" target="_blank">PPTV网络电视</a><br />
+       <a href="http://download.enet.com.cn/html/050412008020201.html" target="_blank">酷狗音乐2010</a>| <a href="http://download.enet.com.cn/html/050832005072002.html" target="_blank">PPS网络电视</a><br />
+       <a href="http://download.enet.com.cn/html/050412007032002.html" target="_blank">酷我音乐盒</a>　| <a href="http://download.enet.com.cn/html/050432010031601.html" target="_blank">用CBOX看世界杯</a><br />
+       <a href="http://download.enet.com.cn/html/050432008090901.html" target="_blank">QQ影音&nbsp;&nbsp;&nbsp;&nbsp;</a>　| <a href="http://download.enet.com.cn/html/050422010111801.html" target="_blank"><font color="#bd0808">酷6K歌 在线K歌</font></a></p>
+  </div>
+  <div class="topbar nobor">
+    <div class="topbar_bt"><a href="/php/clist.php?cid=1" target="_blank">推荐软件下载</a></div>
+    <p><a href="http://download.enet.com.cn/html/010012010080503.html" target="_blank">可乐视频社区</a>&nbsp; | <a href="http://download.enet.com.cn/html/063522009081402.html" target="_blank">超级兔子</a><br />
+       <a href="http://download.enet.com.cn/html/010722005062801.html" target="_blank">瑞星卡卡 助手</a> | <a href="http://download.enet.com.cn/html/013622009040701.html" target="_blank"><font color="red">QQ2010正式版</font></a><br />
+       <a href="http://download.enet.com.cn/html/010032002111201.html" target="_blank">快车 FlashGet</a> | <a href="http://download.enet.com.cn/html/010032005082501.html" target="_blank">迅雷(Thunder)</a><br />
+       <a href="http://download.enet.com.cn/html/040302008122301.html" target="_blank">美图秀秀 新版</a> | <a href="http://download.enet.com.cn/html/010662010010801.html" target="_blank"><font color="red">操盘手免费用</font></a></p>
+  </div>
+</div>
+<div class="darea554 mar8">
+  <div class="dfoucs bor mar8"><a href="http://download.enet.com.cn/html/010012003020501.html" target="_blank"><img src="/dailyimage/2011_0228w.gif" alt="腾讯企业QQ下载"/></a></div>
+  <div class="darea267 bor">
+    <div class="midtit">
+      <h1><a href="http://download.enet.com.cn/html/010012003020501.html" target="_blank">腾讯企业QQ V2.0SP2</a></h1>
+      <h2><a href="http://download.enet.com.cn/html/010012003020501.html" target="_blank">专为企业用户量身定制的在线客服与营销平台。</a></h2>
+    </div>
+    <div class="midlink">
+      <ul>
+        <li><span><a href="/subcategory.php?scid=1" target="_blank">网络通信</a></span> | <a href="/html/010012008030301.html" target="_blank">百度Hi BaiduHi 最新版</a></li><li><span><a href="/subcategory.php?scid=30" target="_blank">图像制作</a></span> | <a href="/html/040302008122301.html" target="_blank">美图秀秀 图片处理软件</a></li><li><span><a href="/subcategory.php?scid=42" target="_blank">音频工具</a></span> | <a href="/html/050422003041501.html" target="_blank">foobar2000 最新正式版</a></li><li><span><a href="/subcategory.php?scid=69" target="_blank">FTP 工具</a></span> | <a href="/html/010692002041801.html" target="_blank">FlashFXP FTP 工具软件</a></li><li><span><a href="/subcategory.php?scid=75" target="_blank">系统工具</a></span> | <a href="/html/060752010113001.html" target="_blank">驱动精灵2011 5.2扩展版</a></li><li><span><a href="/subcategory.php?scid=352" target="_blank">系统优化</a></span> | <a href="/html/063522005080301.html" target="_blank">CCleaner 优化保护工具</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="blank8"></div>
+  <div class="con552 bor">
+    <div class="dtit heig29">
+      <div class="leftbg">精彩更新</div>
+    </div>
+    <div class="link1">
+      <ul>
+        <li><a href="http://download.enet.com.cn/speed/toftp.php?fname=050422010111801" target="_blank">酷6K歌 与美女一起视频K歌</a></li>
+        <li><a href="http://download.enet.com.cn/html/010032010101201.html" target="_blank">迅雷7 (Thunder) 正式版</a></li>
+      </ul>
+    </div>
+    <div class="link1 widt157">
+      <ul>
+        <li><a href="http://download.enet.com.cn/html/030272011011001.html" target="_blank">金山词霸 2011 Beta</a></li>
+        <li><a href="http://download.enet.com.cn/html/040302008122301.html" target="_blank">美图秀秀 图片处理软件</a></li>
+      </ul>
+    </div>
+    <div class="link1 widt147">
+      <ul>
+        <li><a href="http://download.enet.com.cn/html/030242011021401.html" target="_blank">微软官方Win 7兔年主题</a></li>
+        <li><a href="http://download.enet.com.cn/html/010012010010601.html" target="_blank">歪歪语音 YY语音 最新版</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="blank8"></div>
+  <div class="ad550 bor">
+  	<iframe id="ewaretong550" width=550 height=60 noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0></iframe>
+  </div>
+  <!--
+  <script language='JavaScript' type='text/javascript'>randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://servedby.adsfactor.cn/adj.php?ts=" + randomstr + "&amp;sid=80523687110" + "'><" + "/script>");</script><noscript><a href='http://servedby.adsfactor.cn/adc.php?sid=80523687110' ><img src='http://servedby.adsfactor.cn/adv.php?sid=80523687110' border='0'></a></noscript>
+  -->
+</div>
+<div class="darea194 bor">
+	<iframe id="ewaresky" width=190 height=350 noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0></iframe>
+</div>
+
+   </div>
+   
+   <div class="fra">
+      <div class="darea486 bor mar8">
+         <div class="dtit">最新专题</div>
+         <div class="recom">
+            <ul>
+               <li><a href="http://download.enet.com.cn/html/010662010071601.html" target="_blank">点击下载益盟操盘手乾坤版股软</a></li>
+               <li><a href="http://download.enet.com.cn/zhuanti/yimeng/index.shtml" target="_blank">益盟操盘手乾坤版炒股软件教程</a></li>
+               <li><a href="http://www.enet.com.cn/article/2010/0913/A20100913726444.shtml" target="_blank">益盟操盘手乾坤版使用百问百答</a></li>
+            </ul>
+         </div>
+         <div class="ad217 bor_gary"><a href="http://download.enet.com.cn/zhuanti/yimeng/index.shtml" target="_blank"><img src="/dailyimage/2010_0920_yimeng.gif" /></a></div>
+         <div class="blank6"></div>
+      </div>
+      
+<div class="darea486 bor">
+         <div class="dtit">精彩活动</div>
+         <div class="recom">
+            <ul>
+               <li><a href="http://download.enet.com.cn/html/040362009122701.html" target="_blank">点击下载美图拍拍1.35最新正式版</a></li>
+               <li><a href="http://download.enet.com.cn/html/040302008122301.html" target="_blank">点击下载美图秀秀2.63最新正式版</a></li>
+               <li><a href="/search.php?scid=&page=1&mode=0&keyword=美图秀秀素材包" target="_blank">点击这里下载美图秀秀所有素材包</a></li>
+            </ul>
+         </div>
+         <div class="ad217 bor_gary"><a href="http://download.enet.com.cn/html/040302008122301.html" target="_blank"><img src="/dailyimage/xiuxiu.jpg" alt="美图秀秀,eNet下载频道,软件下载" /></a></div>
+         <div class="blank6"></div>
+      </div>
+   </div>
+     <style type="text/css">
+<!--
+.fra .LeftBotton{height:52px;width:19px;background:url(/images/200892892547103.gif) no-repeat 11px 0;overflow:hidden;float:left;display:inline;margin:25px 0 0 0;cursor:pointer;}
+.fra .RightBotton{height:52px;width:20px;background:url(/images/200892892547103.gif) no-repeat -8px 0; padding-left:1px;overflow:hidden;float:left;display:inline;margin:25px 0 0 0;cursor:pointer;}
+.fra .Cont{width:936px;overflow:hidden;float:left;}
+.fra .ScrCont{width:800%; padding-top:5px; padding-bottom:5px; height:150px}
+.fra .Cont .pic1300{display:inline;float:left;margin-left:6px;margin-top:10px;text-align:center;width:127px;
+}
+.fra .Cont .pic1300 img{border:1px solid #6DBEF7;width:128px;height:95px;margin-bottom:7px}
+.fra .Cont a:link,.fra .Cont a:visited{color:#626466;text-decoration:none;}
+.fra .Cont a:hover{color:#f00;text-decoration:underline;}
+.fra #List1,.fra #List2{float:left;}
+-->
+</style>
+
+<div class="fra">
+<div class="area980 bor">
+     <div class="dtit"><b>单机游戏下载 最新更新</b> </div>
+     <div class="LeftBotton" onmousedown="ISL_GoUp()" onmouseup="ISL_StopUp()" onmouseout="ISL_StopUp()"></div>
+     <div class="Cont" id="ISL_Cont">
+      <div class="ScrCont">
+       <div id="List1">
+       
+        <!-- 图片列表 begin -->
+              <div class="pic1300"><a target="_blank" href="/html/080592002051201.html"><img alt="世界扑克游戏大全 SolSuite 2011" width="126" src="/dailyimage/2005_070505.gif"></a><br>
+
+      <a target="_blank" href="/html/080592002051201.html">世界扑克游戏大全 SolSuite 2011</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080592011011101.html"><img alt="波克城市游戏大厅" width="126" src="/dailyimage/pokercity.gif"></a><br>
+
+      <a target="_blank" href="/html/080592011011101.html">波克城市游戏大厅</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083692011010701.html"><img alt="愤怒的小鸟(AngryBirds) 绿色中文版" width="126" src="/dailyimage/2011_0107.gif"></a><br>
+
+      <a target="_blank" href="/html/083692011010701.html">愤怒的小鸟(AngryBirds) 绿色中文版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010111002.html"><img alt="动物头像对对碰单机版" width="126" src="/dailyimage/ARRTouch_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010111002.html">动物头像对对碰单机版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010111001.html"><img alt="连连看QQ头像版" width="126" src="/dailyimage/CartoonLink_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010111001.html">连连看QQ头像版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010110801.html"><img alt="汉诺塔益智游戏(简洁版)" width="126" src="/dailyimage/HanoiTower_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010110801.html">汉诺塔益智游戏(简洁版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080582010110803.html"><img alt="五子棋(人机对弈电脑版)" width="126" src="/dailyimage/Gobang_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/080582010110803.html">五子棋(人机对弈电脑版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083712010110805.html"><img alt="俄罗斯方块(华丽版)" width="126" src="/dailyimage/Tetris_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/083712010110805.html">俄罗斯方块(华丽版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010110804.html"><img alt="轰炸机全屏游戏" width="126" src="/dailyimage/Bomber_Setup.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010110804.html">轰炸机全屏游戏</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010110301.html"><img alt="地下城与勇士DNF小游戏合集" width="126" src="/dailyimage/dnf2_4199.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010110301.html">地下城与勇士DNF小游戏合集</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010110302.html"><img alt="DNF小游戏4199合集" width="126" src="/dailyimage/DNF_4199.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010110302.html">DNF小游戏4199合集</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083712010110304.html"><img alt="喜羊羊与灰太狼小游戏合集" width="126" src="/dailyimage/XyyHtl_4199.gif"></a><br>
+
+      <a target="_blank" href="/html/083712010110304.html">喜羊羊与灰太狼小游戏合集</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010110305.html"><img alt="圣诞节小游戏合集" width="126" src="/dailyimage/ShengdanYouxiHeji_4199.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010110305.html">圣诞节小游戏合集</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080582010110301.html"><img alt="黑白棋(豪华界面版)" width="126" src="/dailyimage/Reversi_Setup_365freesoft.gif"></a><br>
+
+      <a target="_blank" href="/html/080582010110301.html">黑白棋(豪华界面版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010110303.html"><img alt="贪吃蛇(简洁版)" width="126" src="/dailyimage/Snake_Setup_365freesoft.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010110303.html">贪吃蛇(简洁版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010110304.html"><img alt="智慧拼盘游戏(3x3 数字版)" width="126" src="/dailyimage/Slider_Setup_365freesoft.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010110304.html">智慧拼盘游戏(3x3 数字版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080592010110302.html"><img alt="24点扑克游戏(桌面版)" width="126" src="/dailyimage/Point24_Setup_365freesoft.gif"></a><br>
+
+      <a target="_blank" href="/html/080592010110302.html">24点扑克游戏(桌面版)</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010110303.html"><img alt="超级玛丽小游戏合集" width="126" src="/dailyimage/ChaojiMali_4199.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010110303.html">超级玛丽小游戏合集</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080632007060401.html"><img alt="Game Jackal Pro" width="126" src="/dailyimage/2007_0625w.gif"></a><br>
+
+      <a target="_blank" href="/html/080632007060401.html">Game Jackal Pro</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010102201.html"><img alt="小贩大战城管" width="126" src="/dailyimage/2010_1022w.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010102201.html">小贩大战城管</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010090701.html"><img alt="疯狂连连看" width="126" src="/dailyimage/llk_tu222.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010090701.html">疯狂连连看</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083692010082901.html"><img alt="地球保卫战3D之装甲散弹枪" width="126" src="/dailyimage/3Ddiqiubaoweizhan_Sdq.gif"></a><br>
+
+      <a target="_blank" href="/html/083692010082901.html">地球保卫战3D之装甲散弹枪</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010082501.html"><img alt="小峰格斗七龙珠之近身格斗最新版" width="126" src="/dailyimage/GedouQilongzhu_Jinshen.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010082501.html">小峰格斗七龙珠之近身格斗最新版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083692010082502.html"><img alt="小峰合金弹头III 完美精浓缩版" width="126" src="/dailyimage/HejinDantou3_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/083692010082502.html">小峰合金弹头III 完美精浓缩版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010082507.html"><img alt="小峰完美台球 小型精简版" width="126" src="/dailyimage/WanmeiTaiqiu_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010082507.html">小峰完美台球 小型精简版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010082507.html"><img alt="连连看 美女专用版-小峰优化" width="126" src="/dailyimage/MeinvLLK_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010082507.html">连连看 美女专用版-小峰优化</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083682010082506.html"><img alt="小峰经典怀旧街机 街头霸王完美珍藏版" width="126" src="/dailyimage/JietouBawang_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/083682010082506.html">小峰经典怀旧街机 街头霸王完美珍藏版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080592010082504.html"><img alt="小峰开心四人斗地主 去广告版" width="126" src="/dailyimage/Kaixindoudizhu_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/080592010082504.html">小峰开心四人斗地主 去广告版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010082502.html"><img alt="小峰经典怀旧街机游戏 恐龙快打无广告完美版" width="126" src="/dailyimage/KongluoKuaida_shenmijiyuan.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010082502.html">小峰经典怀旧街机游戏 恐龙快打无广告完美</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080622010081205.html"><img alt="小游戏经完美典合集 13合一" width="126" src="/dailyimage/shenmijiyuan_heji.gif"></a><br>
+
+      <a target="_blank" href="/html/080622010081205.html">小游戏经完美典合集 13合一</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010081207.html"><img alt="小峰经典真实射击游戏" width="126" src="/dailyimage/shenmijiyuan_sheji.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010081207.html">小峰经典真实射击游戏</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083692010081206.html"><img alt="小峰美国阿帕奇直升机大战" width="126" src="/dailyimage/shenmijiyuan_Apaqi.gif"></a><br>
+
+      <a target="_blank" href="/html/083692010081206.html">小峰美国阿帕奇直升机大战</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010080901.html"><img alt="亚特兰蒂斯祖玛 Atlantis 汉化版" width="126" src="/dailyimage/atlantis_hugee.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010080901.html">亚特兰蒂斯祖玛 Atlantis 汉化版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/080572010080401.html"><img alt="植物大战僵尸周年版" width="126" src="/dailyimage/2010_0804x.gif"></a><br>
+
+      <a target="_blank" href="/html/080572010080401.html">植物大战僵尸周年版</a></div>
+              <div class="pic1300"><a target="_blank" href="/html/083742010061401.html"><img alt="祖玛泡泡鱼 Bubblefish Bob 汉化版" width="126" src="/dailyimage/bubblefish_bob_hugee.gif"></a><br>
+
+      <a target="_blank" href="/html/083742010061401.html">祖玛泡泡鱼 Bubblefish Bob 汉化版</a></div>
+              <!-- 图片列表 end -->
+        
+       </div>
+       <div id="List2"></div>
+      </div>
+     </div>
+     <div class="RightBotton" onmousedown="ISL_GoDown()" onmouseup="ISL_StopDown()" onmouseout="ISL_StopDown()"></div>
+    </div>
+    </div>
+
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+//图片滚动列表 mengjia 070816
+var Speed = 10; //速度(毫秒)
+var Space = 5; //每次移动(px)
+var PageWidth = 931; //翻页宽度
+var fill = 0; //整体移位
+var MoveLock = false;
+var MoveTimeObj;
+var Comp = 0;
+var AutoPlayObj = null;
+GetObj("List2").innerHTML = GetObj("List1").innerHTML;
+GetObj('ISL_Cont').scrollLeft = fill;
+GetObj("ISL_Cont").onmouseover = function(){clearInterval(AutoPlayObj);}
+GetObj("ISL_Cont").onmouseout = function(){AutoPlay();}
+AutoPlay();
+function GetObj(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}
+function AutoPlay(){ //自动滚动
+ clearInterval(AutoPlayObj);
+ AutoPlayObj = setInterval('ISL_GoDown();ISL_StopDown();',5000); //间隔时间
+}
+function ISL_GoUp(){ //上翻开始
+ if(MoveLock) return;
+ clearInterval(AutoPlayObj);
+ MoveLock = true;
+ MoveTimeObj = setInterval('ISL_ScrUp();',Speed);
+}
+function ISL_StopUp(){ //上翻停止
+ clearInterval(MoveTimeObj);
+ if(GetObj('ISL_Cont').scrollLeft % PageWidth - fill != 0){
+  Comp = fill - (GetObj('ISL_Cont').scrollLeft % PageWidth);
+  CompScr();
+ }else{
+  MoveLock = false;
+ }
+ AutoPlay();
+}
+function ISL_ScrUp(){ //上翻动作
+ if(GetObj('ISL_Cont').scrollLeft <= 0){GetObj('ISL_Cont').scrollLeft = GetObj('ISL_Cont').scrollLeft + GetObj('List1').offsetWidth}
+ GetObj('ISL_Cont').scrollLeft -= Space ;
+}
+function ISL_GoDown(){ //下翻
+ clearInterval(MoveTimeObj);
+ if(MoveLock) return;
+ clearInterval(AutoPlayObj);
+ MoveLock = true;
+ ISL_ScrDown();
+ MoveTimeObj = setInterval('ISL_ScrDown()',Speed);
+}
+function ISL_StopDown(){ //下翻停止
+ clearInterval(MoveTimeObj);
+ if(GetObj('ISL_Cont').scrollLeft % PageWidth - fill != 0 ){
+  Comp = PageWidth - GetObj('ISL_Cont').scrollLeft % PageWidth + fill;
+  CompScr();
+ }else{
+  MoveLock = false;
+ }
+ AutoPlay();
+}
+function ISL_ScrDown(){ //下翻动作
+ if(GetObj('ISL_Cont').scrollLeft >= GetObj('List1').scrollWidth){GetObj('ISL_Cont').scrollLeft = GetObj('ISL_Cont').scrollLeft - GetObj('List1').scrollWidth;}
+ GetObj('ISL_Cont').scrollLeft += Space ;
+}
+function CompScr(){
+ var num;
+ if(Comp == 0){MoveLock = false;return;}
+ if(Comp < 0){ //上翻
+  if(Comp < -Space){
+   Comp += Space;
+   num = Space;
+  }else{
+   num = -Comp;
+   Comp = 0;
+  }
+  GetObj('ISL_Cont').scrollLeft -= num;
+  setTimeout('CompScr()',Speed);
+ }else{ //下翻
+  if(Comp > Space){
+   Comp -= Space;
+   num = Space;
+  }else{
+   num = Comp;
+   Comp = 0;
+  }
+  GetObj('ISL_Cont').scrollLeft += num;
+  setTimeout('CompScr()',Speed);
+ }
+}
+//--><!]]>
+</script>
+   <!--中文软件下载排行,英文软件下载排行,经典软件,装机推荐,软件新闻,最近流行-->
+   <div class="fra">
+      <div class="darea190 mar8">
+  <div class="con188 bor_gary">
+    <div class="dtit_gary">中文软件下载排行</div>
+    <div class="ranking">
+      <ul>
+        <li><a href="/html/013502011010701.html"  target="_blank">网络人远程控制软件旗舰</a></li>
+<li><a href="/html/010012011011901.html"  target="_blank">网络快手</a></li>
+<li><a href="/html/053452009123001.html"  target="_blank">Adobe Flash Player 8</a></li>
+<li><a href="/html/013622009070401.html"  target="_blank">QQ强制视频软件2011</a></li>
+<li><a href="/html/030782011011402.html"  target="_blank">宝来顺免费财务软件</a></li>
+<li><a href="/html/080622004010601.html"  target="_blank">祖玛印加古青蛙魔法 Zum</a></li>
+<li><a href="/html/857452006011803.html"  target="_blank">手机文本阅读器 MOTO-TX</a></li>
+<li><a href="/html/080592003111901.html"  target="_blank">楚天斗地主</a></li>
+<li><a href="/html/060512009051701.html"  target="_blank">密码截取</a></li>
+<li><a href="/html/010012010052501.html"  target="_blank">阿里旺旺2011(淘宝卖家</a></li>
+<!--wget finished successful flag-->
+      </ul>
+    </div>
+  </div>
+  <div class="blank8"></div>
+  <div class="ad187 bor_gary"><img src="/dailyimage/081226tj.gif" /></div>
+  <div class="blank8"></div>
+  <div class="con188 bor_gary">
+    <div class="dtit_gary">英文软件下载排行</div>
+    <div class="ranking">
+      <ul>
+        <li><a href="/html/083742006101001.html"  target="_blank">大鱼吃小鱼精装完全版</a></li>
+<li><a href="/html/070562001070402.html"  target="_blank">File Extension Manager</a></li>
+<li><a href="/html/083732005121501.html"  target="_blank">Ballance平衡球</a></li>
+<li><a href="/html/070532001042601.html"  target="_blank">File Extension Manager</a></li>
+<li><a href="/html/080572004071601.html"  target="_blank">永远的超级玛丽 Mario F</a></li>
+<li><a href="/html/083742005022501.html"  target="_blank">Luxor 金字塔祖玛</a></li>
+<li><a href="/html/080572001052505.html"  target="_blank">Alawar Bubble Bobble N</a></li>
+<li><a href="/html/070532000101602.html"  target="_blank">Pw Check</a></li>
+<li><a href="/html/070562000110303.html"  target="_blank">File Viewer</a></li>
+<li><a href="/html/050832003101401.html"  target="_blank">FFDShow MPEG-4 Video D</a></li>
+<!--wget finished successful flag-->
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="darea782">
+  <div class="con780 bor">
+    <div class="dtit bluetit">玩转ＰＣ</div>
+    <div class="pic100"><a href="http://www.emoney.cn/dianjin/hd/yhym1/index.html?mt=ggdl&ozc=17&ozs=438" target="_blank"><img src="/dailyimage/pc_2010_053101.gif" alt="免费益盟操盘手,eNet下载频道,软件下载"></a><br>
+      <a href="http://www.emoney.cn/dianjin/hd/yhym1/index.html?mt=ggdl&ozc=17&ozs=438" target="_blank">免费益盟操盘手</a></div>
+    <div class="pic100"><a href="/html/010012008011701.html" target="_blank"><img src="/dailyimage/pc_2008_010901.gif" alt="呱呱视频聊天室,BitSpirit,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010012008011701.html" target="_blank">呱呱视频聊天室</a></div>
+    <div class="pic100"><a href="/html/010022007072301.html" target="_blank"><img src="/dailyimage/Maxthon.gif" alt="傲游浏览器,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010722007120901.html" target="_blank">傲游浏览器</a></div>
+    <div class="pic100"><a href="/html/050412009090201.html" target="_blank"><img src="/dailyimage/kg.gif" alt="呱呱K歌伴侣,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010722007120901.html" target="_blank">k歌伴侣播放器</a></div>
+    <div class="pic100"><a href="/html/050432000081701.html" target="_blank"><img src="/dailyimage/pc_2007_120301.gif" alt="RealPlayer,eNet下载频道,软件下载"></a><br>
+      <a href="/html/050432004081801.html" target="_blank">视频下载播放器</a></div>
+    <div class="pic100"><a href="/html/050412008020201.html" target="_blank"><img src="/dailyimage/pc_080603.gif" alt="酷狗,eNet下载频道,软件下载"></a><br>
+      <a href="/html/050412008020201.html" target="_blank">酷狗音乐2010版</a></div>
+    <div class="pic100"><a href="/html/010142005061501.html" target="_blank"><img src="/dailyimage/pc_0522.gif" alt="PPLive,网络电视,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010142005061501.html" target="_blank">PPLive网络电视</a></div>
+    <div class="clear"></div>
+    <div class="pic100"><a href="/html/050412007032002.html" target="_blank"><img src="/dailyimage/pc_07073101.gif" alt="酷我音乐盒,eNet下载频道,软件下载"></a><br>
+      <a href="/html/050412007032002.html" target="_blank">音乐下载播放器</a></div>
+    <div class="pic100"><a href="/html/010052007092601.html" target="_blank"><img src="/dailyimage/pc_2009_010903.gif" alt="迅游网络加速,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010052007092601.html" target="_blank">迅游网络加速器</a></div>
+    <div class="pic100"><a href="/html/063522009081402.html" target="_blank"><img src="/dailyimage/chaojituzi110.gif" alt="超级兔子,系统优化,系统安全,eNet下载频道,软件下载"></a><br>
+      <a href="/html/063522009081402.html" target="_blank">超级兔子系统优化</a></div>
+    <div class="pic100"><a href="/html/010032002111201.html" target="_blank"><img src="/dailyimage/pc_2008_121802.gif" alt="网际快车,快车,FlashGet,eNet下载频道,软件下载"></a><br>
+      <a href="/html/010032002111201.html" target="_blank">快车 FlashGet</a></div>
+    <div class="pic100"><a href="/html/030282007083104.html" target="_blank"><img src="/dailyimage/pc_2008_121803.gif" alt="WPS Office,eNet下载频道,软件下载"></a><br>
+      <a href="/html/030282007083104.html" target="_blank">WPS Office 2009</a></div>
+    <div class="pic100"><a href="/html/060452008110401.html" target="_blank"><img src="/dailyimage/pc_2008_121804.gif" alt="鲁大师,eNet下载频道,软件下载"></a><br>
+      <a href="/html/060452008110401.html" target="_blank">鲁大师 最新版</a></div>
+    <div class="pic100"><a href="/html/040302008122301.html" target="_blank"><img src="/dailyimage/pc_meitu.gif" alt="美图秀秀,eNet下载频道,软件下载"></a><br>
+      <a href="/html/040302008122301.html" target="_blank">美图秀秀</a></div>
+    <div class="blank10"></div>
+  </div>
+  <div class="blank8"></div>
+  <div class="darea582 bor mar8">
+    <div class="dtit bluetit">装机推荐</div>
+    <table width="582" border="0" cellspacing="0" cellpadding="0" class="zjtab">
+      <tr>
+        <td width="44" class="toptdbor nopad">&nbsp;</td>
+        <td width="80" class="even toptdbor">IE浏览器</td>
+        <td width="66" class="even toptdbor">即时通信</td>
+        <td width="64" class="even toptdbor">下载工具</td>
+        <td width="73" class="even toptdbor">杀毒软件</td>
+        <td width="76" class="even toptdbor">网络电视</td>
+        <td width="68" class="even toptdbor">上网安全</td>
+        <td class="noright even toptdbor">视频播放</td>
+      </tr>
+      <tr>
+        <td class="toptdbor font_red nopad" align="center">第一</td>
+        <td class="toptdbor"><a href="/speed/toftp.php?fname=010022008062301" target="_blank">360安全浏览器</a></td>
+        <td class="toptdbor"><a href="/html/013622004123001.html" target="_blank">腾讯QQ2008</a></td>
+        <td class="toptdbor"><a href="/html/010032007020701.html" target="_blank">QQ超级旋风</a></td>
+        <td class="toptdbor"><a href="/speed/toftp.php?fname=030202008072301" target="_blank"><font color="blue">360免费杀毒</font></a></td>
+        <td class="toptdbor"><a href="/html/010142005061501.html" target="_blank">PPLive 2008</a></td>
+        <td class="toptdbor"><a href="/html/010722005062801.html" target="_blank">瑞星卡卡</a></td>
+        <td class="noright toptdbor"><a href="/html/050432008090901.html" target="_blank">ＱＱ影音</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第二</td>
+        <td><a href="/search.php?keyword=Maxthon&platformid=&page=1&mode=3" target="_blank">傲游Maxthon</a></td>
+        <td><a href="/html/010012004110301.html" target="_blank">Tom-Skype</a></td>
+        <td><a href="/html/010032010101201.html" target="_blank">迅雷</a></td>
+        <td><a href="/html/030202009102103.html" target="_blank">瑞星杀毒</a></td>
+        <td><a href="/html/050832005072002.html" target="_blank">PPS网络电视</a></td>
+        <td><a href="/html/010722006101102.html" target="_blank">360卫士</a></td>
+        <td class="noright"><a href="/html/050832009063001.html" target="_blank">迅雷看看</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第三</td>
+        <td><a href="/html/013622003112801.html" target="_blank">TT浏览器</a></td>
+        <td><a href="/html/010012007011701.html" target="_blank">新浪 UTG</a></td>
+        <td><a href="/html/010032002111201.html" target="_blank">FlashGet</a></td>
+        <td><a href="http://www.kaba365.com/0.asp" target="_blank">卡巴斯基</a></td>
+        <td><a href="/html/050832005120101.html" target="_blank">UUSee 2008</a></td>
+        <td><a href="/html/060512008082701.html" target="_blank">墨者安全</a></td>
+        <td class="noright"><a href="/html/050432008031402.html" target="_blank">快播Qvod</a></td>
+      </tr>
+      <tr>
+        <td class="toptdbor nopad">&nbsp;</td>
+        <td class="toptdbor even">在线音乐</td>
+        <td class="toptdbor even">BT 下载</td>
+        <td class="toptdbor even">电骡下载</td>
+        <td class="toptdbor even">系统优化</td>
+        <td class="toptdbor even">办公软件</td>
+        <td class="toptdbor even">MP3 播放</td>
+        <td class="noright even toptdbor">虚拟光驱</td>
+      </tr>
+      <tr>
+        <td class="toptdbor font_red nopad" align="center">第一</td>
+        <td class="toptdbor"><a href="/html/050412007032002.html" target="_blank">酷我音乐盒</a></td>
+        <td class="toptdbor"><a href="/html/013492003123101.html" target="_blank">比特彗星</a></td>
+        <td class="toptdbor"><a href="/html/013492008040201.html" target="_blank">VeryCD电骡</a></td>
+        <td class="toptdbor"><a href="/html/063522009081402.html" target="_blank">超级兔子</a></td>
+        <td class="toptdbor"><a href="/html/030282007083104.html" target="_blank">WPS Office</a></td>
+        <td class="toptdbor"><a href="/html/050412008110702.html" target="_blank">千千静听</a></td>
+        <td class="noright toptdbor"><a href="/html/030252001080601.html" target="_blank">DAEMON</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第二</td>
+        <td><a href="/html/050412008020201.html" target="_blank">酷狗音乐2010</a></td>
+        <td><a href="/html/013492004042802.html" target="_blank">比特精灵</a></td>
+        <td><a href="/html/013492008061801.html" target="_blank">ED2000电骡</a></td>
+        <td><a href="/html/060452000110304.html" target="_blank">优化大师</a></td>
+        <td><a href="/html/030232008102301.html" target="_blank">中标Office</a></td>
+        <td><a href="/html/050422003041501.html" target="_blank">Foobar2000</a></td>
+        <td class="noright"><a href="/html/030252003122301.html" target="_blank">Alcohol52%</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第三</td>
+        <td><a href="/html/050422006080201.html" target="_blank">天音听听</a></td>
+        <td><a href="/html/010032007060101.html" target="_blank">脱兔TuoTu</a></td>
+        <td><a href="/html/013492007081501.html" target="_blank">天使驴</a></td>
+        <td><a href="/html/060452008110401.html" target="_blank">鲁大师</a></td>
+        <td><a href="/html/030282002111903.html" target="_blank">永中Office</a></td>
+        <td><a href="/html/050412002040201.html" target="_blank">Winamp</a></td>
+        <td class="noright"><a href="/html/033422005103101.html" target="_blank">PowerISO</a></td>
+      </tr>
+      <tr>
+        <td class="toptdbor nopad">&nbsp;</td>
+        <td class="toptdbor even">拼音输入法</td>
+        <td class="toptdbor even">五笔输入法</td>
+        <td class="toptdbor even">光盘刻录</td>
+        <td class="toptdbor even">音视频转码</td>
+        <td class="toptdbor even">翻译工具</td>
+        <td class="toptdbor even">DVD 播放</td>
+        <td class="noright even toptdbor">抓屏工具</td>
+      </tr>
+      <tr>
+        <td class="toptdbor font_red nopad" align="center">第一</td>
+        <td class="toptdbor"><a href="/html/060472007112001.html" target="_blank">ＱＱ拼音</a></td>
+        <td class="toptdbor"><a href="/html/060472008082901.html" target="_blank">搜狗五笔</a></td>
+        <td class="toptdbor"><a href="/html/030252002101802.html" target="_blank">Alcohol120%</a></td>
+        <td class="toptdbor"><a href="/html/050832008121501.html" target="_blank">快乐影音转换</a></td>
+        <td class="toptdbor"><a href="/html/030272008050801.html" target="_blank">金山词霸</a></td>
+        <td class="toptdbor"><a href="/html/050832002011001.html" target="_blank">PowerDVD</a></td>
+        <td class="noright toptdbor"><a href="/html/040312003020601.html" target="_blank">屏幕录像</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第二</td>
+        <td><a href="/html/060472006060601.html" target="_blank">搜狗拼音</a></td>
+        <td><a href="/html/060472008070301.html" target="_blank">极品五笔</a></td>
+        <td><a href="/html/030252003072803.html" target="_blank">Nero V9</a></td>
+        <td><a href="/html/050432006070401.html" target="_blank">Media Coder</a></td>
+        <td><a href="/html/030272006090701.html" target="_blank">灵格斯词霸</a></td>
+        <td><a href="/html/053602003101502.html" target="_blank">梦幻影吧</a></td>
+        <td class="noright"><a href="/html/040312001061001.html" target="_blank">SnagIt</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第三</td>
+        <td><a href="/html/060472007040401.html" target="_blank">谷歌拼音</a></td>
+        <td><a href="/html/060472007011601.html" target="_blank">万能五笔</a></td>
+        <td><a href="/html/030252003010601.html" target="_blank">友利录录烧</a></td>
+        <td><a href="/html/050832004022002.html" target="_blank">Mega Codec</a></td>
+        <td><a href="/html/030272007092801.html" target="_blank">雅虎乐译</a></td>
+        <td><a href="/html/030252007011701.html" target="_blank">DVDFab</a></td>
+        <td class="noright"><a href="/html/040312005020601.html" target="_blank">FastStone</a></td>
+      </tr>
+      <tr>
+        <td class="toptdbor nopad">&nbsp;</td>
+        <td class="toptdbor even">图像浏览</td>
+        <td class="toptdbor even">图像编辑</td>
+        <td class="toptdbor even">Flash工具</td>
+        <td class="toptdbor even">桌面工具</td>
+        <td class="toptdbor even">邮件收发</td>
+        <td class="toptdbor even">压缩解压</td>
+        <td class="noright even toptdbor">股票工具</td>
+      </tr>
+      <tr>
+        <td class="toptdbor font_red nopad" align="center">第一</td>
+        <td class="toptdbor"><a href="/html/040322003101601.html" target="_blank">XnView</a></td>
+        <td class="toptdbor"><a href="/html/040302005122601.html" target="_blank">光影魔术手</a></td>
+        <td class="toptdbor"><a href="/html/053452008032701.html" target="_blank">AdobePlayer</a></td>
+        <td class="toptdbor"><a href="/html/030242008052702.html" target="_blank">鱼鱼桌面秀</a></td>
+        <td class="toptdbor"><a href="/html/010112005112201.html" target="_blank">Foxmail</a></td>
+        <td class="toptdbor"><a href="/html/070522007020201.html" target="_blank">WinRAR</a></td>
+        <td class="noright toptdbor"><a href="/html/010662010010801.html" target="_blank"><font color="ff0000">操盘手</font></a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第二</td>
+        <td><a href="/html/040322007053101.html" target="_blank">中文ACDSee</a></td>
+        <td><a href="/html/040302008122301.html" target="_blank">美图秀秀</a></td>
+        <td><a href="/html/040352002031801.html" target="_blank">SothinkSWF</a></td>
+        <td><a href="/html/030242008012801.html" target="_blank">雪狐桌面</a></td>
+        <td><a href="/html/010112005040401.html" target="_blank">酷邮</a></td>
+        <td><a href="/html/070522002022701.html" target="_blank">7-ZIP</a></td>
+        <td class="noright"><a href="/html/010662005040801.html" target="_blank">同花顺</a></td>
+      </tr>
+      <tr>
+        <td align="center" class="font_red nopad">第三</td>
+        <td><a href="/html/040322002091001.html" target="_blank">Comics</a></td>
+        <td><a href="/html/040142001122901.html" target="_blank">Blender</a></td>
+        <td><a href="/html/053452008070401.html" target="_blank">FlashPlayer</a></td>
+        <td><a href="/html/030242007040301.html" target="_blank">八戒桌面</a></td>
+        <td><a href="/html/010112005031801.html" target="_blank">Mozilla</a></td>
+        <td><a href="/html/070522001102301.html" target="_blank">WinZip</a></td>
+        <td class="noright"><a href="/html/010662007110701.html" target="_blank">钱龙旗舰</a></td>
+      </tr>
+    </table>
+  </div>
+  <div class="darea190">
+    <div class="con188 bor_gary">
+      <div class="dtit"><a href="http://www.enet.com.cn/eschool/">桌面主题下载</a></div>
+      <div class="pic87"><a href="http://download.enet.com.cn/subcategory.php?scid=24" target="_blank"><img src="/dailyimage/zhuomian.gif" alt="桌面;鼠标指针;下载"/></a></div>
+      <div class="clear"></div>
+      <div class="newstxt font_black">
+        <ul>
+          <li><a href="http://download.enet.com.cn/html/030262010051001.html" target="_blank">比基尼泳装桌面主题包一 下载</a></li>
+          <li><a href="http://download.enet.com.cn/html/030262010041401.html" target="_blank">蕾丝丁香花免费桌面屏保 下载</a></li>
+          <li><a href="http://download.enet.com.cn/html/030242010050601.html" target="_blank">喜羊羊与灰太狼桌面壁纸 下载</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="blank8"></div>
+    <div class="con188 bor_gary">
+      <div class="dtit">最近流行</div>
+      <div class="pic88"><a href="/zhuanti/meituxiuxiu/" target="_blank"><img src="/dailyimage/xiuxiu10040201.jpg"></a></div>
+      <div class="clear"></div>
+      <div class="newstxt font_black">
+        <ul>
+          <li><a href="/html/030202010030801.html" target="_blank">金山卫士 双引擎安全工具</a></li>
+          <li><a href="/html/050422006121302.html" target="_blank">iTunes-iPhone/iPod 必备</a></li>
+          <li><a href="/html/010662010033101.html" target="_blank">益盟操盘手 免费炒股软件</a></li>
+          <li><a href="/html/030202008072301.html" target="_blank">360杀毒 永久免费杀毒软件</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+   </div>
+   
+   <!--最新带图标的单机游戏-->
+   
+     
+
+   <!--
+   <div class="fra">
+   		<div class="ad485 bor mar6">
+       	<iframe id="ewaretong485l" width=485 height=90 noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0></iframe>
+      </div>
+      <div class="ad485 bor">
+       	<iframe id="ewaretong485r" width=485 height=90 noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0></iframe>
+      </div>
+   </div>
+   -->
+   <!--精彩专题,软件更新,厂商专区-->
+   <div class="fra">
+      <div class="con188 bor_gary mar8" style="float:left;">
+  <div class="dtit_gary">下载流行风</div>
+  <!--<div class="pic188"><a href="http://www.enet.com.cn/eschool/zhuanti/tv/" target="_blank"><img src="/dailyimage/jingc08121901.gif" /></a></div>-->
+  <div class="newstxt font_black">
+    <ul>
+      <li><a href="http://download.enet.com.cn/html/010662010010801.html" target="_blank"><font color="red">不花一分钱，免费用9980股软</font></a></li>
+      <li><a href="http://download.enet.com.cn/html/013622009040701.html" target="_blank">腾讯 QQ2009 正式版 SP5</a></li>
+      <li><a href="http://download.enet.com.cn/html/050832009063001.html" target="_blank">迅雷看看 最新视频播放器</a></li>
+      <li><a href="http://download.enet.com.cn/html/010012009102801.html" target="_blank">有备MSN管家 MSN用户必备</a></li>
+      <li><a href="http://download.enet.com.cn/html/010142005061501.html" target="_blank">PPLive 知名网络电视软件</a></li>
+      <li><a href="http://download.enet.com.cn/html/013492006021001.html" target="_blank">风行网络电影 简单快速清晰</a></li>
+      <li><a href="http://download.enet.com.cn/html/050412007032002.html" target="_blank">酷我音乐盒 在线音乐播放器</a></li>
+      <li><a href="http://download.enet.com.cn/html/050432007111301.html" target="_blank">暴风影音 著名的影音播放器</a></li>
+      <li><a href="http://download.enet.com.cn/html/030272006120601.html" target="_blank">谷歌金山词霸 个人免费版</a></li>
+      <li><a href="http://download.enet.com.cn/html/013492003123101.html" target="_blank">BT下载 BitComet 比特彗星</a></li>
+    </ul>
+  </div>
+</div>
+<div class="darea582 bor mar8">
+  <div class="dtit bluetit"><a>软件更新</a></div>
+  <div class="update">
+    <ul>
+      <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.grade=5 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 9--><li><span><a href="/subcategory.php?scid=2"  target="_blank" title="网络浏览">网络浏览</a></span> | <a href="/html/010022009112001.html"  target="_blank">360安全浏览器</a></li>
+<li><span><a href="/subcategory.php?scid=362"  target="_blank" title="ＱＱ相关">ＱＱ相关</a></span> | <a href="/html/010012003020501.html"  target="_blank">腾讯企业QQ</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202010112201.html"  target="_blank">金山卫士 双引擎木马查杀工</a></li>
+<li><span><a href="/subcategory.php?scid=42"  target="_blank" title="其它音频">其它音频</a></span> | <a href="/html/050422003041501.html"  target="_blank">foobar2000 正式版</a></li>
+<li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832003021802.html"  target="_blank">XviD DVD影像编码软件</a></li>
+<li><span><a href="/subcategory.php?scid=30"  target="_blank" title="图像制作">图像制作</a></span> | <a href="/html/040302008122301.html"  target="_blank">美图秀秀（图片处理软件）</a></li>
+<li><span><a href="/subcategory.php?scid=48"  target="_blank" title="磁盘工具">磁盘工具</a></span> | <a href="/html/060482002031202.html"  target="_blank">R-Studio</a></li>
+<li><span><a href="/subcategory.php?scid=3"  target="_blank" title="文件传输">文件传输</a></span> | <a href="/html/010032007030102.html"  target="_blank">Orbit Downloader</a></li>
+<li><span><a href="/subcategory.php?scid=1"  target="_blank" title="网络通信">网络通信</a></span> | <a href="/html/013622010092001.html"  target="_blank">MSN Lite</a></li>
+<!--wget finished successful flag-->
+    </ul>
+  </div>
+  <div class="update">
+    <ul>
+      <!--select * from (
+	select rownum r,v.* from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.grade=5 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) v 
+	) where r <= 18 and r>=10 --><li><span><a href="/subcategory.php?scid=69"  target="_blank" title="FTP 工具">FTP 工具</a></span> | <a href="/html/010692002041801.html"  target="_blank">FlashFXP</a></li>
+<li><span><a href="/subcategory.php?scid=2"  target="_blank" title="网络浏览">网络浏览</a></span> | <a href="/html/010022005052501.html"  target="_blank">Mozilla Firefox 英文版</a></li>
+<li><span><a href="/subcategory.php?scid=75"  target="_blank" title="其它系统">其它系统</a></span> | <a href="/html/060752010113002.html"  target="_blank">驱动精灵2010 升级包</a></li>
+<li><span><a href="/subcategory.php?scid=75"  target="_blank" title="其它系统">其它系统</a></span> | <a href="/html/060752004020301.html"  target="_blank">驱动精灵2011</a></li>
+<li><span><a href="/subcategory.php?scid=75"  target="_blank" title="其它系统">其它系统</a></span> | <a href="/html/060752010113001.html"  target="_blank">驱动精灵2011 扩展版</a></li>
+<li><span><a href="/subcategory.php?scid=352"  target="_blank" title="系统设置">系统设置</a></span> | <a href="/html/063522005080301.html"  target="_blank">CCleaner 系统优化和隐私保</a></li>
+<li><span><a href="/subcategory.php?scid=349"  target="_blank" title="资源分享">资源分享</a></span> | <a href="/html/013492004010201.html"  target="_blank">BitComet 比特彗星 测试版</a></li>
+<li><span><a href="/subcategory.php?scid=1"  target="_blank" title="网络通信">网络通信</a></span> | <a href="/html/010012008030301.html"  target="_blank">百度Hi(Baidu Hi)</a></li>
+<li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832007113001.html"  target="_blank">MP4/RM转换专家 白金版</a></li>
+<!--wget finished successful flag-->
+    </ul>
+  </div>
+</div>
+<div class="darea190">
+  <div class="con188 bor_gary">
+    <div class="dtit">厂商专区</div>
+    <div class="pic178"><a href="http://www.emoney.cn/dianjin/hd/yhym1/index.html?mt=ggdl&ozc=17&ozs=439" target="_blank"><img src="/dailyimage/yimeng.gif" /></a></div>
+    <div class="pic178"><a href="http://www.zzidc.com/20106/" target="_blank"><img src="/dailyimage/cai.gif" /></a></div>
+    <div class="pic178"><a href="http://download.enet.com.cn/html/050432004081801.html" target="_blank"><img src="/dailyimage/081226cszq_2.gif" /></a></div>
+    <div class="blank7"></div>
+  </div>
+</div>
+
+   </div>
+   <!--网络软件更新,热门网络软件,多媒体软件更新,热门多媒体软件-->
+   <div class="fra">
+       <div class="darea486 bor mar8">
+  <div class="linebg">
+    <div class="conupLeft">
+      <div class="lefttop">
+        <div class="tit232">
+          <div class="dtit"><a href="/newest.php?pfid=0&first=1">网络软件更新</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.catagoryid=1 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 6--><li><span><a href="/subcategory.php?scid=2"  target="_blank" title="网络浏览">网络浏览</a></span> | <a href="/html/010022009112001.html"  target="_blank">360安全浏览器</a></li>
+<li><span><a href="/subcategory.php?scid=362"  target="_blank" title="ＱＱ相关">ＱＱ相关</a></span> | <a href="/html/010012003020501.html"  target="_blank">腾讯企业QQ</a></li>
+<li><span><a href="/subcategory.php?scid=350"  target="_blank" title="网络监测">网络监测</a></span> | <a href="/html/013502008121001.html"  target="_blank">健康上网专家</a></li>
+<li><span><a href="/subcategory.php?scid=14"  target="_blank" title="其它网络工具">其它网络</a></span> | <a href="/html/010142009042103.html"  target="_blank">伪原创工具</a></li>
+<li><span><a href="/subcategory.php?scid=71"  target="_blank" title="传真软件">传真软件</a></span> | <a href="/html/030282005111501.html"  target="_blank">新狐传真搜索[XhFaxSc</a></li>
+<li><span><a href="/subcategory.php?scid=362"  target="_blank" title="ＱＱ相关">ＱＱ相关</a></span> | <a href="/html/013622010071501.html"  target="_blank">中原QQ密码监控器</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+    <div class="conupRight">
+      <div class="righttop">
+        <div class="tit247">
+          <div class="dtit"><a href="/html/category1.html">热门网络软件下载</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <li><span><a href="/subcategory.php?scid=350"  target="_blank" title="网络监测">网络监测</a></span> | <a href="/html/013502011010701.html"  target="_blank">网络人远程控制软件旗</a></li>
+<li><span><a href="/subcategory.php?scid=1"  target="_blank" title="网络通信">网络通信</a></span> | <a href="/html/010012011011901.html"  target="_blank">网络快手</a></li>
+<li><span><a href="/subcategory.php?scid=362"  target="_blank" title="ＱＱ相关">ＱＱ相关</a></span> | <a href="/html/013622009070401.html"  target="_blank">QQ强制视频软件2011</a></li>
+<li><span><a href="/subcategory.php?scid=1"  target="_blank" title="网络通信">网络通信</a></span> | <a href="/html/010012010052501.html"  target="_blank">阿里旺旺2011(淘宝卖</a></li>
+<li><span><a href="/subcategory.php?scid=12"  target="_blank" title="网上记费">网上记费</a></span> | <a href="/html/010122009051501.html"  target="_blank">ADSL拨号计时器</a></li>
+<li><span><a href="/subcategory.php?scid=351"  target="_blank" title="网吧管理">网吧管理</a></span> | <a href="/html/013512009122309.html"  target="_blank">速用网吧管理软件</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="darea486 bor">
+  <div class="linebg">
+    <div class="conupLeft">
+      <div class="lefttop">
+        <div class="tit232">
+          <div class="dtit"><a href="/newest.php?pfid=0&first=1">多媒体软件更新</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.catagoryid=5 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 6--><li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832010041903.html"  target="_blank">易杰手机3GP/MP4视频</a></li>
+<li><span><a href="/subcategory.php?scid=42"  target="_blank" title="其它音频工具">其它音频</a></span> | <a href="/html/050422010042117.html"  target="_blank">易杰DVD转MP3转换器</a></li>
+<li><span><a href="/subcategory.php?scid=43"  target="_blank" title="媒体播放和制作">媒体播放</a></span> | <a href="/html/050432009092201.html"  target="_blank">广宇免费网络电视机</a></li>
+<li><span><a href="/subcategory.php?scid=42"  target="_blank" title="其它音频工具">其它音频</a></span> | <a href="/html/050422003041501.html"  target="_blank">foobar2000 正式版</a></li>
+<li><span><a href="/subcategory.php?scid=42"  target="_blank" title="其它音频工具">其它音频</a></span> | <a href="/html/050422010061902.html"  target="_blank">星娱网络收音机 芒果</a></li>
+<li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832003021802.html"  target="_blank">XviD DVD影像编码软件</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+    <div class="conupRight">
+      <div class="righttop">
+        <div class="tit247">
+          <div class="dtit"><a href="/html/category5.html">热门多媒体软件下载</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <li><span><a href="/subcategory.php?scid=345"  target="_blank" title="Flash 工具">Flash 工</a></span> | <a href="/html/053452009123001.html"  target="_blank">Adobe Flash Player 8</a></li>
+<li><span><a href="/subcategory.php?scid=345"  target="_blank" title="Flash 工具">Flash 工</a></span> | <a href="/html/053452010021101.html"  target="_blank">eNet学院频道专用视频</a></li>
+<li><span><a href="/subcategory.php?scid=43"  target="_blank" title="媒体播放和制作">媒体播放</a></span> | <a href="/html/050432008031402.html"  target="_blank">快播(QvodPlayer)播放</a></li>
+<li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832004011702.html"  target="_blank">超级解霸V8</a></li>
+<li><span><a href="/subcategory.php?scid=83"  target="_blank" title="视频工具">视频工具</a></span> | <a href="/html/050832003101401.html"  target="_blank">FFDShow MPEG-4 Video</a></li>
+<li><span><a href="/subcategory.php?scid=43"  target="_blank" title="媒体播放和制作">媒体播放</a></span> | <a href="/html/050432002082101.html"  target="_blank">RealOne Player</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+   </div>
+   <!--杀毒软件更新,热门杀毒软件,系统软件更新,热门系统软件-->
+   <div class="fra">
+       <div class="darea486 bor mar8">
+  <div class="linebg">
+    <div class="conupLeft">
+      <div class="lefttop">
+        <div class="tit232">
+          <div class="dtit"><a href="/newest.php?pfid=0&first=1">杀毒软件更新</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.subcatagoryid=20 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 6--><li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202010112201.html"  target="_blank">金山卫士 双引擎木马</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202010032902.html"  target="_blank">星软安全中心</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202008032001.html"  target="_blank">360系统急救箱(原360</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202011013102.html"  target="_blank">Avast! Professional </a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202011013101.html"  target="_blank">Avast! Home Edition </a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/010722007120901.html"  target="_blank">金山毒霸2011免费版</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+    <div class="conupRight">
+      <div class="righttop">
+        <div class="tit247">
+          <div class="dtit"><a href="/subcategory.php?scid=20">热门杀毒软件下载</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--li><span><a href="/subcategory.php?scid=20" target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="http://webcount.jiangmin.com/guanggaocount.asp?id=314" target="_blank">江民杀毒KV09五年免费</a></li-->
+          <li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202008072301.html"  target="_blank">360杀毒2.0正式版 免</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202009102101.html"  target="_blank">360杀毒离线升级包</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202005070501.html"  target="_blank">卡巴斯基安全部队2011</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/060512008070801.html"  target="_blank">U盘病毒专杀工具-USBC</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202007010901.html"  target="_blank">rundl132.exe logo1_.</a></li>
+<li><span><a href="/subcategory.php?scid=20"  target="_blank" title="杀毒软件">杀毒软件</a></span> | <a href="/html/030202007081501.html"  target="_blank">瑞星杀毒软件2011（免</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="darea486 bor">
+  <div class="linebg">
+    <div class="conupLeft">
+      <div class="lefttop">
+        <div class="tit232">
+          <div class="dtit"><a href="/newest.php?pfid=0&first=1">系统软件更新</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.catagoryid=6 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 6--><li><span><a href="/subcategory.php?scid=48"  target="_blank" title="磁盘工具">磁盘工具</a></span> | <a href="/html/060482010121001.html"  target="_blank">安天敏捷恢复</a></li>
+<li><span><a href="/subcategory.php?scid=352"  target="_blank" title="系统设置">系统设置</a></span> | <a href="/html/063522010031102.html"  target="_blank">Windows 7总管(Window</a></li>
+<li><span><a href="/subcategory.php?scid=352"  target="_blank" title="系统设置">系统设置</a></span> | <a href="/html/063522010031101.html"  target="_blank">Windows 7总管(Window</a></li>
+<li><span><a href="/subcategory.php?scid=352"  target="_blank" title="系统设置">系统设置</a></span> | <a href="/html/063522009051901.html"  target="_blank">SetFSB</a></li>
+<li><span><a href="/subcategory.php?scid=48"  target="_blank" title="磁盘工具">磁盘工具</a></span> | <a href="/html/060482002031202.html"  target="_blank">R-Studio</a></li>
+<li><span><a href="/subcategory.php?scid=352"  target="_blank" title="系统设置">系统设置</a></span> | <a href="/html/063522003050801.html"  target="_blank">TweakNow PowerPack 2</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+    <div class="conupRight">
+      <div class="righttop">
+        <div class="tit247">
+          <div class="dtit"><a href="/html/category6.html">热门系统软件下载</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <li><span><a href="/subcategory.php?scid=51"  target="_blank" title="系统安全">系统安全</a></span> | <a href="/html/060512009051701.html"  target="_blank">密码截取</a></li>
+<li><span><a href="/subcategory.php?scid=75"  target="_blank" title="其它系统工具">其它系统</a></span> | <a href="/html/060752008041802.html"  target="_blank">速用文件名称修改器</a></li>
+<li><span><a href="/subcategory.php?scid=48"  target="_blank" title="磁盘工具">磁盘工具</a></span> | <a href="/html/060482007052401.html"  target="_blank">分区魔术师 实用版</a></li>
+<li><span><a href="/subcategory.php?scid=45"  target="_blank" title="系统加强">系统加强</a></span> | <a href="/html/060452008042901.html"  target="_blank">Win XP SP3 简体中文</a></li>
+<li><span><a href="/subcategory.php?scid=75"  target="_blank" title="其它系统工具">其它系统</a></span> | <a href="/html/060752005031401.html"  target="_blank">MaxDOS</a></li>
+<li><span><a href="/subcategory.php?scid=44"  target="_blank" title="系统测试">系统测试</a></span> | <a href="/html/060442002061103.html"  target="_blank">AIDA32</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+   </div>
+   <!--图象软件更新,热门图象软件,应用工具更新,热门应用工具-->
+   <div class="fra">
+       <div class="darea486 bor mar8">
+  <div class="linebg">
+    <div class="conupLeft">
+      <div class="lefttop">
+        <div class="tit232">
+          <div class="dtit"><a href="/newest.php?pfid=0&first=1">图象软件更新</a></div>
+        </div>
+      </div>
+      <div class="update txt220">
+        <ul>
+          <!--select * from (select a.fname,a.name,a.version,substr(a.releasedate,-5) as RECORDTIME,a.icon as LOGO,alldescription ,b.scname,b.scid  from v1_basicinfo a,subcatagory b  where releasedate is not null and a.catagoryid=4 and a.subcatagoryid=b.scid and ifcheck=1  order by modifytime desc) where rownum <= 6--><li><span><a href="/subcategory.php?scid=30"  target="_blank" title="图像制作工具">图像制作</a></span> | <a href="/html/040302008122301.html"  target="_blank">美图秀秀（图片处理软</a></li>
+<li><span><a href="/subcategory.php?scid=31"  target="_blank" title="屏幕抓图">屏幕抓图</a></span> | <a href="/html/040312005111401.html"  target="_blank">Screenshot Captor</a></li>
+<li><span><a href="/subcategory.php?scid=30"  target="_blank" title="图像制作工具">图像制作</a></span> | <a href="/html/040302009103001.html"  target="_blank">FotoMorph</a></li>
+<li><span><a href="/subcategory.php?scid=30"  target="_blank" title="图像制作工具">图像制作</a></span> | <a href="/html/040302008032002.html"  target="_blank">彩影2010 白金版</a></li>
+<li><span><a href="/subcategory.php?scid=30"  target="_blank" title="图像制作工具">图像制作</a></span> | <a href="/html/040302002010701.html"  target="_blank">PhotoLine 32</a></li>
+<li><span><a href="/subcategory.php?scid=36"  target="_blank" title="其它图像处理工具">其它图像</a></span> | <a href="/html/040362003022501.html"  target="_blank">Home Plan Pro</a></li>
+<!--wget finished successful flag-->
+        </ul>
+      </div>
+    </div>
+    <div class="conupRight">
+      <div class="righttop">
+        <div class="tit247">
+          <div class="dtit"><a href="/html/category4.html">热门图象软件下载</a></div>
+        </div>
+      </

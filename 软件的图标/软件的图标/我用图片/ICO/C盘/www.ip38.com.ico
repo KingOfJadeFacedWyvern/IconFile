@@ -1,0 +1,139 @@
+ 
+<title>ip地址查询</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<META NAME="Keywords" CONTENT="ip地址查询,ip38">
+<META NAME="Description" CONTENT="ip地址查询,ip38">
+<link href="38.css" type="text/css" rel="stylesheet">
+<base target=_blank>
+<BODY>
+<h1>ip38.com(ip地址查询)</h1>
+<h2><LI>您的本机IP地址：222.213.196.252 &nbsp;&nbsp;来自：</strong><span id="ipad"> 稍等,查询中.... </span></LI>
+</h2>
+<DIV class="blockf">
+<form name="form1" method="get" action="index.php" target="_self">
+<TABLE><TBODY>
+<TR><TH><B>ip地址查询</B></TH></TR>
+<TR><TD height="38" id=summary>请输入要查询的IP:
+<input name="ip" type="text" id="ip" size="22" maxlength="22" style="height: 22px;">
+<input type="submit" value="查询 " style="height: 20px;HEIGHT:23px;font-size:14px; background-color:#CCCCCC;">
+（查询结果在下面显示）<a href="http://www.amazon.cn/browse/browse.asp?source=w-90002438&nodeID=51080" title="100本热销书"><font color=#ff0000>100本热销书，你了解多少？</font></a></td> 
+</tr></table>
+
+</form> 
+<div id="ipadcode" style="display:none"> 
+四川省资阳市简阳市 电信</div> 
+<div align="center">
+<script language="javascript"> 
+if(document.all.item("ipad") != null) 
+{ 
+ipad.innerHTML = ipadcode.innerHTML; 
+} 
+</script>
+</div>
+
+<TABLE><TBODY>
+<TR>
+<td style="border-bottom: #778 1px solid">
+<h3><font color="#ff0000"></font></h3><br />
+</td> 
+</tr>
+</table>
+
+<br />
+<script type='text/javascript'>
+var sogou_param = new Array();
+sogou_param["pid"]  = 'zhaoying';
+sogou_param["ct"]  = 'context';
+sogou_param["fmt"]  = 'h_728_90';
+sogou_param["iw"]   = '728';
+sogou_param["ih"]   = '90';
+sogou_param["charset"]   = 'gb2312';
+sogou_param["c_bo"] = 'FFFFFF';
+sogou_param["c_bg"] = 'FFFFFF';
+sogou_param["c_li"] = '0055E5';
+sogou_param["c_te"] = '000000';
+sogou_param["c_bt"] = '000000';
+sogou_param["c_hl"] = '2BD5B3';
+sogou_param["sv"] = '0';
+sogou_param["sl"] = '1';
+sogou_param["hl"] = '3';
+</script>
+<script language='JavaScript' type='text/javascript' src='http://images.sohu.com/cs/jsfile/js/ct.js'></script>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TH colspan="4"><B>更多实用查询&nbsp;<font color="#FF0000">2010年4月21已更新</font></B></TH>
+    </TR>
+    <TR>
+      <TD height="30" id=summary3><a href="http://map.baidu.com/" target="_blank">百度地图</a></TD>
+      <TD id=summary3><a href="http://ditu.google.cn/">Google卫星地图</a></TD>
+      <TD id=summary3><a href="http://site.baidu.com/list/wannianli.htm" target="_blank"><span id="highlight_tag2">万年历</span>查询</a></TD>
+      <TD id=summary3><A href="http://123.sogou.com/static/covert.html">在线繁体字|火星文转换</A></TD>
+    </TR>
+    <TR>
+      <TD width="25%" height="30" id=summary><a href="http://www.sogou.com/features/mobile.jsp" target="_blank">手机号码归属地查询</a></TD>
+      <TD width="25%" id=summary><A href="http://www.baidu.com/s?tn=mewo&word=天气预报">天气预报</A> </TD>
+      <TD width="25%" id=summary><a href="http://youbian.baidu.com/">全国邮编搜索</a></TD>
+      <TD width="25%" id=summary><a href="http://flights.ctrip.com/Domestic/SearchFlights.aspx">查询国内机票,航班</a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><a href="http://site.baidu.com/list/lccx.htm" target="_blank">列车(火车)时刻表</a></TD>
+      <TD id=summary><A href="http://wz.gocar.cn/changtu/">长途汽车客运时刻</A> <BR></TD>
+      <TD id=summary><a href="http://kan123.com/">123网址大全</a></TD>
+      <TD id=summary><a href="http://site.baidu.com/list/kuaidi.htm">快递查询</a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><a href="http://xh.5156edu.com/">在线新华字典</a></TD>
+      <TD id=summary><A href="http://www.8684.cn/">8684公交查询</A></TD>
+      <TD id=summary><a href="http://www.zdic.net/">汉语字典词典</a></TD>
+      <TD id=summary><a href="http://www.sogou.com/features/idiom.jsp">成语查询</a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><A href="http://baidu.hexun.com/fund/vr.php?t=1&c=1">基金净值</A><A href="http://fund.baidu.com/" target="_blank"></A> | <A href="http://finance.sina.com.cn/stock/usstock/index.shtml">新浪美股</A></TD>
+      <TD id=summary><A href="http://www.boc.cn/sourcedb/whpj/">外汇牌价￥$$$</A></TD>
+      <TD id=summary><a href="http://www.lottery.gov.cn/">体育彩票</a></TD>
+      <TD id=summary><A href="http://www.zhcw.com/">福利彩票</A><a href="time/index.htm" target="_blank"></a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><a href="http://www.tvsou.com/" target="_blank">电视节目</a><a href="naozhong/index.htm"></a><a href="shui/" target="_blank"></a></TD>
+      <TD id=summary><a href="http://www.jctrans.com/tool/jsq.htm">在线计算器</a></TD>
+      <TD id=summary><A href="http://card.money.sohu.com/tools/html/CalcTax.htm">个人所得税</A></TD>
+      <TD id=summary><a href="http://www.21page.net/public/use_tel.asp">常用电话号码</a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><a href="http://fanyi.cn.yahoo.com/" target="_blank">雅虎翻译</a></TD>
+      <TD id=summary><a href="http://www.id5.cn/">身份证号码照片真假查询</a></TD>
+      <TD id=summary><a href="http://auto.sohu.com/s2004/weizhangchaxun.shtml">交通违章电子眼查询</a></TD>
+      <TD id=summary><a href="http://finance.people.com.cn/GB/68050/4592571.html">各地车牌查询</a></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><a href="http://www.linkwan.com/gb/broadmeter/SpeedAuto/" target="_blank">网速测试</a></TD>
+      <TD id=summary><A href="http://www.zdic.net/appendix/f27.htm">择吉老黄历</A></TD>
+      <TD id=summary><A href="http://jbk.39.net/">疾病查询</A></TD>
+      <TD id=summary><A href="http://health.sohu.com/eden/anquanqi/jump.html" target="_blank"><SPAN id="highlight_tag">女性安全期</SPAN>自测</A></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><A href="http://cn.alexa.com/" target="_blank">Alexa排名查询</A></TD>
+      <TD id=summary><a href="http://www.chsi.com.cn/xlcx/">学历查询</a></TD>
+      <TD id=summary><A href="http://www1.wst.net.cn/scripts/flex/TodayOnHistory/">历史上的今天</A></TD>
+      <TD id=summary><A href="http://www.tenaa.com.cn/WSFW/FlagValidateImei.aspx">手机真假查询</A></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary2><A href="http://www.chinaprice.gov.cn/fgw/ProxyServlet?server=e450&urls_count=1&url=agri/J_0_0_0_0.htm">农产品报价</A></TD>
+      <TD id=summary2><A href="http://www.chinamobile.com/service/billservice/">移动话费查询</A></TD>
+      <TD id=summary2><A href="http://www.10010.com/">联通话费查询</A></TD>
+      <TD id=summary2><A href="http://www.5uproxy.net/">在线代理</A></TD>
+    </TR>
+    <TR>
+      <TD height="30" id=summary><A href="http://www.gapp.gov.cn/cms/cms/website/zhrmghgxwcbzsww/SearchService/jzzcx.html" target="_blank">记者证真假查询</A></TD>
+      <TD id=summary><a href="http://baike.baidu.com/view/224457.htm">中国历史朝代</a></TD>
+      <TD id=summary><A href="http://www.sipo.gov.cn/sipo2008/zljs/">中国专利检索</A></TD>
+      <TD id=summary><A href="http://auto.sina.com.cn/calculator/index.shtml">购车综合计算器</A></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<div align="center"> <a href="http://ip38.com" class="mailstring"><font color="#FF0000">IP38.COM</font></a></div></TD>
+<script src="http://s11.cnzz.com/stat.php?id=2076920&web_id=2076920" language="JavaScript"></script>
+</DIV>
+</BODY>
+</HTML>

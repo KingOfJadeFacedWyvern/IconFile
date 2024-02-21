@@ -1,0 +1,1607 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>广东省科学技术厅</title>
+<link href="/images/style.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+        .code
+        {
+            background-image:url(code.jpg);
+            font-family:Arial;
+            font-style:italic;
+            color:Red;
+            border:0;
+            font-weight:bolder;
+        }
+        .unchanged
+        {
+            border:0;
+        }
+		#quick {LEFT: 0px; POSITION: absolute; TOP: 0px; VISIBILITY: visible; WIDTH: 170px; Z-INDEX: 1}
+  .STYLE1 {
+	color: #CC0000;
+	font-weight: bold;
+}
+  </style>
+  
+<link href="/images/home.css" rel="stylesheet" type="text/css" />
+
+<script src="/images/loadimages.js" type="text/javascript" language="javascript"></script>
+<script src="/images/tabSelect.js" type="text/javascript" language="javascript"></script>
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+
+<script language="JavaScript" src="/dojo/dojo.js" djConfig="isDebug: false, parseOnLoad: false, useXDomain:true, dojoBlankHtmlUrl:'static/html/dojo/resources/blank.html', dojoIframeHistoryUrl:'static/html/dojo/resources/blank.html'"></script>
+
+<script type="text/javascript"> 
+dojo.require("dojo.cookie");
+dojo.require("dojo.fx");
+</script>
+ 
+<script src="/images/changecolor.js" type="text/javascript" language="javascript"></script>
+
+<script language="JavaScript"> 
+function open_window() {
+window.parent.location.reload();
+} 
+</script>
+
+<script language="JavaScript">
+var code ; 
+var interval;
+     function createCode()
+     { 
+       code = "";
+       var codeLength = 4;
+       var checkCode = document.getElementById("checkCode");
+       var selectChar = new Array(0,1,2,3,4,5,6,7,8,9,'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z');
+       for(var i=0;i<codeLength;i++)
+       {  
+     	var charIndex = Math.floor(Math.random()*36);
+      	code +=selectChar[charIndex];       
+       }   
+       if(checkCode)
+       {
+         checkCode.className="code";
+         checkCode.value = code;
+       }        
+     }     
+      function validate ()
+     {
+       var inputCode = document.getElementById("input_1").value;
+       if(inputCode.length <=0)
+       {
+           alert("请输入验证码！");
+           return false;
+       }
+       else if(inputCode != code )
+       {
+          alert("验证码输入错误！");
+          
+          createCode();
+          return false;
+       }
+       else
+       {
+        return true; 
+       }       
+      }
+</script>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+</head>
+
+<body class="sBlue" onLoad="javascript:createCode();MM_preloadImages('images/button_zxbg_qt.gif','images/button_zxbg_fxzxk_1.gif','images/button_zxbg_fxzxk.gif','images/button_zxbg_xzxk_1.gif','images/button_zxbg_xzxk.gif','images/button_zxbg_qt_1.gif','images/button_zcfg_zxzc_1.gif','images/button_zcfg_zxzc.gif','images/button_zcfg_zcjd.gif','images/button_zcfg_zcjd_1.gif','images/title_left_tpxw.jpg','images/button_cxfw_rkxcg.gif','images/button_cxfw_zwcx.gif','images/button_cxfw_kjcbw.gif','images/button_cxfw_tjcx_1.gif','images/button_cxfw_cgcx.gif','images/button_cxfw_zcfg.gif','images/button_cxfw_jlcx.gif','images/button_cxfw_tjcx.gif','images/button_cxfw_zcfg_1.gif','images/button_cxfw_zwcx_1.gif','images/button_cxfw_kjcbw_1.gif','images/title_left_spxw.jpg','/images/title_button_tzgg_1.gif','/images/title_button_spgg.gif','/images/title_button_tzgg.gif','/images/title_button_spgg_1.gif','/images/title_button_gdkjdt_1.gif','/images/title_button_gnkjdt.gif','/images/title_button_gdkjdt.gif','/images/title_button_gnkjdt_1.gif','images/button_zxhf_cjwt.gif','images/button_zxhf_zxwt.gif','images/button_zxhf_rdwt.gif','/images/button_zxhf_rdwt.gif','/images/button_zxhf_zxwt.gif','/images/button_zxhf_cjwt.gif')">
+
+<script language="javascript" type="text/javascript">
+
+self.onError=null;
+	currentX = currentY = 0;  
+	whichIt = null;           
+	lastScrollX = 0; lastScrollY = 0;
+	NS = (document.layers) ? 1 : 0;
+	IE = (document.all) ? 1: 0;
+	
+	function heartBeat() {
+		if(IE) { 
+			  diffY = document.body.scrollTop; 
+ 			  diffX = 0; 
+		       }
+	    if(NS) { diffY = self.pageYOffset; diffX = self.pageXOffset; }
+		if(diffY != lastScrollY) {
+percent = .1 * (diffY - lastScrollY);
+	                if(percent > 0) percent = Math.ceil(percent);
+	                else percent = Math.floor(percent);
+			if(IE) document.all.quick.style.pixelTop += percent;
+			if(NS) document.quick.top += percent; 
+	                lastScrollY = lastScrollY + percent;
+	    }
+if(diffX != lastScrollX) {
+			percent = .1 * (diffX - lastScrollX);
+			if(percent > 0) percent = Math.ceil(percent);
+			else percent = Math.floor(percent);
+			if(IE) document.all.floater.style.pixelLeft += percent;
+			if(NS) document.quick.top += percent;
+			lastScrollY = lastScrollY + percent;
+		}	
+	}	
+	if(NS || IE) action = window.setInterval("heartBeat()",1);
+</script>
+<div align="left" id="quick" style="LEFT: 0px; TOP:80px; VISIBILITY: visible; WIDTH: 100px">
+<div><a href="http://cxtdxxh.gdstc.gov.cn/" target="_blank"><img border="0" src="/images/banner_cxtdxxxt.jpg"></a></div>
+</div>
+
+
+<table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="/gdstc2008_head_color.html" frameborder="0" scrolling="no" width="100%" height="205"></iframe></td>
+  </tr>
+</table>
+
+
+<table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tr>
+        <td height="246" align="center" valign="top" class="bg_top">
+          <table width="98%" border="0" cellspacing="1" cellpadding="0">
+          <tr>
+            <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+            <tr><td height="10"></td></tr>
+            <tr><td><img src="/images/title_left_tpxw.jpg" name="Image12" width="326" height="29" border="0" usemap="#Map2" id="Image12"></td>
+            </tr>
+            
+
+</script>
+            
+            <tr id="left1"><td width="326" height="232" align="center" bgcolor="d8d8d8">
+              <script type="text/javascript">
+								var focus_width=317;
+								var focus_height=206;
+								var text_height=21;
+								var swf_height = focus_height+text_height;								
+								var pics='';
+								var links='';
+								var texts='';
+pics=pics+'/msg/image/zwxw/2010/12/20101207sjc00.jpg|';links=links+'/HTML/zwgk/zwyw/1291693052720-2663851755781108030.html|';texts=texts+'钟小平副厅长出席第三届中医药现代化国际科...|';
+pics=pics+'/msg/image/zwxw/2010/12/2010120702sjc00.jpg|';links=links+'/HTML/zwgk/zwyw/12916942392284124969911207820622.html|';texts=texts+'2010年度国家自然科学基金管理工作会议...|';
+pics=pics+'/msg/image/zwxw/2010/12/20101207ghc00.jpg|';links=links+'/HTML/zwgk/zwyw/12916903128192364377694858807553.html|';texts=texts+'叶景图副厅长出席肇庆市LED路灯应用推广...|';
+								
+								pics = pics.substring(0,pics.length-1);
+								links = links.substring(0,links.length-1);
+								links = escape(links);
+								texts = encodeURIComponent(texts.substring(0,texts.length-1));
+								document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6?0?0?0" width="'+ focus_width +'" height="'+ swf_height +'">');
+								document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/images/focus.swf"><param name="quality" value="high"><param name="bgcolor" value="#F0F0F0">');
+								document.write('<param name="menu" value="false"><param name="wmode" value="opaque">');
+								document.write('<param name="FlashVars" value="pics='+pics+'&amp;links='+links+'&amp;texts='+texts+'&amp;borderwidth='+focus_width+'&amp;borderheight=' +focus_height+'&amp;textheight='+text_height+'">');
+								document.write('<embed src="/images/focus.swf" wmode="opaque" FlashVars="pics='+pics+'&amp;links='+links+'&amp;texts='+texts+'&amp;borderwidth='+focus_width+'&amp;borderheight= '+focus_height+'&amp;textheight='+text_height+'" menu="false" bgcolor="#F0F0F0" quality="high" width="'+ focus_width +'" height="'+ focus_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>'); document.write('</object>');
+                                                        
+                            
+                            </script>
+                  </td></tr></table>
+                </td>
+            <td width="659" align="right" class="bg_news"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+<tr><td><a href="/HTML/zwgk/zwyw/1291693052720-2663851755781108030.html" target="_blank" class="main"><span class="p20 red">钟小平副厅长出席第三届中医药现代化国际科...</span></a></td></tr><tr><td><a href="/HTML/zwgk/zwyw/1291693052720-2663851755781108030.html" target="_blank" class="main"><span  class="p14">　　11月25日，由科技部、卫生部、国家中医药管理局、国家食品药品监管局、教育部、农业部、文化部、国家民委、国...</span></a></td></tr>
+<tr>
+  <td height="25" valign="bottom" class="red">&nbsp;政务动态 >></td>
+</tr>
+<tr><td height="10"><img src="/images/line_center.gif"></td>
+</tr>
+                  <tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="p12">
+<tr><td width="13" height="20"><img src="/images/icon_newslist_index.gif" width="4" height="4"></td><td><a href="/HTML/zwgk/zwyw/12916942392284124969911207820622.html" target="_blank" class="main">2010年度国家自然科学基金管理工作会议在厦门召开</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr>
+<tr><td width="13" height="20"><img src="/images/icon_newslist_index.gif" width="4" height="4"></td><td><a href="/HTML/zwgk/zwyw/12916903128192364377694858807553.html" target="_blank" class="main">叶景图副厅长出席肇庆市LED路灯应用推广现场会</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr>
+<tr><td width="13" height="20"><img src="/images/icon_newslist_index.gif" width="4" height="4"></td><td><a href="/HTML/zwgk/zwyw/12916207744824923621788429624192.html" target="_blank" class="main">广东省国产创新医疗器械产品应用示范工程启动仪式在乐昌市举...</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr>
+<tr><td width="13" height="20"><img src="/images/icon_newslist_index.gif" width="4" height="4"></td><td><a href="/HTML/zwgk/zwyw/1291608378493768279445382081315.html" target="_blank" class="main">龚国平副厅长出席国家火炬计划东莞石龙数码办公设备特色产业...</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr>
+<tr><td width="13" height="20"><img src="/images/icon_newslist_index.gif" width="4" height="4"></td><td><a href="/HTML/zwgk/zwyw/1291599887465-1136525467062421510.html" target="_blank" class="main">省自然科学基金办公室组织专家召开省基础研究“十二五”发展...</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="20" align="right"><a href="/zwgk/zwyw/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                  </tr>
+                </table></td>
+                <td width="200" align="center" valign="top"><img src="/images/title_zfxxgk.jpg" width="207" height="242" border="0" usemap="#Map"></td>
+              </tr>
+            </table></td>
+            </tr>
+        </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1004" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="2" align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="328" height="26" align="left"><table width="99%" border="0" cellpadding="0" cellspacing="0" class="p12">
+                  <tr>
+                  <form name="search" action="http://search.gdstc.gov.cn/search.jsp" method="get" target="_blank">
+                    <td width="15" align="center"><img src="/images/icon_search.gif" width="11" height="11"></td>
+                    <td align="right">信息检索：</td>
+                    <td align="left"><input name="query" type="text" class="input" size="19"></td>
+                    <td align="center"><input type="image" src="/images/button_search.gif" width="47" height="17"></td>
+                    <td align="center"><a href="http://pubaux.gdstc.gov.cn/search.jsp" target="_blank"><img src="/images/button_ad_search.gif" width="64" height="17" border="0"></a></td>
+                    </form>
+                  </tr>
+                </table></td>
+                </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="108"><img src="/images/title_zxbg_icon.gif" width="108" height="72"></td>
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><img src="/images/title_zxbg_name.gif" width="219" height="46"></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="left" background="/images/title_zxbg_bg.gif"><table width="207" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="69" id="z1Tab" onMouseOver="tabShow8(z1Tab,z2Tab,z3Tab,z1,z2,z3)">
+                                <img src="/images/button_zxbg_fxzxk_1.gif" name="Image13" width="68" height="20" id="Image13" onMouseOver="MM_swapImage('Image13','','images/button_zxbg_fxzxk_1.gif','Image14','','images/button_zxbg_xzxk.gif','Image15','','images/button_zxbg_qt.gif',1)"></td>
+                                <td width="69" id="z2Tab" onMouseOver="tabShow8(z2Tab,z1Tab,z3Tab,z2,z1,z3)"><img src="/images/button_zxbg_xzxk.gif" name="Image14" width="68" height="20" id="Image14" onMouseOver="MM_swapImage('Image13','','images/button_zxbg_fxzxk.gif','Image14','','images/button_zxbg_xzxk_1.gif','Image15','','images/button_zxbg_qt.gif',1)"></td>
+                                <td width="69" id="z3Tab" onMouseOver="tabShow8(z3Tab,z2Tab,z1Tab,z3,z2,z1)"><img src="/images/button_zxbg_qt.gif" name="Image15" width="68" height="20" id="Image15" onMouseOver="MM_swapImage('Image13','','images/button_zxbg_fxzxk.gif','Image14','','images/button_zxbg_xzxk.gif','Image15','','images/button_zxbg_qt_1.gif',1)"></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="140" align="center" valign="top" background="/images/bg_zxzc_index.gif">
+                    <table width="93%" border="0" cellpadding="0" cellspacing="0" class="p12" id="z1">
+                      <tr>
+                        <td align="center"><a href="/zxbg/wsbl/index.htm" class="green_link">网上办理</a>　/　<a href="/zxbg/xzfw/index.htm" class="green_link">下载服务</a>　/　<a href="/main/zxbg_ywzx.html" class="green_link">业务咨询</a>　/　<a href="/zxbg/lnsbzn/index@1.htm" class="green_link">历年申报指南</a></td>
+                        </tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12">
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/fxzxksx/1227175636978-6700553934656611077.html" target="_blank" class="main">省民营科技企业认定</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/fxzxksx/1270536564645-4821560006631138575.html" target="_blank" class="main">广东省自主创新产品</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/fxzxksx/12271756239765857497284888539479.html" target="_blank" class="main">省级工程技术研究开发中心认定审批</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/fxzxksx/12271756232218555732107045871414.html" target="_blank" class="main">省高新技术企业认定</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/fxzxksx/12705368385491586911954389165819.html" target="_blank" class="main">国家级重点高新技术企业（集团）认定审核</a></td></tr>
+                        	</table>                        </td>
+                        </tr>
+                      <tr>
+                        <td align="right"><a href="/zxbg/wsbl/fxzxksx/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                        </tr>
+                    </table>
+                    <table width="93%" border="0" cellpadding="0" cellspacing="0" class="p12" id="z2" style="display:none;">
+                      <tr>
+                        <td align="center"><a href="/zxbg/wsbl/index.htm" class="green_link">网上办理</a>　/　<a href="/zxbg/xzfw/index.htm" class="green_link">下载服务</a>　/　<a href="/main/zxbg_ywzx.html" class="green_link">业务咨询</a>　/　<a href="/zxbg/lnsbzn/index@1.htm" class="green_link">历年申报指南</a></td>
+                        </tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12">
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/xzxksx/12271755860798189140125348590471.html" target="_blank" class="main">实验动物生产和使用许可核准</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/xzxksx/12271755861848859308632794851447.html" target="_blank" class="main">在省民政部门登记注册的科技类民办非企业单位的设...</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spml/xzxksx/12271755862923914852294447077188.html" target="_blank" class="main">全省性科技民间团体设立审核</a></td></tr>
+                        	</table>                        </td>
+                        </tr>
+                      <tr>
+                        <td align="right"><a href="/zxbg/wsbl/xzxksx/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                        </tr>
+                    </table>
+                    <table width="93%" border="0" cellpadding="0" cellspacing="0" class="p12" id="z3" style="display:none;">
+                      <tr>
+                        <td align="center"><a href="/zxbg/wsbl/index.htm" class="green_link">网上办理</a>　/　<a href="/zxbg/xzfw/index.htm" class="green_link">下载服务</a>　/　<a href="/main/zxbg_ywzx.html" class="green_link">业务咨询</a>　/　<a href="/zxbg/lnsbzn/index@1.htm" class="green_link">历年申报指南</a></td>
+                        </tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12">
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zxbg/wsbl/1228206467388-2759672329657840284.html" target="_blank" class="main">广东省科学技术奖</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zxbg/wsbl/1228206467486-2764636138740415895.html" target="_blank" class="main">省级科技成果鉴定</a></td></tr>
+<tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zxbg/wsbl/1228182731413-1665652678195051657.html" target="_blank" class="main">省重大科技成果登记核准</a></td></tr>
+                        	</table>                        </td>
+                        </tr>
+                      <tr>
+                        <td align="right"><a href="/zxbg/wsbl/qt/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                        </tr>
+                    </table>                    </td>
+                  </tr>
+                  <tr><td height="73" align="center" valign="bottom"><a href="http://pro.gdstc.gov.cn/" target="_blank"><img src="/images/banner_2010ywxt.jpg" width="320" height="68" border="0"></a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="2"></td>
+                </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="108"><img src="/images/title_zcfg_icon.gif" width="108" height="72"></td>
+                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><img src="/images/title_zcfg_name.gif" width="219" height="46"></td>
+                            </tr>
+                            <tr>
+                              <td height="26" align="left" background="/images/title_zxbg_bg.gif"><table width="137" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td width="69" id="zc1Tab" onMouseOver="tabShow4(zc1Tab,zc2Tab,zc1,zc2)"><img src="/images/button_zcfg_zxzc.gif" name="Image6" width="68" height="20" id="Image6" onMouseOver="MM_swapImage('Image6','','images/button_zcfg_zxzc.gif','Image10','','images/button_zcfg_zcjd_1.gif',1)"></td>
+                                    <td width="68" id="zc2Tab" onMouseOver="tabShow4(zc2Tab,zc1Tab,zc2,zc1)"><img src="/images/button_zcfg_zcjd_1.gif" name="Image10" width="68" height="20" id="Image10" onMouseOver="MM_swapImage('Image6','','images/button_zcfg_zxzc_1.gif','Image10','','images/button_zcfg_zcjd.gif',1)"></td>
+                                    </tr>
+                              </table></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="140" align="center" valign="top" background="/images/bg_zxzc_index.gif">
+                    <table width="94%" cellpadding="0" cellspacing="0" id="zc1">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zxzcfg/128323010196965548372755390016.html" target="_blank" class="main">关于转发《关于继续实行宣传文化增值税和营业税...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zxzcfg/1283230102725-731409132365856445.html" target="_blank" class="main">转发关于组织开展第四批创新型企业试点工作的通...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zxzcfg/1283230103428-1287304362232016581.html" target="_blank" class="main">广东省实施《中华人民共和国政府采购法》办法</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zxzcfg/12832301042568829043924552722430.html" target="_blank" class="main">中共广东省委　广东省人民政府关于加快经济发展...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zxzcfg/1283230105060-2696579670836810455.html" target="_blank" class="main">中共广东省委 广东省人民政府关于加快高新技术...</a></td></tr></table></td></tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="20" align="right" valign="bottom"><a href="/zwgk/zcfg/zxzcfg/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                    <table width="94%" cellpadding="0" cellspacing="0" id="zc2" style="display:none;">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zcjd/12832211383689094084307529900390.html" target="_blank" class="main">［政策解读］国家发改委副主任杜鹰解读《珠三角...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zcjd/1283220975888-3224945592480236653.html" target="_blank" class="main">［政策解读］《关于加快经济发展方式转变的若干...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zcjd/12832208152729046673676841790651.html" target="_blank" class="main">［政策解读］贯彻落实"双提升"战略 粤高新区...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zcjd/1251864436721-5704194751782560506.html" target="_blank" class="main">［政策解读］广东省科技型中小企业技术创新专项...</a></td></tr></table></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="21" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/zcfg/zcjd/12518644367937083688229622571445.html" target="_blank" class="main">［政策解读］广东省科技型中小企业技术创新专项...</a></td></tr></table></td></tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="20" align="right" valign="bottom"><a href="/zwgk/zcfg/zcjd/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>                    </td>
+                  </tr>
+                  <tr>
+                    <td height="2"></td>
+                  </tr>
+                </table></td>
+                </tr>
+            </table></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="16"><img src="/images/title_gg_left.gif" width="16" height="26"></td>
+                          <td width="64" id="d1Tab" onMouseOver="tabShow4(d1Tab,d2Tab,d1,d2)">
+                            <img src="/images/title_button_tzgg_1.gif" width="64" height="26" id="Image1" onMouseOver="MM_swapImage('Image1','','/images/title_button_tzgg_1.gif','Image2','','/images/title_button_spgg.gif',1)"></td>
+                          <td width="64" id="d2Tab" onMouseOver="tabShow4(d2Tab,d1Tab,d2,d1)">
+                            <img src="/images/title_button_spgg.gif" width="64" height="26" id="Image2" onMouseOver="MM_swapImage('Image1','','/images/title_button_tzgg.gif','Image2','','/images/title_button_spgg_1.gif',1)"></td>
+                          <td background="/images/title_gg_bg.gif">&nbsp;</td>
+                          <td width="99" align="right"><img src="/images/title_gg_right.gif" width="99" height="26"></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                  <tr>
+                    <td height="10" align="center"></td>
+                    </tr>
+                  <tr>
+                    <td align="center">
+                      <div id="d1">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/12917942076191668886077185563727.html" target="_blank" class="main">关于召开“十一五”国家科技支撑计划“数字家庭与数字电视...</a></td><td width="80" align="right" class="gray">(2010-12-08)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/1291770931827-586463405486523546.html" target="_blank" class="main">关于2010年广东省专业镇建设先进单位和先进个人名单公...</a></td><td width="80" align="right" class="gray">(2010-12-08)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/12916962718326766354862980001951.html" target="_blank" class="main">关于印发第四批广东省创新型试点企业名单的通知</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/1291696251083-2573442730513204284.html" target="_blank" class="main">关于认定第三批广东省创新型企业的通知</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/1291619974727-817154702263559289.html" target="_blank" class="main">关于推荐2011年度国家科学技术奖励的通知</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/12916097052548902080953751424356.html" target="_blank" class="main">关于印发《广东省院士工作站建设办法(试行)》的通知</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/1291366559876-3320321706011130933.html" target="_blank" class="main">关于组织申报2011年度广东省科技型中小企业技术创新专...</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/12913614616502229638783055424579.html" target="_blank" class="main">推荐“十一五”国家科技计划工作先进集体和个人表彰名单公...</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/tzgg/12912804067675520436842029614841.html" target="_blank" class="main">关于规范广东省LED路灯产品评价标杆体系管理的公告</a></td><td width="80" align="right" class="gray">(2010-12-02)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+                          <tr>
+                            <td align="center">
+                              <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="30" align="right" valign="middle"><a href="/zwgk/tzgg/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                            </tr>
+                                </table></td>
+                        </tr>
+                          </table>
+                      </div>
+                      <div id="d2" style="display:none;">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12913688892002897918835164299368.html" target="_blank" class="main">2011年省战略性新兴产业专项资金LED产业拟立项项目...</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12885811859976821859064834642713.html" target="_blank" class="main">关于公示2010年广东省自主创新100强企业名单的通知</a></td><td width="80" align="right" class="gray">(2010-09-30)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12865160086651907191657224934775.html" target="_blank" class="main">2010年广东省拟认定自主创新产品公示</a></td><td width="80" align="right" class="gray">(2010-09-16)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12865160087854203884653627111427.html" target="_blank" class="main">2010年粤港关键领域重点突破项目（东莞专项）招标公告</a></td><td width="80" align="right" class="gray">(2010-09-08)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12827241098606839364586110629776.html" target="_blank" class="main">关于公布2010年第二批高新技术企业认定中介机构的通知</a></td><td width="80" align="right" class="gray">(2010-08-12)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12827241106142067784739704500305.html" target="_blank" class="main">关于公示2010年度广东省首批科技服务业百强企业（机构...</a></td><td width="80" align="right" class="gray">(2010-08-10)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12827241114153926198450176908176.html" target="_blank" class="main">2010年粤港关键领域重点突破项目招标公告</a></td><td width="80" align="right" class="gray">(2010-08-10)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/12810585783152142404293211790136.html" target="_blank" class="main">关于表彰“企业科技特派员工作先进单位”及“优秀企业科技...</a></td><td width="80" align="right" class="gray">(2010-07-19)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/zwgk/spgg/1281058579079-9181861573451194435.html" target="_blank" class="main">关于2010年度广东省科技型中小企业技术创新专项资金第...</a></td><td width="80" align="right" class="gray">(2010-07-16)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+                          <tr>
+                            <td align="center">
+                              <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="40" align="right" valign="middle"><a href="/zwgk/spgg/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                            </tr>
+                                </table></td>
+                        </tr>
+                          </table>
+                      </div>
+                      </td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="16"><img src="/images/title_gg_left.gif" width="16" height="26"></td>
+                          <td width="64" id="d3Tab" onMouseOver="tabShow4(d3Tab,d4Tab,d3,d4)">
+                          <img src="/images/title_button_gdkjdt_1.gif" width="89" height="26" id="Image3" onMouseOver="MM_swapImage('Image3','','/images/title_button_gdkjdt_1.gif','Image4','','/images/title_button_gnkjdt.gif',1)"></td>
+                          <td width="64" id="d4Tab" onMouseOver="tabShow4(d4Tab,d3Tab,d4,d3)">
+                          <img src="/images/title_button_gnkjdt.gif" width="89" height="26" id="Image4" onMouseOver="MM_swapImage('Image3','','/images/title_button_gdkjdt.gif','Image4','','/images/title_button_gnkjdt_1.gif',1)"></td>
+                          <td background="/images/title_gg_bg.gif">&nbsp;</td>
+                          <td width="99" align="right"><img src="/images/title_gg_right.gif" width="99" height="26"></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="10" align="center"></td>
+                  </tr>
+                  <tr>
+                    <td align="center">
+                    <div id="d3">
+                    <table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12916890928964259797178040275226.html" target="_blank" class="main">广东携制造力强势地位 挺进新能源产业马力十足</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/1291689093053-8540391161759179470.html" target="_blank" class="main">惠州出台政策扶持民营企业发展 投资领域不设限</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12916890930912911502056205384540.html" target="_blank" class="main">深圳宝安力推高端产业项目 签下855亿元大单</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12916224340142039024495343407839.html" target="_blank" class="main">新能源产业：广东“抢跑”夺得转型先机</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12916224341206383990462156919113.html" target="_blank" class="main">广东十大创新企业评选活动揭晓 深圳四企业入选</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12916224341607924075664840544489.html" target="_blank" class="main">广州信息科技经验载入亚运史册　创造有形精彩</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/1291358518416-3813356006883272645.html" target="_blank" class="main">韶关市液压油缸特色产业基地热处理中心、表面处理中心成立</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gdkjdt/12913585184597893082004617286101.html" target="_blank" class="main">广州市召开2010年度科技奖励申报动员暨座谈会议</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="20" align="right" valign="bottom"><a href="/kjdt/gdkjdt/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                    </div>
+                    <div id="d4" style="display:none;">
+                    <table width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/1291688780773-2955510683409188271.html" target="_blank" class="main">钟南山等10人获"十佳全国优秀科技工作者"称号</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/1291688780812-2282394262391705582.html" target="_blank" class="main">我国人工三倍体育种技术 选育出扦插桑树新品种</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/1291688780852-8634828577438287524.html" target="_blank" class="main">我国建成世界先进的作物基因资源研究技术平台</a></td><td width="80" align="right" class="gray">(2010-12-07)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/12916225269122555878477213078579.html" target="_blank" class="main">胡锦涛：总结上海世博会经验 弘扬上海世博会精神</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/12916225269446834282715192024600.html" target="_blank" class="main">十二五期间 科技部将支持农业信息智能服务研究</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/1291622526975-6230524684498167368.html" target="_blank" class="main">北京亦庄成为我国“首批太阳能光伏发电示范区”</a></td><td width="80" align="right" class="gray">(2010-12-06)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/12913453794029045089191416157005.html" target="_blank" class="main">我国“十二五”将促进海洋资源环境可持续利用</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+<tr><td align="center"><table width="98%" border="0" cellpadding="0" cellspacing="0" class="p12"><tr><td width="13" height="23" align="left"><img src="/images/icon_list_index.gif" width="3" height="5"></td><td><a href="/HTML/kjdt/gnkjdt/12913453794408328610122568289735.html" target="_blank" class="main">我国学者首揭示心房颤动新机理 已锁定相关靶点</a></td><td width="80" align="right" class="gray">(2010-12-03)</td></tr></table></td></tr><tr><td><img src="/images/line_center.gif" width="442" height="1"></td></tr>
+                      <tr>
+                        <td align="center">
+                        <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="20" align="right" valign="bottom"><a href="/kjdt/gnkjdt/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                    </div>                    </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+            </tr></table>
+            </td>
+          </tr>
+          <tr><td height="150" align="center"><table width="768" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="665" align="center" valign="top" background="/images/bg_kjsp_index.gif">
+              <table width="97%" border="0" cellspacing="0" cellpadding="0">
+              <tr><td height="13"></td>
+              </tr>
+              <tr><td>
+              		<div id=demo style=overflow:hidden;height:124;width:660;>
+		<table border=0 cellpadding=0 cellspacing="0" cellspace=0 bgcolor="#FFFFFF">
+		<tr>
+		<td id=demo1>
+		<table width="90%" border="0" cellpadding="0" cellspacing="0"><tr>
+<td><table border="0" cellpadding="0" cellspacing="3"><tr><td><a href="/HTML/kjbd/kjsp/1291190398353-7992050852045245921.html" title="省科技厅与珠海市政府签约共建“绿色照明示范城市”" target="_blank"><img src="/msg/image/zwxw/2010/11/20101129ghc00.jpg" width="130" height="80" border="0"></a></td></tr><tr><td class="p12"><a href="/HTML/kjbd/kjsp/1291190398353-7992050852045245921.html" target="_blank" class="main" title="省科技厅与珠海市政府签约共建“绿色照明示范城市”" target="_blank">省科技厅与珠海市政府...</a></td></tr></table></td>
+<td><table border="0" cellpadding="0" cellspacing="3"><tr><td><a href="/HTML/kjbd/kjsp/12899656847958722878343260517856.html" title="2010年度广东省科学技术奖评审委员会评审工作会议召开" target="_blank"><img src="http://www.gdstc.gov.cn/msg/image/zwxw/2010/11/20101116kgc00.jpg" width="130" height="80" border="0"></a></td></tr><tr><td class="p12"><a href="/HTML/kjbd/kjsp/12899656847958722878343260517856.html" target="_blank" class="main" title="2010年度广东省科学技术奖评审委员会评审工作会议召开" target="_blank">2010年度广东省科...</a></td></tr></table></td>
+<td><table border="0" cellpadding="0" cellspacing="3"><tr><td><a href="/HTML/kjbd/kjsp/1289889481146-1521110983283617710.html" title="省科技厅与株式会社日本综合研究所签约共同推动广东省节能减排科技服务业" target="_blank"><img src="http://www.gdstc.gov.cn/msg/image/zwxw/2010/11/2010111003ghc00.jpg" width="130" height="80" border="0"></a></td></tr><tr><td class="p12"><a href="/HTML/kjbd/kjsp/1289889481146-1521110983283617710.html" target="_blank" class="main" title="省科技厅与株式会社日本综合研究所签约共同推动广东省节能减排科技服务业" target="_blank">省科技厅与株式会社日...</a></td></tr></table></td>
+<td><table border="0" cellpadding="0" cellspacing="3"><tr><td><a href="/HTML/kjbd/kjsp/12893799351655448744908007060724.html" title="广东省科技厅：全省科技金融工作会议在东莞召开" target="_blank"><img src="http://www.gdstc.gov.cn/msg/image/zwxw/2010/11/2010111001ghc00.jpg" width="130" height="80" border="0"></a></td></tr><tr><td class="p12"><a href="/HTML/kjbd/kjsp/12893799351655448744908007060724.html" target="_blank" class="main" title="广东省科技厅：全省科技金融工作会议在东莞召开" target="_blank">广东省科技厅：全省科...</a></td></tr></table></td>
+<td><table border="0" cellpadding="0" cellspacing="3"><tr><td><a href="/HTML/kjbd/kjsp/12899656857032272851373356978362.html" title="张明副厅长、刘庆茂副巡视员出席中国科技资源共享网加盟工作研讨会" target="_blank"><img src="http://www.gdstc.gov.cn/msg/image/zwxw/2010/11/20101110tcc00.jpg" width="130" height="80" border="0"></a></td></tr><tr><td class="p12"><a href="/HTML/kjbd/kjsp/12899656857032272851373356978362.html" target="_blank" class="main" title="张明副厅长、刘庆茂副巡视员出席中国科技资源共享网加盟工作研讨会" target="_blank">张明副厅长、刘庆茂副...</a></td></tr></table></td>
+		</tr>
+        </table>
+		</td>
+  <td height="112" valign=top id=demo2></td>
+  </tr>
+  </table>
+  </div></td></tr></table>
+<script>
+  var speed=18
+  demo2.innerHTML=demo1.innerHTML
+  function Marquee(){
+  if(demo2.offsetWidth-demo.scrollLeft<=0)
+  demo.scrollLeft-=demo1.offsetWidth
+  else{
+  demo.scrollLeft++
+  }
+  }
+  var MyMar=setInterval(Marquee,speed)
+  demo.onmouseover=function() {clearInterval(MyMar)}
+  demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
+</script>
+              </td>
+              <td width="103"><a href="/kjbd/kjsp/index@1.htm"><img src="/images/title_kjsp_index.gif" width="103" height="138" border="0"></a></td>
+            </tr>
+          </table></td>
+          </tr>
+          <tr><td height="303" align="center" valign="top"><table width="768" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="320" height="295" align="center" valign="top" background="/images/bg_hdlm_index1.gif"><table width="86%" border="0" cellspacing="0" cellpadding="0" class="p14">
+                <tr>
+                  <td height="70">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td valign="bottom"><a href="/main/gzhd_tzxx.html" class="main">厅长信箱</a> / <a href="/main/gzhd_gzyjx.html" class="main">公众意见箱</a> / <a href="/main/gzhd_kycxjbxx.html" class="main">科研诚信举报信箱</a></td>
+                </tr>
+                <tr>
+                  <td height="66" valign="bottom"><a href="/main/gzhd_lyb.html" class="main">留言板</a> / <a href="/gzhd/zxft/index@1.htm" class="main">在线访谈</a> / <a href="/gzhd/lt/index@1.htm" class="main">论坛</a></td>
+                </tr>
+                <tr>
+                  <td height="66" valign="bottom"><a href="mailto:gdskjthp@163.com" class="main">政风行风邮箱</a> / 投诉电话：<span class="red">020-83548219</span></td>
+                </tr>
+                <tr>
+                  <td height="66" valign="bottom"><a href="/main/gzhd_wsdc.html" class="main">调查问卷</a> / <a href="/main/gzhd_wsdc.html" class="main">意见征集</a></td>
+                </tr>
+              </table></td>
+              <td width="448" align="center" valign="top" background="/images/bg_hdlm_index2.gif"><table width="436" border="0" cellspacing="0" cellpadding="0" class="p14">
+                <tr>
+                  <td height="70">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td valign="bottom">
+                  <table width="64%" border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="right">
+                    <a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getWSWDByTypeToFront&type=1" target="_blank" class="main">业务咨询</a> / <a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getWSWDByTypeToFront&type=2" target="_blank" class="main">政务咨询</a> / <a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getWSWDByTypeToFront&type=3" target="_blank" class="main">提出意见</a> / <a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getWSWDByTypeToFront&type=4" target="_blank" class="main">反映问题</a>
+                    </td></tr></table>
+                    </td>
+                  </tr>
+                <tr>
+                  <td height="61" valign="bottom">
+                  <table width="52%" border="0" cellpadding="0" cellspacing="0">
+                    <tr><td align="right">
+                  <img src="/images/button_zxhf_cjwt.gif" name="Image16" width="214" height="17" border="0" usemap="#Map4" id="Image16"></td>
+                    </tr></table>
+                  </td>
+                  </tr>
+                <tr>
+                  <td align="left">
+                  <table id="q1" width="429" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td valign="top" align="center" height="141" background="/images/bg_zxhf_cjwt.gif">
+                      <table  width="92%" cellpadding="0" cellspacing="0" class="p12">
+                      <tr><td align="left" height="30"></td></tr>
+<tr><td align="left" height="22"><a href="/HTML/cjwt/1253499562104-8165551892929482629.html" target="_blank" class="main">申请实验动物生产和使用许可需要提交什么材料？</a><span class="gray">(2010-09-21)</span></td></tr>
+<tr><td align="left" height="22"><a href="/HTML/cjwt/1253499562019-1154422180960149830.html" target="_blank" class="main">设立实验动物生产和使用许可需要具备的条件？</a><span class="gray">(2010-09-21)</span></td></tr>
+<tr><td align="left" height="22"><a href="/HTML/cjwt/12531743189881597499643980439167.html" target="_blank" class="main">设立行政许可的法律依据？</a><span class="gray">(2010-08-02)</span></td></tr>
+<tr><td align="left" height="22"><a href="/HTML/cjwt/1253499562329-7898561456537064358.html" target="_blank" class="main">实验动物生产和使用许可核准设立行政许可的法律依据？</a><span class="gray">(2010-08-02)</span></td></tr>
+                      <tr>
+                        <td align="right"><a href="/cjwt/index@1.htm"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                      </tr>
+                    </table></td>
+                    </tr>
+                  </table>
+                  <table id="q2" width="429" border="0" cellspacing="0" cellpadding="0" style="display:none;">
+                    <tr>
+                      <td valign="top" align="center" height="141" background="/images/bg_zxhf_zxwt.gif">
+                      <table  width="92%" cellpadding="0" cellspacing="0" class="p12">
+                      <tr><td align="left" height="30"></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9419" target="_blank" class="main">科技成果鉴定证书初稿表格在哪里下载</a><span class="gray">(2010-12-08)</span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9418" target="_blank" class="main">技术合同登记</a><span class="gray">(2010-12-08)</span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9415" target="_blank" class="main">请问2010年省民营科技企业认定何时出结果呢？</a><span class="gray">(2010-12-03)</span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9413" target="_blank" class="main">如何办理省级科技成果鉴定申请</a><span class="gray">(2010-12-02)</span></td></tr>
+                      <tr>
+                        <td align="right"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getNewToFront"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                      </tr>
+                    </table>
+					  </td>
+                    </tr>
+					
+                  </table>
+                  <table id="q3" width="429" border="0" cellspacing="0" cellpadding="0" style="display:none;">
+                    <tr>
+                      <td valign="top" align="center" height="141" background="/images/bg_zxhf_rdwt.gif">
+                      <table  width="92%" cellpadding="0" cellspacing="0" class="p12">
+                      <tr><td align="left" height="30"></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9400" target="_blank" class="main">2010年省部产学研合作项目第二批项目何时出结果？</a><span class="gray"></span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9396" target="_blank" class="main">关于广东省重大科技专项</a><span class="gray"></span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=9399" target="_blank" class="main">如何申报《广东省绿色照明示范城市推荐采购产品目录》</a><span class="gray"></span></td></tr>
+<tr><td align="left" height="22"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=operateHD&target=dispHD&type=D&id=8834" target="_blank" class="main">关于农村科技处的课题如何申请结题验收</a><span class="gray"></span></td></tr>
+					                    
+                      <tr>
+                        <td align="right"><a href="http://hdapp.gdstc.gov.cn/front/hdFrontAction.do?action_method=getHot&type=week"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                      </tr>
+                    </table>
+					  </td>
+                    </tr>
+                  </table>                  </td>
+                  </tr>
+              </table></td>
+            </tr>
+          </table></td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="207" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="/images/title_zxgz.gif" width="207" height="40"></td>
+                  </tr>
+                  <tr>
+                    <td align="center" background="/images/bg_zxgz.gif">
+                    
+                    <DIV id=icefable1 style="WIDTH: 100px; margin-left: 2px; ">
+                        <table width="194" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://cxtd.gdstc.gov.cn/" target="_blank" class="main">引进创新科研团队</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="/zt/mzpyzfxf/" target="_blank" class="main">民主评议政风行风</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="/zt/3cj1bc/" target="_blank" class="main">“三促进一保持”专项</a></td>
+                          </tr>
+                          <tr>
+                            <td width="30" height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://zdkjzx.gdstc.gov.cn/" target="_blank" class="main">重大科技专项</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://cxy.gdstc.gov.cn/" target="_blank" class="main">省部产学研合作</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://pro.gdstc.gov.cn/pro/" target="_blank" class="main">科技业务管理</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.sts.gd.cn/" target="_blank" class="main">科技统计</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://gczx.gdstc.gov.cn/" target="_blank" class="main">工程中心</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.gdhitech.net/" target="_blank" class="main">高新技术产业</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://www.kjcg.gd.cn/" target="_blank" class="main">成果推广</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.kjcg.gd.cn/cgglpt/kjjl/hjgg/html/index@1.htm" target="_blank" class="main">科技奖励</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://www.ppst.gov.cn/" target="_blank" class="main">泛珠三角科技合作</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.kjqk.gd.cn/" target="_blank" class="main">科技期刊</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://gdlab.gdstc.gov.cn/" target="_blank" class="main">重点实验室</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.gdsc.cn/" target="_blank" class="main">广东科学中心</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://www.gdsti.info/" target="_blank" class="main">技术创新基金</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://www.zhyz.gov.cn/" target="_blank" class="main">专业镇技术创新</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="http://oldgdstc.gdstc.gov.cn/science/web/jsp/soft_face/front/index.jsp" target="_blank" class="main">软科学研究</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="/cxzt/mykj/mkzc/index@1.htm" class="main">民营科技</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="ededed"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="ededed"><a href="/zxgz/kpzc/kpdt/index@1.htm" class="main">科普之窗</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td><a href="http://oldgdstc.gdstc.gov.cn/dqzs/index.html" target="_blank" class="main">党建纪检</a></td>
+                          </tr>
+                          <tr>
+                            <td height="26" align="center" bgcolor="#EDEDED"><img src="/images/icon_zxgz.gif" width="15" height="15"></td>
+                            <td bgcolor="#EDEDED"><a href="http://gdsf.gdstc.gov.cn/ziran/" target="_blank" class="main">省自然科学基金</a></td>
+                          </tr>
+                          </table>
+                      </div>
+<DIV id=icefable2 style="Z-INDEX: 1; VISIBILITY: hidden; POSITION: absolute; bottom:-200px;"></DIV>
+<script>
+marqueesHeight=230; stopscroll=false; icefable1.scrollTop=0; 
+
+with(icefable1){ style.width=0; style.height=marqueesHeight; style.overflowX="visible"; style.overflowY="hidden"; noWrap=true; onmouseover=new Function("stopscroll=true"); onmouseout=new Function("stopscroll=false"); }
+
+preTop=0; currentTop=0; stoptime=0;
+
+function init_srolltext(){ icefable2.innerHTML=""; icefable2.innerHTML+=icefable1.innerHTML; icefable1.innerHTML=icefable2.innerHTML+icefable2.innerHTML; setInterval("scrollUp()",90); }
+
+function scrollUp(){ if(stopscroll==true) return; currentTop+=1; if(currentTop==81) { stoptime+=1; currentTop-=1; if(stoptime==1) { currentTop=0; stoptime=0; } } else { preTop=icefable1.scrollTop; icefable1.scrollTop+=1; if(preTop==icefable1.scrollTop){ icefable1.scrollTop=icefable2.offsetHeight-marqueesHeight; icefable1.scrollTop+=1; } } }
+
+init_srolltext();
+</script></td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/tail_zxgz.gif" width="207" height="10"></td>
+                  </tr>
+                  <tr>
+                    <td height="3"></td>
+                  </tr>
+                </table></td>
+                <td align="center" valign="top"><table width="90%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td height="112" align="center" valign="top"><img src="/images/title_bmfw_index.gif" width="558" height="106" border="0" usemap="#Map3"></td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/title_cxfw.gif" width="567" height="29"></td>
+                  </tr>
+                  <tr>
+                    <td height="130" align="center" background="/images/bg_cxfw.gif"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="80" height="100" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td height="28" align="center" valign="top" id="cl_1Tab" onClick="tabShow4(cl_1Tab,cl_2Tab,cl_1,cl_2)"><img src="/images/button_cxfw_tjcx_1.gif" name="Image7" width="71" height="23" id="Image7" onClick="MM_swapImage('Image12','','images/button_cxfw_rkxcg.gif','Image6','','images/button_cxfw_zwcx.gif','Image10','','images/button_cxfw_kjcbw.gif','Image7','','images/button_cxfw_tjcx_1.gif','Image9','','images/button_cxfw_cgcx.gif','Image11','','images/button_cxfw_zcfg.gif','Image8','','images/button_cxfw_jlcx.gif',1)"></td>
+                                </tr>
+                              <tr>
+                                <td height="28" align="center" valign="top"><a href="http://www.kjcg.gd.cn/xxfbpt/cgcx.htm" target="_blank"><img src="/images/button_cxfw_cgcx42.gif" name="Image9" width="71" height="23" border="0" id="Image9"></a></td>
+                                </tr>
+                              <tr>
+                                <td height="28" align="center" valign="top" id="cl_2Tab" onClick="tabShow4(cl_2Tab,cl_1Tab,cl_2,cl_1)"><img src="/images/button_cxfw_zcfg.gif" name="Image11" width="71" height="23" id="Image11" onClick="MM_swapImage('Image12','','images/button_cxfw_rkxcg.gif','Image6','','images/button_cxfw_zwcx.gif','Image10','','images/button_cxfw_kjcbw.gif','Image7','','images/button_cxfw_tjcx.gif','Image9','','images/button_cxfw_cgcx.gif','Image11','','images/button_cxfw_zcfg_1.gif','Image8','','images/button_cxfw_jlcx.gif',1)"></td>
+                                </tr>
+                            </table></td>
+                          </tr>
+                        </table></td>
+                        <td align="right" valign="top">
+                        <div id="cl_1">
+                        <table width="98%" border="0" cellpadding="0" cellspacing="0" class="p14">
+                          <tr>
+                            <td width="10" bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left" bgcolor="#EBEBEB"><a href="http://www.sts.gd.cn/list.asp?ClassID=3" target="_blank" class="main">科学技术活动概况</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left"><a href="http://www.sts.gd.cn/list.asp?ClassID=4" target="_blank" class="main">科学研究与试验活动</a></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left" bgcolor="#EBEBEB"><a href="http://www.sts.gd.cn/list.asp?ClassID=5" target="_blank" class="main">科技投入</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left" valign="bottom"><a href="http://www.sts.gd.cn/list.asp?ClassID=32" target="_blank" class="main">科技产出</a></td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                            <td height="23" align="right" valign="bottom"><a href="/main/kjfw_cxfw_tj.html"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table>
+                        </div>   
+                        <div id="cl_2" style="display:none;">
+                        <table width="97%" border="0" cellpadding="0" cellspacing="0" class="p14">
+                          <tr>
+                            <td width="10" bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left" bgcolor="#EBEBEB"><a href="/zwgk/zcfg/gjzcfg/index@1.htm" class="main">国家政策法规</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left"><a href="/zwgk/zcfg/sfggz/index@1.htm" class="main">省法规规章</a></td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left" bgcolor="#EBEBEB"><a href="/zwgk/zcfg/swszfzc/index@1.htm" class="main">省委省政府政策</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                            <td height="23" align="left"><a href="/zwgk/zcfg/bmgfwj/index@1.htm" class="main">部门规范文件</a></td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                            <td height="23" align="right" valign="bottom"><a href="http://pubaux.gdstc.gov.cn/searchClassicClass?selectClass=zcfg" target="_blank"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                          </tr>
+                        </table>
+                        </div>                        </td>
+                        <td width="80" valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="28" align="center" valign="top" id="cr_1Tab" onClick="tabShow4(cr_1Tab,cr_2Tab,cr_1,cr_2)"><img src="/images/button_cxfw_zwcx_1.gif" name="Image17" width="71" height="23" id="Image17" onClick="MM_swapImage('Image17','','images/button_cxfw_zwcx_1.gif','Image21','','images/button_cxfw_kjcbw.gif',1)"></td>
+                          </tr>
+                          <tr>
+                            <td height="28" align="center" valign="top"><a href="http://www.kjcg.gd.cn/cgglpt/kjjl/hjgg/html/index@1.htm" target="_blank"><img src="/images/button_cxfw_jlcx.gif" name="Image8" width="71" height="23" border="0" id="Image19"></a></td>
+                          </tr>
+                          <tr>
+                            <td height="28" align="center" valign="top" id="cr_2Tab" onClick="tabShow4(cr_2Tab,cr_1Tab,cr_2,cr_1)"><img src="/images/button_cxfw_kjcbw.gif" name="Image21" width="71" height="23" id="Image21" onClick="MM_swapImage('Image17','','images/button_cxfw_zwcx.gif','Image21','','images/button_cxfw_kjcbw_1.gif',1)"></td>
+                          </tr>
+                        </table></td>
+                        <td align="right" valign="top">
+                        <div id="cr_1">
+                          <table width="98%" border="0" cellpadding="0" cellspacing="0" class="p14">
+                            <tr>
+                              <td width="10" bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left" bgcolor="#EBEBEB"><a href="/zwgk/tzgg/index@1.htm" class="main">通知公告</a></td>
+                            </tr>
+                            <tr>
+                              <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left"><a href="/zwgk/spgg/index@1.htm" class="main">审批公告</a></td>
+                            </tr>
+                            <tr>
+                              <td bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left" bgcolor="#EBEBEB"><a href="/ykgk/dsj/index@1.htm" class="main">科技厅大事记</a></td>
+                            </tr>
+                            <tr>
+                              <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left" valign="bottom"><a href="/zwgk/zwyw/index@1.htm" class="main">政务动态</a></td>
+                            </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td height="23" align="right" valign="bottom"><a href="http://pubaux.gdstc.gov.cn/searchClassicClass?selectClass=tzgg" target="_blank"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                            </tr>
+                          </table>
+                        </div>
+                        <div id="cr_2" style="display:none;">
+                          <table width="97%" border="0" cellpadding="0" cellspacing="0" class="p14">
+                            <tr>
+                              <td width="10" bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left" bgcolor="#EBEBEB"><a href="/main/ykgk_gdkjnj.html" class="main">广东科技年鉴</a></td>
+                            </tr>
+                            <tr>
+                              <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left"><a href="http://oldgdstc.gdstc.gov.cn/kjfw/kpzc/gdkptx.html" class="main" target="_blank">广东科普通讯</a></td>
+                            </tr>
+                            <tr>
+                              <td bgcolor="#EBEBEB"><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left" bgcolor="#EBEBEB"><a href="http://oldgdstc.gdstc.gov.cn/zhengce/low1996.htm" class="main" target="_blank">广东科技政策法规（1991-1996）</a></td>
+                            </tr>
+                            <tr>
+                              <td><img src="/images/icon_list_index.gif" width="3" height="5"></td>
+                              <td height="23" align="left"><a href="http://oldgdstc.gdstc.gov.cn/zhengce/low2000.htm" class="main" target="_blank">广东科技政策法规（1997-2000）</a></td>
+                            </tr>
+                            <tr>
+                              <td>&nbsp;</td>
+                              <td height="23" align="right" valign="bottom"><a href="/main/kjfw_cxfw_cbw.html"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+                            </tr>
+                          </table>
+                        </div>
+                        </td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/tail_cxfw.gif" width="567" height="10"></td>
+                  </tr>
+                </table></td>
+              </tr>
+              
+            </table></td>
+          </tr>
+          
+        </table></td>
+        <td width="209" height="1060" align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/bg_right.gif">
+          <tr>
+            <td align="center"><img src="/images/title_jgsz_index.gif" width="209" height="24"></td>
+          </tr>
+          <tr>
+            <td height="80" align="center"><table width="80%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="right"><img src="/images/icon_jgzn_index.gif" width="10" height="10"></td>
+                <td align="center"><a href="/main/zwgk_jgsz_jgzn.html" class="main">机构职能</a></td>
+                <td align="right"><img src="/images/icon_jgzn_index.gif" width="10" height="10"></td>
+                <td align="center"><a href="/main/zwgk_jgsz_tld.html" class="main">领导之窗</a></td>
+              </tr>
+              <tr>
+                <td align="right"><img src="/images/icon_jgzn_index.gif" width="10" height="10"></td>
+                <td align="center"><a href="/main/zwgk_jgsz_nsjg.html" class="main">内设部门</a></td>
+                <td align="right"><img src="/images/icon_jgzn_index.gif" width="10" height="10"></td>
+                <td align="center"><a href="http://www.gdstc.gov.cn/HTML/zwgk/jgsz/nsjg/12850627481116088984371086172140.html" target="_blank" class="main">派驻机构</a></td>
+              </tr>
+              <tr>
+                <td align="right"><img src="/images/icon_jgzn_index.gif" width="10" height="10"></td>
+                <td align="center"><a href="/main/zwgk_jgsz_xsdw.html" class="main">直属单位</a></td>
+                <td align="right">&nbsp;</td>
+                <td align="center">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><img src="/images/title_kjjhlxxmgk.gif" width="209" height="22"></td>
+          </tr>
+          <tr>
+            <td align="center" height="110"><table width="80%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="padding-top:4px;">
+				<marquee onMouseOver="this.stop();" onMouseOut="this.start();" scrollamount="1" direction="up" height="100" >
+
+					<div style="font-size:12px; line-height:180%; margin-bottom:10px;">分子微电解技术在DDNP废水处理中的应用研究<br>
+					</div>
+					
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">基于数据仓库与OLAP的主动式粤通卡客服及精准营销体系<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">面向电子政务及企业信息系统网络终端信息安全质量评价与测试的研究与实现<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">降低膳食性高脂血症家庭聚集风险的研究<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">面向内外网单向信息交换的安全传输设备研制<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">TORCH时间分辨荧光免疫分析试剂盒的研制及产业化<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">医护人员乳胶过敏发生率及其危险因素的研究<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">物联网关键技术支撑系统—基于SAAS在线网络测试平台<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">TOP2003智能家居控制系统<br>
+					</div>
+					
+					<div  style="font-size:12px; line-height:180%; margin-bottom:10px;">新型平板显示产业情报与决策支持服务软件平台<br>
+					</div>
+					
+					
+					</marquee>
+				</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="right"><div style="margin-right:22px;padding:10"><a href="http://gonggao.gdstc.gov.cn/itemListAction.do?method=Item_List_Data" target="_blank"><img src="/images/button_more.gif" border="0"></a></div></td>
+          </tr>
+          <tr>
+            <td><img src="/images/title_kjywbliqkcx.gif" width="209" height="22"></td>
+          </tr>
+          <tr>
+            <td align="center" height="104"><table width="93%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="font-size:12px">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过广东省科技业务综合管理系统(网址:http://pro.gdstc.gov.cn)办理的业务，请以本人帐号登录系统查询。<a class="main" href="http://pro.gdstc.gov.cn" target="_blank"><img src="/images/btn_29SD9S.gif" width="68" height="20" border="0"></a></td>
+  </tr>
+</table>
+</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/images/title_kstd_index.gif" width="209" height="22"></td>
+          </tr>
+          <tr>
+            <td height="90" align="center"><table width="90%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="23" align="right"><img src="/images/icon_kstd.gif" width="13" height="13"></td>
+                <td align="left"><a href="http://pubaux.gdstc.gov.cn/apply/select.jsp" target="_blank" class="main">依申请公开查询</a></td>
+                </tr>
+              <tr>
+                <td colspan="2" align="center"><img src="/images/line_kstd_index.gif" width="169" height="1"></td>
+                </tr>
+              <tr>
+                <td height="23" align="right"><img src="/images/icon_kstd.gif" width="13" height="13"></td>
+                <td align="left"><a href="http://www.kjcg.gd.cn/cgglpt/kjjl/hjgg/html/index@1.htm" target="_blank" class="main">历年获奖项目查询</a></td>
+                </tr>
+              <tr>
+                <td colspan="2" align="center"><img src="/images/line_kstd_index.gif" width="169" height="1"></td>
+                </tr>
+              <tr>
+                <td height="23" align="right"><img src="/images/icon_kstd.gif" width="13" height="13"></td>
+                <td align="left"><a href="/main/cjsfw.html" class="main">场景式服务</a></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/images/title_kjnj.gif" width="209" height="22"></td>
+          </tr>
+          <tr>
+            <td height="80" align="center"><table width="88%" border="0" cellpadding="0" cellspacing="0" class="p12">
+              <tr>
+                <td class="gray"><a href="http://www.sti.gd.cn/almanac/GDKJNJ2009.pdf" target="_blank" class="main">2009年</a> <a href="http://www.sti.gd.cn/almanac/GDKJNJ2008.pdf" target="_blank" class="main">2008年</a> <a href="http://www.sti.gd.cn/almanac/2007/GDKJNJ2007.pdf" target="_blank" class="main">2007年</a> <a href="http://www.sti.gd.cn/almanac/2006/GDKJNJ2006.pdf" target="_blank" class="main">2006年</a> <a href="http://www.sti.gd.cn/almanac/2005/GDKJNJ2005.pdf" target="_blank" class="main">2005年</a> <a href="http://www.sti.gd.cn/almanac/2004/GDKJNJ2004.pdf" class="main">2004年</a> <a href="http://www.sti.gd.cn/almanac/2003/GDKJNJ2003.pdf" target="_blank" class="main">2003年</a> <a href="http://www.sti.gd.cn/almanac/2002/gdkjnj2002.pdf" target="_blank" class="main">2002年</a> <a href="http://www.sti.gd.cn/almanac/2000/kjnj2000.zip" target="_blank" class="main">2000年</a> 2001年（<a href="http://www.sti.gd.cn/almanac/2001/gdkjnj2001.pdf" target="_blank" class="main">一</a>/<a href="http://www.sti.gd.cn/almanac/2001/gdkjnj2001_I.pdf" target="_blank" class="main">二</a>/<a href="http://www.sti.gd.cn/almanac/2001/gdkjnj2001_II.pdf" target="_blank" class="main">三</a>/<a href="http://www.sti.gd.cn/almanac/2001/gdkjnj2001_III.pdf" target="_blank" class="main">四</a>/<a href="http://www.sti.gd.cn/almanac/2001/gdkjnj2001_IV.pdf" target="_blank" class="main">五</a>）</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+		  <script language="JavaScript"> 
+
+function AddDomain() {
+	var t=Math.random() * 100000000;
+	document.login.action=document.login.action+"?token="+t;
+  if(document.login.LoginName.value.indexOf("@") == -1)
+        document.login.LoginName.value = document.login.LoginName.value + "@" + document.login.domain.value;
+}
+
+</script>
+                    <form method="post" action="http://mail.gdstc.gov.cn/remote.php" name="login" onSubmit="AddDomain();">
+            <td height="110" align="center" valign="top" background="/images/bg_email.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td height="70" align="right" valign="bottom">
+                      <table width="90%" border="0" cellpadding="0" cellspacing="0" class="p12">
+                      <tr>
+                        <td align="right" class="white">帐　号：</td>
+                        <td><input name="LoginName" type="text" class="input1" size="12"><input name="domain" type=hidden value=gdstc.gov.cn></td>
+                      </tr>
+                      <tr>
+                        <td align="right" class="white">密　码：</td>
+                        <td><input name="Password" type="password" class="input1" size="14"></td>
+                      </tr>
+                      <tr>
+                        <td align="right" class="white">验证码：</td>
+                        <td><input  type="text" class="input1" id="input_1"  onclick="" size="2"/>
+                        	 <input type="text" class="input1"  id="checkCode" style="width: 36px" readonly />                        	</td>
+                      </tr>
+                    </table></td>
+                    <td width="68" align="right" valign="top"><img src="/images/title_email.gif" width="62" height="67"></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="10" align="center"><img src="/images/line_email.gif" width="184" height="1"></td>
+              </tr>
+              <tr>
+                <td align="center"><table width="89%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center"><input type="image" src="/images/button_login.gif"></td>
+                    </tr>
+                </table></td>  
+              </tr>
+            </table></td>
+            </form>
+          </tr>
+          <tr>
+            <td height="1"></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="/images/title_ztzl_index.gif" width="209" height="23"></td>
+          </tr>
+          <tr>
+            <td height="200" align="center"><table width="86%" border="0" cellpadding="0" cellspacing="0" class="p12">
+              <tr>
+                <td>
+                  - <A href="http://tech.southcn.com/t/node_196551.htm" target="_blank" class="main">我省实验动物进入法制化管理新阶段</A><br>
+				  - <A href="http://www.southcn.com/jsfw/zt/kxfzcxgd/vote/node_197391.htm" target="_blank" class="main">“广东十大创新企业”和“广东十大创新人物”评选</A><br>
+				  - <A href="/zt/gdskjtfpjkw/" target="_blank" class="main">广东扶贫济困日活动专栏</A><br>
+                  - <A href="http://tech.southcn.com/t/node_192232.htm" target="_blank" class="main">广东省重点实验室建设25周年</A><br>
+                  - <A href="/zt/2010kjhdy/" target="_blank" class="main">2010科技活动月</A><br>
+                  - <a href="/zt/2010fzjzr/" target="_blank" class="main">2010年全国防灾减灾日</a><br>
+                 
+              </tr>
+              <tr>
+                <td height="15" align="right" valign="bottom"><a href="/main/ztzl.html"><img src="/images/button_more.gif" width="30" height="11" border="0"></a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="308" align="center"><table width="80%" border="0" cellspacing="2" cellpadding="0">
+              <tr>
+                <td><a href="http://tpy.gdstc.gov.cn/userlogin.aspx" target="_blank"><img src="/images/banner_kjtpyxtdl.jpg" width="160" height="45" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.gdsc.cn" target="_blank"><img src="/images/banner_gdsc_12672.gif" width="160" height="40" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.gdcct.gov.cn/" target="_blank"><img src="/images/banner_ztc.gif" width="160" height="47" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.scten.com/" target="_blank"><img src="/images/banner_hnjsjyw.gif" width="160" height="48" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.sti.gd.cn/" target="_blank"><img src="/images/banner_gdjkw.gif" width="160" height="37" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.most.cn/" target="_blank"><img src="/images/banner_kjb.gif" width="160" height="36" border="0"></a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.kjzj.gov.cn/" target="_blank"><img src="/images/banner_kjzj.jpg" width="160" height="36" border="0"></a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="1" bgcolor="dddddd"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="2" colspan="2" align="center"></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="/images/title_kjwz.gif" width="987" height="29"></td>
+          </tr>
+          <tr>
+            <td align="center" background="images/bg_kjwz.gif"><table width="96%"  border="0" cellpadding="0" cellspacing="3" class="p12_l22">
+              <tr>
+                <td align="left"><a href="http://zdkjzx.gdstc.gov.cn/" target="_blank" class="main">广东重大科技专项信息网</a></td>
+                <td align="left"><a href="http://gczx.gdstc.gov.cn/" target="_blank" class="main">广东工程技术研究开发中心</a></td>
+                <td align="left"><a href="http://www.gdcct.gov.cn" target="_blank"></a><a href="http://www.stifg.gd.cn" target="_blank" class="main">广东科技投融资担保网</a><a href="http://www.scten.com/" target="_blank"></a></td>
+                <td align="left"><a href="http://www.gdhitech.net" target="_blank" class="main">广东高新技术产业</a><a href="http://www.scten.com/" target="_blank"></a></td>
+                <td align="left"><a href="http://gdsf.gdstc.gov.cn/" target="_blank" class="main">广东省自然科学基金</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="http://www.kjcg.gd.cn" target="_blank" class="main">广东省科技成果推广信息平台</a><a href="http://www.gdstc.org/" target="_blank"></a></td>
+                <td align="left"><a href="http://kjxm.gdstc.gov.cn/" target="_blank" class="main">广东省科技兴贸网</a></td>
+                <td align="left"><a href="http://www.ppst.gov.cn" target="_blank" class="main">泛珠三角区域科技合作网</a></td>
+                <td align="left"><a href="http://www.china-asean.gov.cn/index.jsp" target="_blank" class="main">中国东盟科技经济合作网</a></td>
+                <td align="left"><a href="http://www.kjqk.gd.cn/" target="_blank" class="main">广东科技期刊网</a><a href="http://www.sti.gd.cn/" target="_blank"></a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="http://www.gdsp.org.cn/" target="_blank" class="main">广东星火计划网</a></td>
+                <td align="left"><a href="http://gdlab.gdstc.gov.cn/" target="_blank" class="main">广东省重点实验室</a></td>
+                <td align="left"><a href="http://www.gdsc.cn/" target="_blank" class="main">广东科学中心</a></td>
+                <td align="left"><a href="http://www.lascn.net/" target="_blank" class="main">中国实验动物信息网</a></td>
+                <td align="left"><a href="http://www.med.sti.gd.cn/" target="_blank" class="main">广东省医药卫生信息网</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="http://www.gdsti.info" target="_blank" class="main">广东技术创新基金网</a></td>
+                <td align="left"><a href="http://www.zhyz.gov.cn/index.jsp" target="_blank" class="main">广东专业镇技术创新网</a></td>
+                <td align="left"><a href="http://pro.gdstc.gov.cn/" target="_blank" class="main">广东省科技业务综合管理系统<span class="STYLE1">(Hot)</span></a></td>
+                <td align="left"><a href="http://cxy.gdstc.gov.cn/" target="_blank" class="main">省部产学研合作网</a><a href="http://www.scten.com/" target="_blank"></a></td>
+                <td align="left"><a href="http://gdcas.gdstc.gov.cn" target="_blank" class="main">广东省中科院合作信息网</a></td>
+              </tr>
+
+              <tr>
+                <td align="left"><a href="http://www.gdfish.cn/" target="_blank" class="main">广东淡水鱼类资源网</a></td>
+                <td align="left"><a href="http://www.pprd.org.cn/" target="_blank" class="main">泛珠三角合作信息网</a></td>
+                <td align="left"><a href="http://www.dizhen.ac.cn" target="_blank" class="main">中国地震科普网</a></td>
+                <td align="left"><a href="http://www.southcn.com/tech/" target="_blank" class="main">南方网科技频道</a></td>
+                <td align="left"><a href="http://guangdong.stis.cn/" target="_blank" class="main">全国科技信息服务广东节点</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="http://www.newmt.net/" target="_blank" class="main">医药新技术新产品发布网</a></td>
+                <td align="left"><a href="http://tpy.gdstc.gov.cn/userlogin.aspx" target="_blank" class="main">省部企业科技特派员管理信息系统</a></td>
+                <td align="left"><a href="http://www.gdbgn.cn" target="_blank" class="main">广东省生物种质资源网</a></td>
+                <td align="left"><a href="http://www.gdkjlm.com/" target="_blank" class="main">广东-独联体国际科技合作联盟</a></td>
+                <td align="left"><a href="http://www.ste.gd.cn/index.html" target="_blank" class="main">广东省科技创新国际资源服务平台</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="/zt/gclsghgy/" target="_blank" class="main">贯彻落实《规划纲要》专题网</a></td>
+                <td align="left"><a href="http://www.gdgif.com/" target="_blank" class="main">广东绿色产业投资基金</a></td>
+                <td align="left"><a href="http://cxtd.gdstc.gov.cn/" target="_blank" class="main">广东省引进创新科研团队专项信息网</a></td>
+                <td align="left"><a href="http://mky.gdstc.gov.cn/" target="_blank" class="main">广东省民营科技园网</a></td>
+                <td align="left"><a href="http://210.75.49.20:8080/sdsp/" target="_blank" class="main">广东省科学数据共享平台</a></td>
+              </tr>
+              <tr>
+                <td align="left"><a href="http://www.gdsts.org.cn/" target="_blank" class="main">广东科技服务业信息网</a></td>
+                <td align="left">&nbsp;</td>
+                <td align="left">&nbsp;</td>
+                <td align="left">&nbsp;</td>
+                <td align="left">&nbsp;</td>
+              </tr>
+
+            </table></td>
+          </tr>
+          <tr>
+            <td><img src="/images/tail_kjwz.gif" width="987" height="10"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="38" colspan="2" align="center"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+          <form target="_blank">
+            <td align="center">
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:180 " >
+                <option selected>- 国家部委 -</option>
+                <option value=http://www.fmprc.gov.cn>外交部</option>
+                <option value=http://www.ndrc.gov.cn>发展改革委</option>
+                <!-- <option value=http://www.setc.gov.cn>国家经济贸易委员会</option> -->
+                <option value=http://www.moe.edu.cn/>教育部</option>
+                <option value=http://www.most.gov.cn/>科学技术部</option>
+                <option value=http://www.cic.gov.cn/n16/index.html>国防科学技术工业委员会信息中心</option>
+                <option value=http://www.seac.gov.cn/>国家民族事务委员会</option>
+                <option value=http://www.mps.gov.cn/>公安部</option>
+                <option value=http://www.mca.gov.cn/>民政部</option>
+                <option value=http://www.mof.gov.cn/>财政部</option>
+			   <option value=http://www.mohrss.gov.cn>人力资源和社会保障部网站</option>                
+                <option value=http://www.mlr.gov.cn/>国土资源部</option>
+                <option value=http://www.cin.gov.cn/>建设部</option>
+                <option value=http://www.china-mor.gov.cn/>铁道部</option>
+                <option value=http://www.moc.gov.cn/>交通部</option>
+                <option value=http://www.mii.gov.cn/>信息产业部</option>
+                <option value=http://www.mwr.gov.cn/>水利部</option>
+                <option value=http://www.agri.gov.cn/>农业部</option>
+                <option value=http://www.mofcom.gov.cn/>商务部</option>
+                <option value=http://www.ccnt.gov.cn/>文化部</option>
+                <option value=http://www.moh.gov.cn/>卫生部</option>
+                <option value=http://www.chinapop.gov.cn/>国家人口和计划生育委员会</option>
+                <option value=http://www.pbc.gov.cn/>中国人民银行</option>
+                <option value=http://www.audit.gov.cn/>审计署</option>
+                <option value=http://www.chinacoal.gov.cn/>国家煤炭工业局</option>
+                <option value=http://www.mei.net.cn/>国家机械工业局</option>
+                <option value=http://www.mmi.gov.cn/>国家冶金工业局</option>
+                <option value=http://www.cncic.gov.cn/>国家石化工业局</option>
+                <option value=http://www.clii.com.cn/>国家轻工业局</option>
+                <option value=http://www.ctei.gov.cn/>国家纺织工业局</option>
+                <option value=http://www.bm.cei.gov.cn/>国家建材工业局</option>
+                <option value=http://www.tobaccochina.com/>国家烟草专卖局</option>
+                <option value=http://www.atk.com.cn/>国家有色金属工业局</option>
+                <option value=http://www.safea.gov.cn/>国家外国专家局</option>
+                <option value=http://www.soa.gov.cn/>国家海洋局</option>
+                <option value=http://www.chinapost.gov.cn/>国家邮政局</option>
+                <option value=http://www.sach.gov.cn/>国家文物局</option>
+                <option value=http://www.satcm.gov.cn/>国家中医药管理局</option>
+                <option value=http://www.safe.gov.cn/>国家外汇管理局</option>
+                <option value=http://www.aqsiq.gov.cn/>国家质量监督检验检疫总局</option>
+            </select>
+            </td>
+            </form>
+            <form target="_blank">
+            <td align="center">
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:180 ">
+                <option selected>- 省政府及省直部门 -</option>
+                <option value="http://www.gd.gov.cn/">广东省人民政府办公厅</option>
+                <option value="http://www.gddpc.gov.cn/">广东省发展和改革委员会</option>
+                <option value="http://www.gdet.gov.cn/index.jsp">广东省经济和信息化委员会</option>
+                <option value="http://www.gdhed.edu.cn">广东省教育厅</option>
+                <option value="http://www.mzzjw.gd.gov.cn/">广东省民族宗教事务委员会</option>
+                <option value="http://www.gdga.gov.cn/">广东省公安厅</option>
+                <option value="http://www.gdmz.gov.cn/">广东省民政厅</option>
+                <option value="http://www.gdczt.gov.cn/">广东省财政厅</option>
+                <option value="http://www.gdrst.gov.cn">广东省人事厅</option>
+                <option value="http://www.gd.lss.gov.cn/gdlss/sy/index.htm">广东省劳动和社会保障厅</option>
+                <option value="http://www.gdlr.gov.cn/">广东省国土资源厅</option>
+                <option value="http://www.gdcic.net/">广东省建设厅</option>
+                <option value="http://www.gdcd.gov.cn/">广东省交通厅</option>
+                <option value="http://www.gdiid.gd.gov.cn/">广东省信息产业厅</option>
+                <option value="http://www.gdwater.gov.cn/">广东省水利厅</option>
+                <option value="http://www.gd.agri.gov.cn/">广东省农业厅</option>
+                <option value="http://www.gddoftec.gov.cn/index.asp">广东省对外贸易经济合作厅</option>
+                <option value="http://www.gdwht.gov.cn/">广东省文化厅</option>
+                <option value="http://www.gdwst.gov.cn/">广东省卫生厅</option>
+                <option value="http://www.gdaudit.gov.cn/">广东省审计厅</option>
+                <option value="http://www.gdltax.gov.cn/">广东省地方税务局</option>
+                <option value="http://www.gdepb.gov.cn/">广东省环保局</option>
+                <option value="http://www.rftgd.gov.cn/">广东省广播电影电视局</option>
+                <option value="http://www.gdsports.net/">广东省体育局</option>
+                <option value="http://www.gdstats.gov.cn/">广东省统计局</option>
+                <option value="http://www.gdpi.gov.cn/">广东省物价局</option>
+                <option value="http://www.gdgs.gov.cn/">广东省工商局</option>
+                <option value="http://www.xwcbj.gd.gov.cn/">广东省新闻出版局</option>
+                <option value="http://www.gdf.gov.cn/">广东省林业局</option>
+                <option value="http://www.gdofa.gov.cn">广东省海洋与渔业局</option>
+                <option value="http://www.gdqts.gov.cn/">广东省质量技术监督局</option>
+                <option value="http://www.gdda.gov.cn/">广东省食品药品监督管理局</option>
+                <option value="http://www.gdipo.gov.cn/">广东省知识产权局</option>
+                <option value="http://www.visitgd.com">广东省旅游局</option>
+            </select>            </td>
+            </form>
+            <form target="_blank">
+            <td align="center">
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:170 ">
+                <option selected>- 各省市科技管理部门 -</option>
+                <option value="http://www.bjkw.gov.cn/">北京市科委</option>
+                <option value="http://www.tstc.gov.cn/">天津市科委</option>
+                <option value="http://www.hebstd.gov.cn/">河北省科技厅</option>
+                <option value="http://www.sxinfo.gov.cn/">山西省科技厅</option>
+                <option value="http://www.nmkjt.gov.cn/">内蒙古自治区科技厅</option>
+                <option value="http://www.lninfo.gov.cn/">辽宁省科技厅</option>
+                <option value="http://kjt.jl.gov.cn/">吉林省科技厅</option>
+                <option value="http://www.hljkjt.gov.cn/">黑龙江省科技厅</option>
+                <option value="http://www.stcsm.gov.cn/">上海市科委</option>
+                <option value="http://www.jstd.gov.cn/">江苏省科技厅</option>
+                <option value="http://www.zjinfo.gov.cn/">浙江省科技厅</option>
+                <option value="http://www.ahinfo.gov.cn/">安徽省科技厅</option>
+                <option value="http://www.fjkjt.gov.cn/">福建省科技厅</option>
+                <option value="http://www.jxstc.gov.cn/">江西省科技厅</option>
+                <option value="http://www.sdstc.gov.cn">山东省科技厅</option>
+                <option value="http://www.hnkjt.gov.cn/">河南省科技厅</option>
+                <option value="http://www.hbstd.gov.cn/">湖北省科技厅</option>
+                <option value="http://www.hnst.gov.cn/">湖南省科技厅</option>
+                <option value="http://www.gxsti.net.cn">广西壮族自治区科技厅</option>
+                <option value="http://www.dost.hainan.gov.cn">海南省科技厅</option>
+                <option value="http://www.ctin.ac.cn">重庆市科委</option>
+                <option value="http://www.scst.gov.cn/info/index.jsp">四川省科技厅</option>
+                <option value="http://kjt.gzst.gov.cn/">贵州省科技厅</option>
+                <option value="http://www.ynstc.gov.cn/">云南省科技厅</option>
+                <option value="http://www.tibetsti.gov.cn/">西藏自治区科技厅</option>
+                <option value="http://www.sninfo.gov.cn">陕西省科技厅</option>
+                <option value="http://www.gsstc.gov.cn/">甘肃省科技厅</option>
+                <option value="http://www.nxkjt.gov.cn/">宁夏回族自治区科技厅</option>
+                <option value="http://www.qhinfo.net/">青海省科技厅</option>
+                <option value="http://www.xjkjt.gov.cn/">新疆维吾尔自治区科技厅</option>
+                <option value="http://www.itc.gov.hk/gb/welcome.htm">香港</option>
+                <option value="http://www.cct.org.mo/gb/index.asp">澳门</option>
+                <option value="">台湾</option>
+            </select>            </td>
+            </form>
+            <form target="_blank">
+            <td align="center">
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:150">
+                <option selected>- 金科网及地市科技局 -</option>
+                <option value="http://www.sti.gd.cn">省金科</option>
+                <option value="http://www.gdas.ac.cn">科学院分中心</option>
+                <option value="http://www.sta.gd.cn">省科协</option>
+                <option value="http://www.med.sti.gd.cn/">省医卫</option>
+                <option value="http://www.gzkj.gov.cn">- 广州科技网 -</option>
+                <option value="http://www.yxst.gov.cn/">&nbsp;&nbsp;越秀区</option>
+                <option value="http://www.thst.gov.cn">&nbsp;&nbsp;天河区</option>
+                <option value="http://www.hzkjj.gov.cn">&nbsp;&nbsp;海珠区</option>
+                <option value="http://www.gzbykj.gov.cn">&nbsp;&nbsp;白云区</option>
+                <option value="http://www.kjj.hp.gov.cn">&nbsp;&nbsp;黄埔区</option>
+                <option value="http://keji.panyu.gov.cn">&nbsp;&nbsp;番禺区</option>
+                <option value="http://www.hdst.gov.cn/">&nbsp;&nbsp;花都区</option>
+                <option value="http://www.zcst.gov.cn">&nbsp;&nbsp;增城市</option>
+                <option value="http://www.szsti.net">- 深圳科技网 -</option>
+                <!--<option value="http://www.szftkjj.net">&nbsp;&nbsp;福田区</option>-->
+                <option value="http://www.szns.gov.cn/kjj/">&nbsp;&nbsp;南山区</option>
+                <option value="http://www.bast.gov.cn">&nbsp;&nbsp;宝安区</option>
+                <option value="http://61.144.224.177:8080/">&nbsp;&nbsp;龙岗区</option>
+                <option value="http://www.yantian.com.cn">&nbsp;&nbsp;盐田区</option>
+                <option value="http://www.zhsti.net/">- 珠海科技网 -</option>
+                <option value="http://www.doumen.gov.cn">&nbsp;&nbsp;斗门区</option>
+                <option value="http://www.shantou.net.cn">- 汕头科技网 -</option>
+                <option value="http://www.stlhkj.gov.cn/">&nbsp;&nbsp;龙湖区</option>
+                <option value="http://www.haojiangkj.net/">&nbsp;&nbsp;濠江区</option>
+                <option value="http://www.chenghai.net.cn">&nbsp;&nbsp;澄海区</option>
+                <option value="http://www.stcnkj.org/index.asp">&nbsp;&nbsp;潮南区</option>
+                <option value="http://www.jpmykjy.net.cn">&nbsp;&nbsp;金平区</option>
+                <option value="http://www.fskw.gov.cn">- 佛山科技网 -</option>
+                <option value="http://www.efoshan.com">- 佛山金科网 -</option>
+                <option value="http://kjj.chancheng.gov.cn">&nbsp;&nbsp;禅城区</option>
+                <option value="http://www.sdkj.gov.cn">&nbsp;&nbsp;顺德市</option>
+                <option value="http://kjj.gaoming.gov.cn">&nbsp;&nbsp;高明区</option>
+                <option value="http://kjj.ss.gov.cn/kjj/">&nbsp;&nbsp;三水区</option>
+                <option value="http://keji.nanhai.gov.cn">&nbsp;&nbsp;南海区</option>
+                <option value="http://www.shaoguan.com.cn">- 韶关科技网 -</option>
+                <option value="http://www.shaoguan.net/">- 韶关金科网 -</option>
+                <option value="http://www.nxsti.gd.cn/">&nbsp;&nbsp;南雄区</option>
+                <option value="http://www.ruyuan.gov.cn/">&nbsp;&nbsp;乳源县</option>
+                <option value="http://www.gdwykj.com/">&nbsp;&nbsp;翁源区</option>
+                <option value="http://www.sgzjsti.gd.cn/">&nbsp;&nbsp;浈江区</option>
+                <option value="http://www.hysti.gd.cn/">- 河源金科网 -</option>
+                <option value="http://www.dy.sti.gd.cn/">&nbsp;&nbsp;东源县</option>
+                <option value="http://www.hpsti.gd.cn">&nbsp;&nbsp;和平县</option>
+                <option value="http://www.lcsti.gd.cn">&nbsp;&nbsp;龙川县</option>
+                <option value="http://www.zjkj.gd.cn">&nbsp;&nbsp;紫金区</option>
+                <option value="http://www.lpsti.gd.cn">&nbsp;&nbsp;连平区</option>
+                <option value="http://www.mz.sti.gd.cn">- 梅州金科网 -</option>
+                <option value="http://www.meijiang.gov.cn">&nbsp;&nbsp;梅江区</option>
+                <option value="http://www.meixian.gd.cn">&nbsp;&nbsp;梅县</option>
+                <option value="http://jk.jiaoling.gov.cn/">&nbsp;&nbsp;蕉岭县</option>
+                <option value="http://kjj.fengshun.gov.cn/">&nbsp;&nbsp;丰顺县</option>
+                <option value="http://www.whkj.gd.cn">&nbsp;&nbsp;五华县</option>
+                <option value="http://www.xingning.gd.cn">&nbsp;&nbsp;兴宁市</option>
+                <option value="http://www.pingyuan.gov.cn">&nbsp;&nbsp;平远县</option>
+                <option value="http://Sti.huizhou.gov.cn">- 惠州金科网 -</option>
+                <option value="http://www.huiyangsti.gd.cn">&nbsp;&nbsp;惠阳区</option>
+                <option value="http://www.huidongsti.gd.cn">&nbsp;&nbsp;惠东县</option>
+                <option value="http://kjj.boluo.gov.cn/">&nbsp;&nbsp;博罗县</option>
+                <option value="http://www.lmkjj.net">&nbsp;&nbsp;龙门县</option>
+                <option value="http://www.shanwei.sti.gd.cn/">- 汕尾金科网 -</option>
+                <option value="http://www.hfkjw.cn">&nbsp;&nbsp;海丰县</option>
+                <option value="http://www.lhsti.gd.cn">&nbsp;&nbsp;陆河县</option>
+                <option value="http://www.lufeng.gd.cn">&nbsp;&nbsp;陆丰市</option>
+                <option value="http://www.dgstb.gov.cn/">- 东莞科技网 -</option>
+                <option value="http://www.zskj.gov.cn/">- 中山科技网 -</option>
+                <option value="http://www.jmsc.gd.cn/jmstb/default.aspx">- 江门科技网 -</option>
+                <option value="http://www.jmsc.gd.cn">- 江门金科网 -</option>
+                <option value="http://www.pjkj.gov.cn">&nbsp;&nbsp;蓬江区</option>
+                <option value="http://kjj.heshan.gov.cn/">&nbsp;&nbsp;鹤山市</option>
+                <option value="http://www.gdenping.net">&nbsp;&nbsp;恩平市</option>
+                <!--<option value="http://www.tskj.gov.cn">&nbsp;&nbsp;台山市</option>-->
+                <option value="http://www.kpkj.com">&nbsp;&nbsp;开平市</option>
+                <option value="http://www.xhkj.gov.cn">&nbsp;&nbsp;新会区</option>
+                <option value="http://www.yjkjj.gov.cn">- 阳江科技网 -</option>
+                <option value="http://www.yangchun.gd.cn">&nbsp;&nbsp;阳春市</option>
+                <option value="http://www.yxkjj.gov.cn/">&nbsp;&nbsp;阳西县</option>
+                <option value="http://www.yangdong.gov.cn">&nbsp;&nbsp;阳东县</option>
+                <option value="http://www.zjst.net">- 湛江金科网 -</option>
+                <option value="http://www.cstb.gov.cn">&nbsp;&nbsp;赤坎区</option>
+                <option value="http://www.zjxs.gov.cn/ ">&nbsp;&nbsp;霞山区</option>
+                <option value="http://www.mzsti.net">&nbsp;&nbsp;麻章区</option>
+                <option value="http://www.ptsti.gd.cn">&nbsp;&nbsp;坡头区</option>
+                <option value="http://www.zetdz.gov.cn">&nbsp;&nbsp;经济技术开发区</option>
+                <option value="http://2009ljkj.no21.cuttle.com.cn/Index.html">&nbsp;&nbsp;廉江市</option>
+                <option value="http://net.suixi.gov.cn/com/sxtiger2005/main.php">&nbsp;&nbsp;遂溪县</option>
+                <option value="http://www.wuchuan.cn/">&nbsp;&nbsp;吴川市</option>
+                <option value="http://www.mmkjj.cn/">- 茂名科技网 -</option>
+                <option value="http://www.maonan.gov.cn/gzbm.asp?class_id=84.85.137">&nbsp;&nbsp;茂南区</option>
+                <option value="http://www.mgsti.net">&nbsp;&nbsp;茂港区</option>
+                <option value="http://www.dbkj.gov.cn/">&nbsp;&nbsp;电白县</option>
+                <option value="http://www.gaozhou.sti.gd.cn/">&nbsp;&nbsp;高州市</option>
+                <option value="http://www.xykjj.com/index.asp">&nbsp;&nbsp;信宜市</option>
+                <option value="http://www.hzsti.gd.cn">&nbsp;&nbsp;化州市</option>
+                <option value="http://www.zqsti.net/">- 肇庆金科网 -</option>
+                <option value="http://www.dzkj.gov.cn">&nbsp;&nbsp;端州区</option>
+                <option value="http://www.zqdh.com.cn">&nbsp;&nbsp;鼎湖区</option>
+                <option value="http://www.shsti.com">&nbsp;&nbsp;四会市</option>
+                <option value="http://www.gyjk.gd.cn">&nbsp;&nbsp;高要市</option>
+                <option value="http://www.gnsti.net">&nbsp;&nbsp;广宁县</option>
+                <option value="http://www.deqing.gd.cn">&nbsp;&nbsp;德庆县</option>
+                <option value="http://www.fksti.gd.cn">&nbsp;&nbsp;封开县</option>
+                <option value="http://www.huaiji.gd.cn">&nbsp;&nbsp;怀集县</option>
+                <option value="http://www.qysti.gd.cn">- 清远科技网 -</option>
+                <option value="http://www.qingyuan.net">- 清远金科网 -</option>
+                <option value="http://www.yingde.gd.cn">&nbsp;&nbsp;英德市</option>
+                <option value="http://www.fogang.gov.cn">&nbsp;&nbsp;佛冈县</option>
+                <option value="http://qxkn.qxgd.gov.cn">&nbsp;&nbsp;清新县</option>
+                <option value="http://www.lnkj.gd.cn">&nbsp;&nbsp;连南县</option>
+                <option value="http://www.lssti.gd.cn">&nbsp;&nbsp;连山县</option>
+                <option value="http://www.qingcheng.gov.cn/web/main/index.jsp">&nbsp;&nbsp;清城区</option>
+                <option value="http://www.yssti.gd.cn">&nbsp;&nbsp;阳山县</option>
+                <option value="http://www.czsti.gov.cn/">- 潮州金科网 -</option>
+                <option value="http://www.chaoan.sti.gd.cn">&nbsp;&nbsp;潮安县</option>
+                <option value="http://www.raoping.gov.cn/index.asp">&nbsp;&nbsp;饶平县</option>
+                <option value="http://www.czsti.net">&nbsp;&nbsp;湘桥区</option>
+                <option value="http://www.fengxiceramic.com">&nbsp;&nbsp;枫溪区</option>
+                <option value="http://www.jystb.gov.cn">- 揭阳科技网 -</option>
+                <option value="http://www.jdsti.cn">&nbsp;&nbsp;揭东县</option>
+                <option value="http://www.hui-lai.com">&nbsp;&nbsp;惠来县</option>
+                <option value="http://www.pnsti.gov.cn/">&nbsp;&nbsp;普宁市</option>
+                <option value="http://www.jiexi.gd.cn">&nbsp;&nbsp;揭西县</option>
+                <option value="http://www.yf.sti.gd.cn/">- 云浮金科网 -</option>
+                <option value="http://www.ldkj.gd.cn">&nbsp;&nbsp;罗定市</option>
+                <option value="http://www.xxsti.net">&nbsp;&nbsp;新兴县</option>
+                <option value="http://ynkj.sti.gd.cn">&nbsp;&nbsp;郁南县</option>
+                <option value="http://yakj.sti.gd.cn">&nbsp;&nbsp;云安县</option>
+                <option value="http://ycqkj.gov.cn/">&nbsp;&nbsp;云城区</option>
+            </select>            </td>
+            </form>
+            <form target="_blank">
+            <td align="center">
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:180 ">
+                <option selected>- 相关科技网站 -</option>
+                <option value="http://www.stifg.gd.cn/">广东科技投融资担保网</option>
+                <option value="http://gdsf.gdstc.gov.cn/ziran/">广东省自然科学基金</option>
+                <option value="http://kjxm.gdstc.gov.cn/">广东省科技兴贸网</option>
+                <option value="http://www.china-asean.gov.cn/index.jsp">中国东盟科技经济合作网</option>
+                <option value="http://www.gdsp.org.cn/">广东星火计划网</option>
+                <option value="http://www.lascn.net/">中国实验动物信息网</option>
+                <option value="http://www.medste.gd.cn/">广东省医药卫生信息网</option>
+                <option value="http://www.gdbgn.cn/">广东省生物种质资源网</option>
+                <option value="http://www.gdfish.cn/">广东淡水鱼类资源网</option>
+                <option value="http://www.pprd.org.cn/">泛珠三角合作信息网</option>
+                <option value="http://www.dizhen.ac.cn/">中国地震科普网</option>
+                <option value="http://www.southcn.com/tech/">南方网科技频道</option>
+                <option value="http://www.gdzjk.gov.cn/index.jsp">广东科技咨询专家库信息网</option>
+                <option value="http://www.nhtp.gov.cn">国家健康科技产业基地</option>
+                <option value="http://www.entrepark.com/home.asp">留学人员广州创业园</option>
+                <option value="http://www.zhuhai-hitech.com">珠海高新技术产业开发区</option>
+                <option value="http://www.ship.gov.cn/">深圳高新区</option>
+                <option value="http://www.vip1510.cn/">广州开发区信息网</option>
+                <option value="http://www.zstorch.gov.cn/cn/index.jsp">中山火炬高新技术开发区</option>
+                <option value="http://www.ssl.gov.cn">东莞松山湖科技产业园区</option>
+                <option value="http://www.hzzk.org">惠州仲恺高新技术产业开发区</option>
+                <option value="http://www.fs-hitech.gov.cn">佛山国家高新技术产业开发区</option>
+                <option value="http://www.swatow.gov.cn">汕头高新区信息网</option>
+                <!-- <option value="http://www.zqhz.gov.cn">肇庆高新技术开发区</option>-->
+                <option value="http://www.yjgx.com">阳江高新技术开发区</option>
+            </select>            </td>
+            </form>
+            <form target="_blank">
+            <td align="center">         
+            <select name=address onChange="javascript:window.open(this.options[this.selectedIndex].value)" style="width:100 ">
+                <option selected>- 各地市政府 -</option>
+                <option value="http://www.gz.gov.cn/">广州市</option>
+                <option value="http://www.sz.gov.cn/">深圳市</option>
+                <option value="http://www.zhuhai.gov.cn/">珠海市</option>
+                <option value="http://www.shantou.gov.cn/">汕头市</option>
+                <option value="http://www.foshan.gov.cn/">佛山市</option>
+                <option value="http://www.shaoguan.gov.cn/">韶关市</option>
+                <option value="http://www.heyuan.gov.cn/">河源市</option>
+                <option value="http://www.meizhou.gov.cn/">梅州市</option>
+                <option value="http://www.huizhou.gov.cn/">惠州市</option>
+                <option value="http://www.shanwei.gov.cn/">汕尾市</option>
+                <option value="http://web.dg.gov.cn/egov/index.jsp">东莞市</option>
+                <option value="http://www.zs.gov.cn/">中山市</option>
+                <option value="http://www.jiangmen.gov.cn/">江门市</option>
+                <option value="http://www.yangjiang.gov.cn/">阳江市</option>
+                <option value="http://www.zhanjiang.gov.cn/">湛江市</option>
+                <option value="http://www.maoming.gov.cn/">茂名市</option>
+                <option value="http://www.chaozhou.gov.cn/">肇庆市</option>
+                <option value="http://www.gdqy.gov.cn/">清远市</option>
+                <option value="http://www.chaozhou.gov.cn/index.html">潮州市</option>
+                <option value="http://www.jieyang.gov.cn/">揭阳市</option>
+                <option value="http://www.yunfu.gov.cn/">云浮市</option>
+            </select>            </td>
+            </form>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1004" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><iframe src="/main/tail.html" frameborder="0" scrolling="No" width="100%" height="85"></iframe></td>
+  </tr>
+</table>
+
+
+
+
+<map name="Map"><area shape="rect" coords="31,63,181,82" href="/zwgk/zfxxgk/xxgkml/index@1.htm">
+<area shape="rect" coords="30,98,182,119" href="/main/zwgk_zwxxgk_xxgkzn.html">
+<area shape="rect" coords="30,134,181,154" href="/main/zwgk_zwxxgk_xxgklc.html">
+<area shape="rect" coords="29,170,180,191" href="/main/zwgk_zwxxgk_xxgksq.html">
+<area shape="rect" coords="30,207,181,225" href="/zwgk/zfxxgk/xxgknb/index@1.htm">
+</map>
+<map name="Map2"><area shape="rect" coords="24,7,81,23" href="/zwgk/zwyw/index@1.htm" id="left1Tab" onMouseOver="MM_swapImage('Image12','','/images/title_left_tpxw.jpg',0)">
+<area shape="rect" coords="90,7,146,23" href="/kjbd/kjsp/index@1.htm" id="left2Tab">
+</map>
+<map name="Map3">
+  <area shape="rect" coords="345,20,441,87" href="/main/wzdh.html">
+  <area shape="rect" coords="236,20,332,87" href="/main/wzdh_jtzy.html">
+<area shape="rect" coords="128,20,224,87" href="/main/gzhd_rssdy.html"><area shape="rect" coords="21,20,117,87" href="/main/gzhd_yjdy.html"></map>
+
+<map name="Map4">
+  <area shape="rect" coords="152,0,212,20" href="#" id="q3Tab" onMouseOver="tabShow8(q3Tab,q2Tab,q1Tab,q3,q2,q1);MM_swapImage('Image16','','/images/button_zxhf_rdwt.gif',1)">
+  <area shape="rect" coords="74,0,134,20" href="#" id="q2Tab" onMouseOver="tabShow8(q2Tab,q1Tab,q3Tab,q2,q1,q3);MM_swapImage('Image16','','/images/button_zxhf_zxwt.gif',1)">
+<area shape="rect" coords="2,-1,62,19" href="#" id="q1Tab" onMouseOver="tabShow8(q1Tab,q2Tab,q3Tab,q1,q2,q3);MM_swapImage('Image16','','/images/button_zxhf_cjwt.gif',1)">
+</map>
+</body>
+</html>
